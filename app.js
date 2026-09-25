@@ -1,7 +1,7 @@
 (function () {
 'use strict';
 var RS = window.RS || { p1: [], p2: [], p3: [], p4: [] };
-['p1', 'p2', 'p3', 'p4'].forEach(function (k) { RS[k].sort(function (a, b) { return a.id < b.id ? -1 : 1; }); });
+['p1', 'p2', 'p3', 'p4'].forEach(function (k) { RS[k].sort(function (a, b) { return parseInt(a.id.split('-')[1], 10) - parseInt(b.id.split('-')[1], 10); }); });
 
 var PARTS = {
   1: { key: 'p1', name: 'Reading Correspondence', short: 'Correspondence', n: 11, min: 11 },
@@ -88,7 +88,7 @@ function evMap(its) { var m = new Map(), alias = {}; its.forEach(function (it) {
 function mark(raw, evs) {
   if (!evs || !evs.size) return esc(raw);
   var ranges = [];
-  evs.forEach(function (id, ev) { var i = raw.indexOf(ev); if (i >= 0) ranges.push([i, i + ev.length, id]); });
+  evs.forEach(function (id, ev) { if (ev.length < 4 && raw.trim() !== ev) return; var i = raw.indexOf(ev); if (i >= 0) ranges.push([i, i + ev.length, id]); });
   ranges.sort(function (a, b) { return a[0] - b[0]; });
   var html = '', pos = 0;
   ranges.forEach(function (r) { if (r[0] < pos) return; html += esc(raw.slice(pos, r[0])) + '<mark class="ev" id="' + r[2] + '" tabindex="-1">' + esc(raw.slice(r[0], r[1])) + '</mark>'; pos = r[1]; });

@@ -1139,6 +1139,1113 @@ b:[
 ]
 });
 
+RS.p1.push({
+id:"p1-26", lv:"H", tt:"From classroom to UX design", from:"Leila", to:"Omar",
+text:`Hi Omar,
+
+I hope the new role at the agency is everything you hoped. I'm writing because I'm finally taking your advice seriously, or at least half of it.
+
+After nine years of teaching Grade 6, I've decided I want to move into UX design. You'll laugh, but it was your talk at our school's career day that planted the idea. I've been doing free online courses at night since the spring, and I've redesigned the school's library website as a practice project. The librarian says checkouts have gone up since the change, although I suspect the new graphic novels have more to do with it than my buttons.
+
+Here's my dilemma. There's a twelve-week full-time bootcamp in Toronto that costs $14,000 and promises 'career support.' The alternative is a part-time university certificate that takes eighteen months and costs about a third as much. The bootcamp is faster, but I would have to take an unpaid leave from teaching, and my board only allows one such leave per career. If I use it now and the switch doesn't work out, I'd have no safety net later.
+
+I'm also unsure how much my teaching background counts. Some people online say hiring managers value it, since teachers spend all day studying how people learn. Others say it will be dismissed as unrelated experience.
+
+Would you be willing to look at my portfolio before I decide anything? I'd rather hear the hard truths from you than from a recruiter. I'll happily buy you lunch near your office any day next week.
+
+Thanks,
+Leila`,
+q:[
+["What does Leila mean by 'at least half of it'?",["She is following only part of Omar's earlier advice.","She has finished half of her online courses.","She agrees with Omar about only one of two job offers.","She has spent half her savings on a bootcamp."],"or at least half of it","She is taking some, not all, of his advice seriously."],
+["What does Leila suggest about the library website project?",["It may not be the real reason checkouts increased.","It was paid work arranged by the school board.","It was the main reason the librarian hired her.","It has not yet been shown to anyone at school."],"I suspect the new graphic novels have more to do with it than my buttons","She jokes that the new books, not her design, raised checkouts."],
+["How does the certificate compare with the bootcamp?",["It takes longer but costs much less.","It costs more but includes career support.","It is shorter and requires an unpaid leave.","It costs the same and is offered online only."],"costs about a third as much","Eighteen months vs twelve weeks, at about a third of the price."],
+["Why is Leila hesitant to take an unpaid leave?",["She can use that option only once.","Her principal has already refused one.","She could not afford to lose her salary.","The bootcamp does not accept teachers."],"my board only allows one such leave per career","Only one leave per career; using it now removes her safety net."],
+["What is Leila unsure about?",["Whether employers will value her work history","Whether Omar's agency is hiring designers","Whether online courses are recognized in Ontario","Whether she should leave Toronto to study"],"I'm also unsure how much my teaching background counts","She is unsure if teaching experience will count."],
+["Why does Leila want Omar to see her portfolio?",["She wants honest criticism from someone she trusts.","A recruiter has asked him for a reference.","Omar designed the school website with her.","She needs him to approve her bootcamp application."],"I'd rather hear the hard truths from you than from a recruiter","She wants the 'hard truths' from him."]
+],
+reply:`Hi Leila,
+
+This is great news, and I'm flattered my career day talk [[7]]!
+
+On the big question, I'd choose the certificate. The bootcamp's 'career support' is often just a few resume workshops, and eighteen months of part-time study would let you [[8]] while keeping your salary. More importantly, you wouldn't have to use up your [[9]] on something that might not work out.
+
+As for your background, ignore the doubters. The best researchers on my team came from teaching, because they're used to [[10]].
+
+Send me the portfolio link and I'll go through it this weekend. And lunch sounds great, but only if you let me [[11]] next time.
+
+Omar`,
+b:[
+[["had that effect","was so boring","went so badly","was cancelled"],"it was your talk at our school's career day that planted the idea","His talk planted the idea, so it 'had that effect'."],
+[["build more projects","travel more often","teach full-time at a college","sell your old portfolio"],null,"A long part-time program leaves time to build more portfolio projects."],
+[["one leave","bootcamp place","summer holiday","teaching licence"],"my board only allows one such leave per career","She can take only one leave per career."],
+[["watching how people learn","working very long weekends","designing school websites","speaking at career days"],"teachers spend all day studying how people learn","Teachers study how people learn, which is useful in UX research."],
+[["pay","choose","cancel","cook"],"I'll happily buy you lunch","She offered to pay, so he wants to pay next time."]
+]
+});
+
+RS.p1.push({
+id:"p1-27", lv:"H", tt:"The exchange student's curfew", from:"Marie", to:"Anne",
+text:`Dear Anne,
+
+I need a sensible outside opinion, and you raised three teenagers without losing your sense of humour, so you're the obvious choice.
+
+As you know, we agreed to host Tomás, a sixteen-year-old exchange student from Chile, for the school year. For the first two months, things went beautifully. He's polite, he cooks a wonderful empanada, and he's even taught our daughter a few words of Spanish, most of which I'm told are not rude.
+
+The trouble started when his new friends began inviting him out on weekends. The exchange program's rules say students must be home by eleven, but Tomás says that in Santiago he regularly stayed out until one, and that his parents have emailed us to say they're comfortable with midnight. Paul thinks we should follow the program's rules to the letter, since we signed an agreement and we'd be responsible if anything happened. I understand his point, but I worry that being stricter than his own parents will make Tomás feel like a prisoner in our home.
+
+Last Saturday he came home at 11:40 without calling, and Paul was waiting in the kitchen. There were no raised voices, but the atmosphere at breakfast was chilly, to say the least. Since then, Tomás has been spending more time in his room.
+
+The program coordinator has offered to meet all three of us next week. Before that meeting, I'd love to know how you handled curfews with your boys, and whether you think a compromise is even possible when there's an official rule involved.
+
+With love,
+Marie`,
+q:[
+["Why did Marie choose to write to Anne?",["Anne has experience raising teenagers calmly.","Anne works for the exchange program.","Anne has hosted students from Chile before.","Anne is a friend of Tomás's parents."],"you raised three teenagers without losing your sense of humour","Anne raised three teenagers and kept her sense of humour."],
+["What does Marie say about the Spanish words her daughter learned?",["She has been told they are not offensive.","Her daughter uses them to be rude.","They were taught at the school.","They are mostly words for the food Tomás likes to cook."],"most of which I'm told are not rude","A joke: she's been told most are not rude."],
+["What is the source of the disagreement about curfew?",["The program's rule is stricter than what his parents allow.","Tomás refuses to follow any rules.","His parents want him home by eleven.","The school has recently changed its own curfew policy for students."],"his parents have emailed us to say they're comfortable with midnight","Program: 11. Parents: midnight."],
+["Why does Paul want to follow the rules exactly?",["The family could be held responsible if something happened.","He does not trust Tomás's new friends.","Tomás's parents asked him to be strict.","He thinks eleven o'clock is already far too late for a teenager."],"we'd be responsible if anything happened","They signed an agreement and would be responsible."],
+["What happened after last Saturday?",["Tomás has been keeping to himself more.","Paul and Tomás argued loudly.","Tomás apologized at breakfast.","Marie changed the curfew to midnight."],"Tomás has been spending more time in his room","He spends more time in his room."],
+["What does Marie want before the meeting?",["Advice based on Anne's own experience","Anne to attend the meeting with them","A copy of the program's agreement","Help contacting Tomás's parents"],"I'd love to know how you handled curfews with your boys","She wants to know how Anne handled curfews."]
+],
+reply:`Dear Marie,
+
+Your letter made me smile, especially the part about the Spanish lessons. Teenagers always learn the [[7]] first.
+
+With my boys, the rule that worked best wasn't a time at all. It was that they had to [[8]] if they were going to be late. What upset Paul on Saturday, I suspect, wasn't the forty minutes but the [[9]].
+
+I think Paul is right that you can't simply ignore the program's rules. However, you could ask the coordinator whether the rule can be adjusted when the [[10]] agree in writing. Programs often allow that.
+
+Most importantly, talk to Tomás before the meeting, so he doesn't feel the adults are [[11]] him.
+
+Love,
+Anne`,
+b:[
+[["words you'd rather they didn't","verbs before the nouns","polite greetings","names of foods"],"most of which I'm told are not rude","A joke: teenagers learn the rude words first."],
+[["call home","come home by ten","bring a friend","pay a fine"],"he came home at 11:40 without calling","The key rule was calling, which Tomás didn't do."],
+[["silence","distance","breakfast","empanadas"],"without calling","Paul was upset by the lack of a call, i.e. the silence."],
+[["host family and his parents","school and his friends","coordinator and the school","two families in Chile"],"his parents have emailed us to say they're comfortable with midnight","Both host family and parents would agree."],
+[["deciding things behind","cooking for","speaking Spanish to","laughing with"],null,"Talking first avoids him feeling that adults decide behind his back."]
+]
+});
+
+RS.p1.push({
+id:"p1-28", lv:"H", tt:"The flooded basement claim", from:"Dmitri", to:"Grace",
+text:`Hi Grace,
+
+You told me once that you spent a year fighting your insurance company after the hailstorm, so I'm hoping you can tell me whether I'm being reasonable or just stubborn.
+
+In April, heavy rain caused water to come up through the floor drain in our basement. We lost the carpet, a sofa, and most of the drywall along one wall. We have what I believed was comprehensive home insurance, and I called the company the same afternoon. An adjuster came two days later, took photos, and told us everything looked straightforward.
+
+Three weeks later, we received a letter denying most of the claim. It says our policy covers 'sewer backup' only if we purchased an additional endorsement, which apparently we didn't. They've agreed to pay for the drywall under a different section, but not the carpet or the sofa, which together cost about six thousand dollars. What frustrates me is that our broker, who sold us the policy, assured us at the time that we were 'covered for water.' He has since retired, and the office says they have no notes from our meeting.
+
+My wife thinks we should accept the partial payment and move on, since the process is taking up our weekends. I'm inclined to file a formal complaint with the company's ombudsman, but I'm worried it could take months and end with the same answer.
+
+What did you do when your claim was denied? And do you think the broker's promise counts for anything if it was never written down?
+
+Thanks,
+Dmitri`,
+q:[
+["Why did Dmitri write to Grace?",["She has experience disputing an insurance decision.","She works for his insurance company.","She recommended his insurance broker.","She also had water damage in her basement during the April rain."],"you spent a year fighting your insurance company after the hailstorm","She fought her insurer for a year."],
+["What was the adjuster's first impression?",["The claim seemed simple.","Most of the damage was not covered.","The drain had been installed badly.","The family had waited too long to call."],"told us everything looked straightforward","'Straightforward' = simple."],
+["Why was most of the claim denied?",["An optional extra coverage had not been bought.","The damage was caused by the family.","The claim was submitted too late.","The adjuster's photos were too unclear to support the claim."],"only if we purchased an additional endorsement, which apparently we didn't","They lacked the sewer-backup endorsement."],
+["What will the company pay for?",["The walls","The carpet","The sofa","All the damage"],"They've agreed to pay for the drywall under a different section","Drywall only."],
+["Why is it hard to prove what the broker said?",["There is no written record of the conversation.","The broker refuses to talk to Dmitri.","The office has closed permanently.","Dmitri's wife was not present at the original meeting with him."],"the office says they have no notes from our meeting","No notes exist."],
+["Why does Dmitri's wife want to accept the payment?",["The dispute is using up their free time.","She thinks the company is right.","She wants to move to a new house.","The ombudsman has already refused them."],"the process is taking up our weekends","It takes up their weekends."]
+],
+reply:`Hi Dmitri,
+
+I'm sorry to hear about the basement. Unfortunately, your story sounds very familiar. The company's argument will probably [[7]], because the endorsement clearly wasn't on your policy.
+
+The broker's promise is the weak point. Without anything in writing, it's his word against [[8]], and he's retired. Still, check your old emails. When I found a single message from my agent, it [[9]] my whole case.
+
+As for the ombudsman, it did take me about four months, but in the end I got most of my money back. I'd say file the complaint, but agree with your wife on a limit, maybe [[10]] of work, so it doesn't swallow your summer.
+
+And whatever happens, buy the [[11]] now!
+
+Grace`,
+b:[
+[["hold up","fall apart","be withdrawn","cost them money"],"only if we purchased an additional endorsement","Legally the denial is likely to stand (hold up)."],
+[["nobody's","the adjuster's","your wife's","the company's lawyer's"],"the office says they have no notes","With no notes and the broker retired, there is no other witness."],
+[["changed","ended","delayed","weakened"],null,"One email changed her whole case."],
+[["a few weekends","six thousand dollars","four years","one afternoon"],"the process is taking up our weekends","The wife's concern is weekends, so limit the weekends spent."],
+[["sewer backup endorsement","new sofa","extra carpet","hailstorm cover"],"covers 'sewer backup' only if we purchased an additional endorsement","Buy the missing endorsement."]
+]
+});
+
+RS.p1.push({
+id:"p1-29", lv:"H", tt:"An awkward reference request", from:"Hannah", to:"Mr. Patel",
+text:`Dear Mr. Patel,
+
+I hope you are well and that the new clinic in Mississauga is running smoothly. It has been almost two years since I left Brightside Dental, but I still think of your team often, especially during Friday afternoon rushes.
+
+I am writing to ask whether you would be willing to act as a reference for me. I have been shortlisted for an office manager position at a large orthodontic practice in Oakville. The role would involve supervising six front-desk staff and managing the billing system, both of which I did informally during your absence in 2022.
+
+I realize the timing is a little awkward. When I left Brightside, I gave only two weeks' notice during your busiest season, and I know it created real difficulties for the team. At the time, my father's health made it necessary for me to move closer to home quickly, but I never properly explained that to you, and I have regretted it since.
+
+The hiring manager has said she will call references on Thursday or Friday of next week. If you are comfortable speaking with her, I would be happy to send you a copy of the job description and a short summary of the projects I worked on, so you don't have to rely on memory. If you would prefer not to, I completely understand, and there is no need to explain.
+
+Thank you for considering this, and for everything I learned while working with you.
+
+Kind regards,
+Hannah Reyes`,
+q:[
+["What does Hannah say about Friday afternoons?",["They remind her of the busy times at her old job.","She now works only on Friday afternoons.","Mr. Patel's clinic is closed then.","They are when most job interviews are usually scheduled."],"especially during Friday afternoon rushes","She remembers the team during Friday rushes."],
+["Why is Hannah qualified for the new job?",["She did similar tasks while her manager was away.","She has a degree in office management.","She managed the Mississauga clinic.","She once trained the front-desk staff at the Oakville practice."],"both of which I did informally during your absence in 2022","She did those tasks informally in 2022."],
+["Why does Hannah call the timing 'awkward'?",["She left her previous job in a way that caused problems.","Mr. Patel is too busy to take calls.","The job starts during a holiday.","She has applied to a practice that competes directly with his clinic."],"I know it created real difficulties for the team","Her short notice caused difficulties."],
+["What does Hannah regret?",["Not explaining why she had to leave","Moving closer to her family","Working at Brightside for so long","Applying for the Oakville position"],"I never properly explained that to you, and I have regretted it since","She never explained her reason."],
+["What does Hannah offer to send?",["Information to refresh his memory","A letter of apology from her father","The hiring manager's phone number","Her salary expectations"],"so you don't have to rely on memory","The job description and a summary of her projects."],
+["What is Hannah's attitude if he says no?",["She will accept it without question.","She will ask again later.","She will be disappointed and upset.","She will contact another manager at his clinic."],"there is no need to explain","She'll understand and needs no explanation."]
+],
+reply:`Dear Hannah,
+
+What a pleasant surprise to hear from you. Yes, I would be glad to [[7]].
+
+I won't pretend your departure was easy for us; that September was [[8]]. But thank you for explaining the reason. Family must come first, and I hope your father is doing better now.
+
+Please do send me the job description. It has been a while, and I'd like to [[9]] before the call. I remember you handled the billing well when I was away, and I will certainly [[10]] to the hiring manager.
+
+I'm in clinic all day Thursday, so Friday would [[11]] for the call.
+
+Best wishes,
+Raj Patel`,
+b:[
+[["be a reference for you","hire you back","visit you in Oakville","call your father"],"whether you would be willing to act as a reference for me","He agrees to be a reference."],
+[["a difficult month","our quietest month","a great success","your final year"],"it created real difficulties for the team","Her short notice made that month difficult."],
+[["refresh my memory","change my mind","update my clinic","hire new staff"],"so you don't have to rely on memory","He wants to refresh his memory."],
+[["mention that","hide that","forget that","question that"],"managing the billing system","He will mention her billing work."],
+[["work better","be impossible","be too late","be cancelled"],"will call references on Thursday or Friday","Busy Thursday, so Friday works better."]
+]
+});
+
+RS.p1.push({
+id:"p1-30", lv:"H", tt:"Pre-construction or resale?", from:"Jun", to:"Ravi",
+text:`Hey Ravi,
+
+Congratulations again on closing on your townhouse! Now that you've survived the process, I'm hoping you'll share some of your hard-earned wisdom, because Mei and I are finally ready to buy.
+
+We've narrowed it down to two options. The first is a one-bedroom-plus-den in a pre-construction tower near Finch station. The developer is offering a lower price than anything similar on the resale market, and we'd only need to put down 20 percent in stages over the next two years. The catch is that the building won't be finished until 2029, and my coworker bought in a similar project that has already been delayed three times.
+
+The second is a resale unit in a fifteen-year-old building in North York. It's slightly smaller and about $40,000 more expensive, and the monthly condo fees are high because the building needs new elevators. On the plus side, we could move in by spring, which would mean we'd stop paying rent immediately.
+
+Mei is leaning toward the resale unit. She says she'd rather pay more now than spend four years wondering whether the tower will ever be built. I keep thinking about the lower price and the fact that we'd be the first people to live in the unit.
+
+You looked at both types before choosing your townhouse, didn't you? What made you decide? And is there anything you wish someone had told you before you signed?
+
+Cheers,
+Jun`,
+q:[
+["What does Jun mean by 'you've survived the process'?",["Buying a home was difficult for Ravi.","Ravi was injured while moving.","Ravi's sale was cancelled.","Ravi used to work as a real estate agent himself."],"Now that you've survived the process","A light way to say buying was hard."],
+["What is an advantage of the pre-construction unit?",["It costs less than similar existing units.","It can be moved into by spring.","It has lower condo fees.","It is larger than the resale unit and has a den."],"a lower price than anything similar on the resale market","Lower price than resale."],
+["Why is Jun worried about the tower?",["Similar projects have faced long delays.","The developer has gone bankrupt.","It is too far from the subway.","The whole deposit must be paid in one payment now."],"has already been delayed three times","His coworker's project was delayed three times."],
+["Why are the resale unit's fees high?",["The building needs major repairs.","It includes parking and storage.","It is in a very new building.","The unit is larger than average."],"the building needs new elevators","New elevators are needed."],
+["What does Mei value most?",["Certainty about when they can move","Being the first owners of the unit","Saving money on the purchase price","Living close to Jun's workplace"],"she'd rather pay more now than spend four years wondering","She prefers certainty over a lower price."],
+["What does Jun ask Ravi at the end?",["What advice he wishes he had received","Whether he would sell his townhouse","How much his mortgage costs","Whether he knows a good lawyer"],"is there anything you wish someone had told you before you signed","What he wishes he'd been told."]
+],
+reply:`Hey Jun,
+
+Thanks! And yes, "survived" is the right word.
+
+We did look at a pre-construction unit, and I was tempted for the same reason you are: the [[7]]. But in the end, we chose resale because we'd have kept paying rent for years. When you add four years of rent, that cheaper price [[8]] very quickly.
+
+I'd also be careful about your coworker's experience. Delays like that are [[9]], not the exception.
+
+If you do go with the resale unit, ask for the building's reserve fund study. It will tell you whether the elevators are the only [[10]] coming.
+
+Honestly, I think Mei is [[11]] on this one. Tell her I said so!
+
+Ravi`,
+b:[
+[["lower price","larger balcony","older building","higher fees"],"a lower price than anything similar","The lower price tempted him."],
+[["stops looking cheap","becomes even cheaper","stays exactly the same","gets paid by the developer"],"we'd stop paying rent immediately","Adding years of rent cancels the saving."],
+[["common","illegal","very rare","impossible"],"has already been delayed three times","He suggests delays are common."],
+[["big expense","new neighbour","free upgrade","parking space"],"the building needs new elevators","A reserve fund study shows other big expenses."],
+[["right","wrong","unsure","too late"],null,"He agrees with Mei's choice: resale."]
+]
+});
+
+RS.p1.push({
+id:"p1-31", lv:"H", tt:"A wave of bad reviews", from:"Paolo", to:"Sofia",
+text:`Ciao Sofia,
+
+I need your marketing brain. Something strange is happening at the restaurant, and I'm not sure whether to fight it or ignore it.
+
+Over the past ten days, our page on a popular review site has received eleven one-star reviews. Before that, we averaged 4.6 stars from nearly four hundred reviews. The new ones are oddly similar: most complain about 'cold pasta' and 'rude staff,' and several were posted within minutes of each other on nights when we were closed for a private event. None of the reviewers has ever reviewed another restaurant.
+
+My first instinct was to reply to each one angrily and point out that we weren't even open. Luckily, my daughter stopped me before I pressed 'post.' She says angry replies look worse to customers than the bad reviews themselves.
+
+I've reported the reviews to the website, but they say it can take up to thirty days to investigate, and they won't tell me who posted them. My rating has already dropped to 4.2, and Friday bookings are down by about a fifth compared with last month. I have my suspicions, since a competitor opened across the street in the summer, but I have absolutely no proof.
+
+What would you do in my place? Should I ask regular customers to post reviews, or would that make things look even more suspicious? And is it worth talking to a lawyer at this stage?
+
+Grazie,
+Paolo`,
+q:[
+["What makes Paolo doubt the new reviews?",["Some were posted when the restaurant was not open to the public.","They were all written in Italian.","They praised a competitor's food.","They came from regular customers who had eaten there many times."],"on nights when we were closed for a private event","Posted on nights they were closed to the public."],
+["What else is unusual about the reviewers?",["They have no other reviews.","They all use the same name.","They have visited many times.","They live outside Canada."],"None of the reviewers has ever reviewed another restaurant","No other reviews."],
+["What did Paolo's daughter advise?",["Not to respond in anger","To reply to every review quickly","To close the restaurant for a week","To report the competitor to police"],"angry replies look worse to customers than the bad reviews themselves","Angry replies look worse."],
+["What is the website's position?",["It will look into the reviews but slowly.","It has already removed the reviews.","It refuses to investigate.","It will share the names of the reviewers after thirty days."],"it can take up to thirty days to investigate","Up to thirty days."],
+["What has happened to the business?",["Weekend reservations have fallen.","The restaurant has lost staff.","Food costs have gone up.","The rating has improved slightly."],"Friday bookings are down by about a fifth","Friday bookings are down."],
+["What does Paolo suspect?",["A nearby business may be responsible.","His staff wrote the reviews.","Customers are unhappy with new prices.","The website made an error."],"a competitor opened across the street in the summer","He suspects the new competitor."]
+],
+reply:`Ciao Paolo,
+
+What a nightmare. Your daughter gave you excellent advice, by the way. An angry reply would have [[7]].
+
+Here's what I'd do. Write one calm, polite public response to the reviews, stating the dates [[8]]. Readers will draw their own conclusions.
+
+Don't ask customers to post reviews on your behalf. The website's system may flag a sudden wave of five-star reviews as [[9]] too, and you could lose even more.
+
+A lawyer might help later, but without [[10]], you have very little to work with. For now, keep screenshots of everything and be patient with the website.
+
+And remember, four hundred [[11]] don't disappear because of eleven fake ones.
+
+Sofia`,
+b:[
+[["made things worse","solved the problem","brought in customers","deleted the reviews"],"angry replies look worse to customers than the bad reviews themselves","It would have made things worse."],
+[["the restaurant was closed","the chef was away","the pasta was cold","the staff were rude"],"on nights when we were closed for a private event","State that you were closed those nights."],
+[["suspicious","helpful","normal","honest"],"would that make things look even more suspicious","A wave of positive reviews could also look suspicious."],
+[["proof","customers","reviews","staff"],"I have absolutely no proof","Without proof, a lawyer has little to use."],
+[["good reviews","competitors","bookings","complaints"],"we averaged 4.6 stars from nearly four hundred reviews","His 400 good reviews still count."]
+]
+});
+
+RS.p1.push({
+id:"p1-32", lv:"H", tt:"Caring for Dad", from:"Nadia", to:"Sam",
+text:`Dear Sam,
+
+I've been putting off writing this, partly because I'm not sure what I want to say, and partly because saying it makes the decision feel real.
+
+As you know, Dad's memory has become noticeably worse since the fall. Last week he left the stove on twice, and on Sunday a neighbour found him walking toward the old house on Elm Street, which he sold eleven years ago. The doctor has told us plainly that he shouldn't live alone anymore.
+
+We seem to have two options. The first is for Dad to move in with us. We have the spare room on the ground floor, and I work from home three days a week. However, Michael is worried about how it would affect the kids, especially Emma, who is preparing for university applications and already finds the house too noisy to study. The second is Maplewood, the care home near the hospital. It has a good reputation and a secure memory care unit, but there's a waiting list of about four months, and it costs more than Dad's pension covers.
+
+I know you're in Calgary and can't be here day to day, and I'm not asking you to be. But you've always been the one Dad listens to, and I think he would take the news better from you. I'd also like us to agree on how to share the costs if we choose Maplewood, before we're both too tired to discuss it calmly.
+
+Could we talk on the phone this weekend? Saturday morning would be best, before Emma's shift at the bakery.
+
+Love,
+Nadia`,
+q:[
+["Why did Nadia delay writing to Sam?",["Writing about it makes the decision seem final.","She was waiting for the doctor's report.","Sam had not answered her previous message.","She was too busy with work."],"saying it makes the decision feel real","It makes the decision feel real."],
+["What happened on Sunday?",["Their father got lost trying to go to his former home.","Their father sold the house on Elm Street.","A neighbour called the doctor.","Their father fell in the kitchen after leaving the stove on."],"a neighbour found him walking toward the old house on Elm Street","He was walking to a house he sold years ago."],
+["What is Michael's concern?",["The effect on their children","The cost of care","The size of the spare room","Nadia's work schedule"],"Michael is worried about how it would affect the kids","How it affects the kids."],
+["What is a drawback of Maplewood?",["There is a delay before a place is available.","It is far from the hospital.","It has no special unit for memory loss.","It has a poor reputation among families in the area."],"there's a waiting list of about four months","A four-month waiting list, plus the cost."],
+["Why does Nadia want Sam's help with their father?",["Their father is more likely to accept the news from Sam.","Sam is a doctor.","Sam lives closer to Maplewood.","Sam is able to visit their father every single day."],"he would take the news better from you","Dad listens to Sam."],
+["Why does Nadia want to discuss costs soon?",["To avoid a stressful argument later","Because Maplewood needs payment this week","Because Sam asked her to","Because Emma needs money for university"],"before we're both too tired to discuss it calmly","To discuss it calmly while they can."]
+],
+reply:`Dear Nadia,
+
+Thank you for writing, and for [[7]] so much of this on your own. I know I haven't been much help from Calgary.
+
+Given what the doctor said, I don't think Dad moving in with you is fair to anyone, especially Emma. She needs [[8]] right now. I'd suggest we put Dad's name on the Maplewood list immediately, since the [[9]] is so long, and look into home care visits until a place opens.
+
+As for costs, I'm happy to cover the [[10]] between his pension and the monthly fee. You're already giving your time, which is worth far more.
+
+I'll call Saturday at nine your time, before Emma [[11]]. And yes, I'll talk to Dad.
+
+Love,
+Sam`,
+b:[
+[["handling","ignoring","avoiding","celebrating"],null,"He thanks her for handling it alone."],
+[["a quiet place to study","a new bakery job","a car","more exams"],"already finds the house too noisy to study","Emma needs quiet to study."],
+[["waiting list","drive","visiting hour","phone call"],"there's a waiting list of about four months","The waiting list is long."],
+[["difference","whole fee","first month","deposit"],"it costs more than Dad's pension covers","He will pay the difference."],
+[["leaves for work","starts university","calls Dad","visits Maplewood"],"before Emma's shift at the bakery","Emma has a bakery shift."]
+]
+});
+
+RS.p1.push({
+id:"p1-33", lv:"H", tt:"The class reunion deposit", from:"Kevin", to:"Priya",
+text:`Hi Priya,
+
+I hope you're enjoying Vancouver. I'm writing about our ten-year reunion, and I'm afraid I need to ask for your help with something I should have handled better.
+
+As you know, I volunteered to organize it, and in March I booked the upstairs room at the Harbour Grill for June 21st. The restaurant asked for a $1,500 deposit, which I paid with my own credit card on the understanding that I'd collect $40 from each guest. At the time, eighty people had said they'd come.
+
+Unfortunately, only thirty-one people have actually paid so far, and the restaurant needs the final guest count by June 1st. The contract says that if fewer than fifty guests attend, we lose the room and half the deposit. I've sent three reminder emails, but most people haven't replied at all. I suspect many of them assumed 'interested' on the social media event meant the same as registering.
+
+I don't want to cancel, because the people who have paid are really looking forward to it, and a few are flying in from overseas. One idea is to move to a smaller room on the main floor, which the restaurant says we can do without a penalty, although it has no view of the water. Another is to open the event to partners and spouses, which might push us over fifty.
+
+You were class president and always had a talent for getting people to show up. Would you be willing to send a message to the class group from your account? People might pay more attention to you than to me.
+
+Thanks, and sorry to drag you into this,
+Kevin`,
+q:[
+["How did Kevin pay the deposit?",["With his own money","With money collected from guests","With the class president's card","He has not paid it yet"],"which I paid with my own credit card","His own card."],
+["What will happen if fewer than fifty people attend?",["The group will lose the room and part of the deposit.","The restaurant will charge extra.","The event will move outdoors.","The guests who have paid will receive a full refund."],"we lose the room and half the deposit","Room and half the deposit."],
+["Why does Kevin think people have not paid?",["They confused showing interest with signing up.","They cannot afford $40.","They did not receive his emails.","They would prefer to hold the reunion at a different restaurant."],"many of them assumed 'interested' on the social media event meant the same as registering","They thought 'interested' meant registered."],
+["Why doesn't Kevin want to cancel?",["Some guests are travelling a long way.","He would lose the full deposit.","The restaurant refuses to cancel.","Priya has already bought a ticket."],"a few are flying in from overseas","Some are flying in from overseas."],
+["What is the drawback of the smaller room?",["It does not overlook the water.","It costs more money.","It cannot hold thirty people.","It is available only on another date."],"it has no view of the water","No view of the water."],
+["Why does Kevin ask Priya to send a message?",["People might respond better to her.","She has the guest list.","She lives near the restaurant.","She organized the last reunion."],"People might pay more attention to you than to me","People may pay more attention to her."]
+],
+reply:`Hi Kevin,
+
+Please don't apologize. You've done far more than anyone else, and it isn't your fault that people [[7]].
+
+I'm happy to post in the class group tonight. I'll make it very clear that clicking 'interested' is [[8]], and I'll give everyone until May 25th to pay, so you still have time before the restaurant's deadline.
+
+I also love the idea of inviting partners. It would make the evening livelier, and it might [[9]].
+
+If we still don't reach fifty by then, let's take the [[10]]. Honestly, people will be too busy catching up to notice the view.
+
+And please let me [[11]] if you end up short on the deposit. You shouldn't have to carry that alone.
+
+Priya`,
+b:[
+[["don't read their email","can't afford tickets","dislike the restaurant","live overseas"],"most people haven't replied at all","People ignored his emails."],
+[["not the same as paying","a good start","enough for now","against the rules"],"assumed 'interested' on the social media event meant the same as registering","'Interested' is not registering."],
+[["get us over fifty","cost us more","reduce the numbers","cancel the booking"],"which might push us over fifty","Partners might push numbers over fifty."],
+[["smaller room","refund","waterfront room","later date"],"we can do without a penalty","The smaller room has no penalty."],
+[["help","know","decide","wait"],null,"She offers to help with the deposit."]
+]
+});
+
+RS.p1.push({
+id:"p1-34", lv:"H", tt:"The damaged dining table", from:"Tariq", to:"Joanne",
+text:`Hi Joanne,
+
+I'm hoping you can give me some advice, since you've run your pottery shop for years and must have dealt with every kind of customer.
+
+Last month I sold a walnut dining table to a couple in Guelph. It was my most expensive piece so far, and they paid $3,200. Because they don't own a truck, I delivered it myself and helped carry it inside. They seemed delighted and even sent me a photo of it set for dinner that evening.
+
+Two weeks later, the wife emailed to say that a long crack had appeared across the top, and she wants a full refund. I asked for photos, and the crack is real. The problem is that it's almost certainly caused by heat: in one of the pictures, the table is right next to a baseboard heater, and walnut can split when it dries out too quickly. I explained this in my care instructions, which I included with the delivery, but she says nobody reads those.
+
+I don't want to be unfair, and I certainly don't want a bad review, since most of my orders come from word of mouth. But I also can't afford to refund the whole amount and lose the table, which I'd struggle to sell now. I could repair the crack, which would take about a week, or offer a partial refund.
+
+How would you handle it? And do you think I should start asking customers to sign something confirming they've read the care instructions?
+
+Thanks for listening,
+Tariq`,
+q:[
+["Why does Tariq ask Joanne for advice?",["She has long experience with customers.","She sold him the walnut wood.","She lives near the customers in Guelph.","She reviewed his table online."],"you've run your pottery shop for years","She has run a shop for years."],
+["What shows the couple were happy at first?",["They sent a photo of the table in use.","They wrote a review online.","They ordered a second table.","They paid extra so the table would be delivered quickly."],"even sent me a photo of it set for dinner","They sent a photo."],
+["What most likely caused the crack?",["The table was placed too close to a heat source.","Tariq used low-quality wood.","The table was damaged during delivery.","The couple dropped something heavy on the table top."],"the table is right next to a baseboard heater","A heater dried out the wood."],
+["What did the customer say about the care instructions?",["People don't usually read them.","They were not included.","They were too complicated.","They were in the wrong language."],"she says nobody reads those","Nobody reads them."],
+["Why is Tariq worried about a bad review?",["Most of his sales come from recommendations.","He is new to the website.","He wants to open a shop.","The couple know many other furniture makers in Guelph."],"most of my orders come from word of mouth","Word of mouth drives his sales."],
+["What is Tariq's position on a full refund?",["It would be too costly for him.","It is the fairest solution.","He has already given one.","He will give one if the review is removed."],"I also can't afford to refund the whole amount","He can't afford it."]
+],
+reply:`Hi Tariq,
+
+What a frustrating situation. I've been through similar things with glazes cracking in the dishwasher, even though the label says [[7]].
+
+My advice is to offer the repair first, and to do it [[8]]. Explain the heater issue kindly, without making her feel [[9]]. People accept a lot when they feel you're on their side.
+
+If she still isn't satisfied, then a partial refund is reasonable. But I wouldn't take the table back.
+
+As for a signature, it may feel [[10]] at first, but I started doing it three years ago, and it's saved me several times. Just keep it short and friendly.
+
+Good luck, and remember that one [[11]] customer is not the end of your business.
+
+Joanne`,
+b:[
+[["hand wash only","microwave safe","dishwasher safe","oven safe"],"she says nobody reads those","Her customers ignored a 'hand wash only' label."],
+[["free of charge","for a small fee","next year","only if she pays"],null,"A free repair shows goodwill."],
+[["blamed","welcome","thanked","rushed"],"I explained this in my care instructions","Explain without blaming her."],
+[["a bit formal","very cheap","illegal","impossible"],null,"A signature feels formal at first."],
+[["unhappy","loyal","regular","wealthy"],null,"One unhappy customer won't end his business."]
+]
+});
+
+RS.p1.push({
+id:"p1-35", lv:"H", tt:"A co-founder dispute", from:"Arjun", to:"Neha",
+text:`Hi Neha,
+
+I hope the conference in Boston went well. I'm writing because I need advice from someone who understands both business and me, and you're the only person who fits both descriptions.
+
+As you know, Ben and I started our scheduling app two years ago. At the time, we agreed to split ownership fifty-fifty, although we never put anything in writing beyond a few text messages. Since then, the situation has changed. I left my job last year to work on the app full-time, while Ben kept his position at the bank and works on it mostly in the evenings. I've also written about eighty percent of the code.
+
+Last week, an investor offered us $250,000 in exchange for fifteen percent of the company. It's a fantastic opportunity, but the investor's lawyer wants a formal shareholders' agreement signed before the money is transferred. When I suggested to Ben that the split should now be sixty-forty, he was hurt and said I was 'rewriting history.' He pointed out that the original idea was his and that he paid for our first server with his own savings.
+
+I don't want to lose the friendship or the investment. Part of me thinks I'm being greedy, but another part feels it's unfair that I've taken all the risk. The investor has given us three weeks to sign.
+
+Do you think a professional mediator would help, or would that make things feel even more serious? And how would you approach the conversation with Ben?
+
+Thanks,
+Arjun`,
+q:[
+["Why did Arjun write to Neha specifically?",["She understands both business and him personally.","She is the investor's lawyer.","She works at the same bank as Ben.","She helped Arjun write much of the app's original code."],"someone who understands both business and me","She understands both."],
+["How was the original ownership agreed?",["Informally, without a formal contract","In a signed legal document","Through the investor","Through a lawyer hired by both of them"],"we never put anything in writing beyond a few text messages","Only text messages."],
+["Why does Arjun think the split should change?",["He has contributed much more time and work.","Ben wants to leave the company.","The investor asked for a new split.","Ben has recently lost a lot of money at the bank."],"I left my job last year to work on the app full-time","He works full-time and wrote most of the code."],
+["What must happen before the investment is completed?",["A formal ownership agreement must be signed.","Ben must leave his job.","The app must be finished.","Arjun must first buy a new and much faster server."],"wants a formal shareholders' agreement signed before the money is transferred","A shareholders' agreement."],
+["How did Ben react to Arjun's proposal?",["He felt Arjun was changing their original deal.","He agreed immediately.","He asked for more time to think.","He offered to buy Arjun's share of the company instead."],"said I was 'rewriting history.'","He felt the history was being rewritten."],
+["How does Arjun feel about his own request?",["Unsure whether it is fair or selfish","Completely confident he is right","Embarrassed and ready to drop it","Angry at the investor"],"Part of me thinks I'm being greedy","He is torn."]
+],
+reply:`Hi Arjun,
+
+Boston was great, thanks. I'm sorry you're dealing with this. Disputes between founders are [[7]], so you're not alone.
+
+I don't think you're being greedy. Your contribution has clearly changed. But Ben also has a point: the idea and the first server [[8]], and they were real risks at the time.
+
+Instead of arguing about the past, try focusing on the future. For example, you could keep fifty-fifty but agree that any new shares will [[9]] based on time and work from now on. That respects both what Ben did and what you're doing.
+
+A mediator isn't a bad idea, but I'd suggest a [[10]] first. Buy him dinner and talk as friends. You have [[11]] weeks, which is enough time to do it calmly.
+
+Neha`,
+b:[
+[["very common","extremely rare","always legal","easy to avoid"],null,"She reassures him: this happens often."],
+[["were his","were yours","cost nothing","were the investor's"],"the original idea was his and that he paid for our first server","Ben supplied both."],
+[["be divided","be sold","be cancelled","be ignored"],null,"New shares divided by future contribution."],
+[["personal conversation","legal letter","new investor","company vote"],null,"Talk as friends before a mediator."],
+[["three","two","four","five"],"The investor has given us three weeks to sign","Three weeks."]
+]
+});
+
+RS.p1.push({
+id:"p1-36", lv:"H", tt:"Lost on the ridge", from:"Chloe", to:"Ethan",
+text:`Hi Ethan,
+
+I'm fine, so please don't panic when you read the rest of this. I wanted you to hear the story from me before our friends start telling their exaggerated versions.
+
+Last Saturday, Dana and I hiked the Crypt Lake trail near Waterton. We started later than planned, around ten, because Dana's car had a flat tire. The weather forecast said clear skies until evening, so we didn't think much of it. By three o'clock, however, clouds had rolled in, and the temperature dropped by about ten degrees in less than an hour. We took a wrong turn on the way down, and by the time we realized it, we couldn't see the trail markers in the fog.
+
+I remembered what you'd told me about staying put rather than wandering, so we found a sheltered spot and used the satellite messenger you gave me for my birthday. A park rescue team reached us about three hours later. Apart from being cold and embarrassed, we were completely unharmed.
+
+The rangers were kind, but they pointed out several mistakes. We had no emergency blanket, only one headlamp between us, and not enough warm layers. One of them said the messenger probably saved them hours of searching.
+
+I'm planning another trip in August and want to do it properly this time. Since you've guided in the Rockies for years, could you help me put together a proper gear list? And could you tell me honestly whether I'm ready for longer trails, or whether I should go with a group first?
+
+Thank you, for everything,
+Chloe`,
+q:[
+["Why did Chloe write to Ethan now?",["She wanted him to hear the true story before rumours spread.","She needed him to pay for the rescue.","The rangers asked her to contact him.","She wanted to invite him to hike the same trail with her in August."],"before our friends start telling their exaggerated versions","Before exaggerated versions spread."],
+["Why did the hike start late?",["A car had a mechanical problem.","The weather was bad in the morning.","Dana overslept.","The trail was closed until ten."],"because Dana's car had a flat tire","A flat tire."],
+["What happened in the afternoon?",["The weather changed suddenly.","They ran out of water.","Dana hurt her ankle.","The trail markers were removed."],"the temperature dropped by about ten degrees in less than an hour","Clouds and a sharp drop in temperature."],
+["What advice from Ethan did Chloe follow?",["Stay in one place when lost","Always hike with a guide","Start hiking before eight","Never hike in the fog"],"staying put rather than wandering","Stay put."],
+["What did the rangers say about the satellite messenger?",["It made the rescue much faster.","It was not working properly.","It is not allowed in the park.","It was the wrong model for hiking."],"the messenger probably saved them hours of searching","It saved hours."],
+["What does Chloe ask Ethan for?",["Help with equipment and an honest opinion","A loan for new gear","A job as a guide","Directions to a safer trail near Crypt Lake"],"could you help me put together a proper gear list","A gear list and his honest view."]
+],
+reply:`Hi Chloe,
+
+I'm so relieved you're okay. And I'm proud of you for [[7]] instead of trying to find the trail in the fog. That decision probably mattered more than any piece of gear.
+
+I'll send you a gear list this weekend. It will include an emergency blanket and a headlamp [[8]], plus a spare set of batteries.
+
+As for longer trails, I think you have good instincts, but I'd suggest going with a group [[9]]. You'll learn a lot just by watching how experienced hikers [[10]] the weather.
+
+Also, please start earlier next time. If a flat tire delays you, it's better to [[11]] than to rush up a mountain.
+
+Take care,
+Ethan`,
+b:[
+[["staying put","running down","calling Dana","climbing higher"],"staying put rather than wandering","She stayed put."],
+[["for each person","to share","for the car","for Dana only"],"only one headlamp between us","They had only one between them."],
+[["for your first few trips","every single time","only in winter","after you turn forty"],null,"A group for the first trips."],
+[["keep an eye on","ignore","complain about","predict wrongly"],"clouds had rolled in","Experienced hikers watch the weather closely."],
+[["choose a shorter hike","drive faster","skip lunch","hike in the dark"],"We started later than planned","Better to pick a shorter hike when late."]
+]
+});
+
+RS.p1.push({
+id:"p1-37", lv:"H", tt:"The maple on the property line", from:"George", to:"Linda",
+text:`Dear Linda,
+
+I'm writing about the large silver maple between our backyards, and I want to start by saying that I value our friendship far more than any tree.
+
+As you know, the tree has grown enormously since we both moved in. Last month, a roofer told me that its roots are the likely cause of the cracks in my basement wall, and that repairs could cost as much as twenty thousand dollars. He also warned that one of the large branches over my garage is dead and could fall in the next storm.
+
+I've spoken to the city, and it turns out the trunk sits almost exactly on the property line, which means the tree legally belongs to both of us. The city requires a permit to remove it, and the arborist they recommend estimates the cost at about $4,500. I realize this is a lot of money, and I know how much your grandchildren love the tire swing.
+
+I'd like to suggest a compromise. We could first have the dead branch removed, which would cost around $600, and I'm happy to pay for that myself. Then, before deciding anything about the whole tree, we could ask the arborist to check whether the roots really are responsible for my basement. If they aren't, I'd be glad to leave the tree standing.
+
+Would you be free for coffee this week to talk it over? Tuesday or Thursday evening would suit me.
+
+Warm regards,
+George`,
+q:[
+["What is George's main concern about their friendship?",["He does not want the tree to damage it.","He thinks Linda is angry with him.","He wants to buy her property.","He is planning to move away."],"I value our friendship far more than any tree","The friendship matters more than the tree."],
+["What did the roofer suggest?",["The roots may be damaging the foundation.","The roof needs replacing.","The tree is healthy.","The garage roof should be rebuilt before winter."],"its roots are the likely cause of the cracks in my basement wall","Roots may cause the cracks."],
+["Why is the tree jointly owned?",["It stands on the border between the lots.","Linda planted it with George.","The city gave it to them both.","It was listed in both of their house purchase contracts."],"the trunk sits almost exactly on the property line","It sits on the property line."],
+["Why does George mention the tire swing?",["He knows the tree is special to Linda's family.","He wants to take it down first.","It is also damaged.","It is mostly on George's side of the fence, not Linda's."],"I know how much your grandchildren love the tire swing","The grandchildren love it."],
+["What does George offer to pay for?",["Removing the dead branch","The whole tree removal","The basement repairs","A new tire swing"],"I'm happy to pay for that myself","He'll pay for the branch."],
+["When would George agree to keep the tree?",["If it is not causing the basement damage","If Linda pays for the permit","If the city refuses the permit","If Linda's grandchildren ask him to keep it"],"If they aren't, I'd be glad to leave the tree standing","If the roots aren't responsible."]
+],
+reply:`Dear George,
+
+Thank you for your thoughtful letter. I value our friendship too, and I appreciate that you [[7]] the grandchildren.
+
+I'm very glad you're offering to deal with the dead branch. I've worried about it myself during storms, and I'd feel better if it were [[8]]. Please let me pay half, since the tree belongs to us both.
+
+Your idea of having the arborist check the roots first is [[9]]. If they are the cause, I'll accept that the tree has to go, and we can [[10]] the cost of removal.
+
+Thursday evening suits me. Come at seven, and I'll [[11]] some coffee. I might even bake a pie.
+
+Warmly,
+Linda`,
+b:[
+[["thought of","forgot about","blamed","complained about"],"I know how much your grandchildren love the tire swing","He thought of the grandchildren."],
+[["removed soon","left alone","painted","sold"],"could fall in the next storm","She wants it removed soon."],
+[["very sensible","too expensive","unnecessary","unfair"],null,"She agrees with the plan."],
+[["share","avoid","double","ignore"],"the tree legally belongs to both of us","They would share the cost."],
+[["make","sell","send","skip"],null,"She will make coffee."]
+]
+});
+
+RS.p1.push({
+id:"p1-38", lv:"M", tt:"Cottage long weekend", from:"Megan", to:"Luis",
+text:`Hi Luis,
+
+Great news: my aunt has offered us her cottage near Bancroft for the August long weekend! It sleeps eight, so there's room for our whole group.
+
+We'd leave Friday after work and come back Monday afternoon. The drive is about three hours from Toronto. Since not everyone has a car, I'm trying to organize carpools. You have the biggest car, so could you take three people? I'd pay for half your gas, of course.
+
+The cottage has a canoe and two kayaks, but no internet, which might be a shock for some people! There's a small grocery store about fifteen minutes away, but it closes at six, so we'll need to bring most of our food. I'm planning a shared menu, and each person will cook one meal.
+
+My aunt has one rule: no campfires if there's a fire ban, which happens often in August. She's also asked us to leave the place as clean as we find it.
+
+Could you let me know by Wednesday if you can drive?
+
+Megan`,
+q:[
+["What has Megan's aunt offered?",["The use of her cottage","A ride to Bancroft","A canoe for the weekend","Food for the trip"],"my aunt has offered us her cottage","Her cottage."],
+["Why does Megan ask Luis to drive?",["He has the largest vehicle.","He knows the way.","He lives near the cottage.","He has a canoe rack."],"You have the biggest car","The biggest car."],
+["What will Megan pay for?",["Part of Luis's fuel","The whole trip","The groceries","A new kayak"],"I'd pay for half your gas","Half the gas."],
+["What might surprise some people?",["There is no internet at the cottage.","The cottage has no kitchen.","The canoe is broken.","The drive from Toronto takes more than six hours."],"no internet, which might be a shock for some people","No internet."],
+["Why should they bring most of their food?",["The nearby store closes early.","The cottage has a big fridge.","The store is very expensive.","Megan wants to cook everything."],"it closes at six","The store closes at six."],
+["What is the aunt's rule about fires?",["They are not allowed during a fire ban.","They are never allowed.","They must be small.","They are allowed only on Saturday."],"no campfires if there's a fire ban","Only banned during a fire ban."]
+],
+reply:`Hi Megan,
+
+That sounds amazing! Please thank your aunt for me.
+
+Yes, I can drive. My car fits four people comfortably, so I can take [[7]] others. And you don't need to pay for gas; I'll just [[8]] with my passengers.
+
+I'm happy to cook on Saturday night. How about barbecue? If there's a [[9]], I'll bring a portable gas stove instead of using the fire pit.
+
+Since the store closes early, maybe we should stop for groceries [[10]] on Friday.
+
+And don't worry, I'll help make sure we leave the cottage [[11]].
+
+Luis`,
+b:[
+[["three","two","four","eight"],"could you take three people","Luis plus three."],
+[["split it","ignore it","sell it","forget it"],null,"He'll split the gas with passengers."],
+[["fire ban","canoe","store","shock"],"no campfires if there's a fire ban","A fire ban."],
+[["on the way","after six","on Monday","at the cottage"],"it closes at six","Shop on the way."],
+[["as clean as we found it","full of food","for your aunt's friends","before Friday"],"leave the place as clean as we find it","Clean."]
+]
+});
+
+RS.p1.push({
+id:"p1-39", lv:"M", tt:"Learning to drive at 50", from:"Aunt Rita", to:"Deepa",
+text:`Dear Deepa,
+
+You'll never guess what I've done. At fifty-two years old, I've finally started driving lessons! After your uncle retired, I realized I rely on him for everything, from groceries to doctor's appointments, and I want to be more independent.
+
+My instructor, Carol, is very patient. We practise twice a week in a quiet neighbourhood near the college. I'm comfortable on small streets now, but highways still terrify me. Carol says that's normal and that we'll work on them slowly.
+
+I have my road test booked for the 14th of next month. The only problem is that I need a car to take the test in, and your uncle's car is too big for me to park easily. Carol's school rents cars for the test, but it costs $120.
+
+Since you took your test last year, I was wondering if you have any tips. Is parallel parking really as hard as everyone says?
+
+Wish me luck!
+
+Love,
+Aunt Rita`,
+q:[
+["Why did Aunt Rita start driving lessons?",["She wants to depend less on her husband.","Her husband asked her to.","She needs to drive to work.","Her doctor recommended it after her husband retired."],"I want to be more independent","To be more independent."],
+["How does Rita describe her instructor?",["Calm and understanding","Strict and fast","Young and funny","Expensive but good"],"My instructor, Carol, is very patient","Patient."],
+["What is still difficult for Rita?",["Driving on highways","Driving on small streets","Starting the car","Reading road signs"],"highways still terrify me","Highways."],
+["Why doesn't Rita want to use her husband's car for the test?",["It is hard for her to park.","It is too old.","He needs it that day.","It is not insured for a new driver."],"your uncle's car is too big for me to park easily","It's too big to park."],
+["How can Rita get a car for the test?",["By renting one from the school","By borrowing Deepa's","By buying a small car","By using Carol's personal car"],"Carol's school rents cars for the test","Rent from the school."],
+["Why does Rita ask Deepa for tips?",["Deepa took her test recently.","Deepa is a driving instructor.","Deepa lives near the test centre.","Deepa failed her test."],"Since you took your test last year","Deepa took hers last year."]
+],
+reply:`Dear Aunt Rita,
+
+That's wonderful news! I'm so proud of you. Uncle must be happy too, since he won't have to [[7]] everywhere anymore.
+
+Don't worry about highways. Lots of people find them scary at first. Carol is right to [[8]].
+
+I think renting the school's car is worth the $120. You'll be used to it from your lessons, and you won't have to worry about [[9]] Uncle's big car.
+
+Parallel parking is tricky, but the secret is to go [[10]]. The examiner cares more about safety than speed.
+
+I'll call you on the 14th to [[11]].
+
+Love,
+Deepa`,
+b:[
+[["drive you","pay for you","wait for you","cook for you"],"I rely on him for everything","He won't have to drive her everywhere."],
+[["take them slowly","skip them","avoid them forever","start with them"],"we'll work on them slowly","Carol will go slowly."],
+[["parking","paying for","washing","selling"],"too big for me to park easily","No worries about parking the big car."],
+[["slowly","quickly","backwards only","with music"],null,"Go slowly: safety over speed."],
+[["wish you luck","book your test","rent the car","pick up Carol"],"Wish me luck!","She'll call to wish her luck."]
+]
+});
+
+RS.p1.push({
+id:"p1-40", lv:"M", tt:"Adopting a shelter cat", from:"Olga", to:"Ken",
+text:`Hi Ken,
+
+I finally did it! Last Saturday I visited the Humane Society and met a three-year-old grey cat named Smokey. He was so calm that he fell asleep on my lap after five minutes. I've filled out the adoption application, and the shelter will call my references this week. I listed you, so please expect a phone call!
+
+There's one thing I'm worried about. My boyfriend, Andrei, is mildly allergic to cats. He says his symptoms are manageable, and he's already bought an air purifier for the apartment. However, he's staying with me most weekends, and I don't want him to be uncomfortable.
+
+The shelter staff suggested keeping Smokey out of the bedroom and brushing him often to reduce loose hair. They also said some people's allergies improve over time when they live with a cat, although that isn't guaranteed.
+
+Since you've had cats for years and your sister is allergic too, I'd love to hear how your family manages when she visits.
+
+Thanks,
+Olga`,
+q:[
+["What happened when Olga met Smokey?",["He fell asleep on her.","He hid under a chair.","He scratched her.","He refused to eat."],"he fell asleep on my lap after five minutes","He slept on her lap."],
+["Why might Ken receive a phone call?",["Olga named him as a reference.","The shelter wants him to adopt a cat.","Andrei gave the shelter his number.","His sister is allergic."],"I listed you, so please expect a phone call","She listed him as a reference."],
+["What has Andrei done about his allergy?",["He bought a device to clean the air.","He saw a doctor.","He stopped visiting Olga.","He started taking allergy medicine every day."],"he's already bought an air purifier","An air purifier."],
+["What did the shelter suggest?",["Keeping the cat out of the bedroom","Choosing a different cat","Giving the cat a bath daily","Leaving the windows open for fresh air every day"],"keeping Smokey out of the bedroom","Keep him out of the bedroom."],
+["What did the staff say about allergies?",["They sometimes improve over time.","They always disappear.","They get worse every year.","They mostly affect children, not adults."],"some people's allergies improve over time","They may improve."],
+["Why does Olga ask Ken for advice?",["He has experience with cats and an allergic relative.","He works at the shelter.","He is a doctor.","He is a close friend of Olga's boyfriend, Andrei."],"you've had cats for years and your sister is allergic too","Both reasons."]
+],
+reply:`Hi Olga,
+
+Congratulations! Smokey sounds [[7]]. Don't worry, I'll give the shelter a glowing reference.
+
+When my sister visits, we do three things. First, we [[8]] the day before. Second, the cats aren't allowed in the guest room at all. Third, she takes allergy medicine before she arrives.
+
+The shelter's advice is good. Brushing Smokey [[9]] will help a lot, and it's a nice way to bond with him.
+
+I'd also suggest washing Andrei's pillowcases [[10]] he visits.
+
+Send me a photo of Smokey as soon as he's [[11]]!
+
+Ken`,
+b:[
+[["very sweet","quite wild","too old","hard to care for"],"He was so calm","A calm cat is sweet."],
+[["vacuum the house","buy a new cat","leave the house","close the windows"],null,"Vacuuming reduces cat hair."],
+[["often","once a year","never","only in summer"],"brushing him often to reduce loose hair","Brush often."],
+[["before","instead of","unless","although"],null,"Wash pillowcases before he visits."],
+[["home with you","asleep at the shelter","allergic","brushed"],null,"'As soon as he's home with you'."]
+]
+});
+
+RS.p1.push({
+id:"p1-41", lv:"M", tt:"Swapping vacation weeks", from:"Diane", to:"Marco",
+text:`Hi Marco,
+
+I have a favour to ask about our summer vacation schedule. When we chose our weeks in January, I picked the first two weeks of August, and you took the last week of July and the first week of September.
+
+Since then, my plans have changed. My sister is getting married in Winnipeg on July 26th, and I'd love to be there for the whole week. Would you be willing to trade your July week for my first August week? That way, you'd have August 8th to 15th instead.
+
+I know your children start day camp at the end of July, so I'm not sure whether the change would work for your family. If it doesn't, please don't feel any pressure. I can always ask our manager if I can take an extra week without pay.
+
+If you agree, we'll both need to email Janet by Friday, since she's finalizing the schedule for the payroll department.
+
+Thanks for considering it,
+Diane`,
+q:[
+["When did they choose vacation weeks?",["In January","In July","Last Friday","In September"],"When we chose our weeks in January","In January."],
+["Why does Diane want to change?",["She wants to attend a family wedding.","She is moving to Winnipeg.","Her children start camp.","Her manager asked her to change her vacation dates."],"My sister is getting married in Winnipeg","Her sister's wedding."],
+["What is Diane asking Marco to do?",["Exchange one vacation week with her","Give up his vacation","Work extra hours in August","Go to the wedding in Winnipeg with her family"],"Would you be willing to trade your July week","Trade weeks."],
+["Why might the change not work for Marco?",["It may conflict with his children's plans.","He is getting married too.","He has already booked flights.","His manager does not allow changes after January."],"your children start day camp at the end of July","His children's day camp."],
+["What will Diane do if Marco says no?",["Ask for unpaid time off","Miss the wedding","Quit her job","Ask Janet to decide"],"take an extra week without pay","An unpaid week."],
+["Why must they email Janet by Friday?",["She is completing the schedule for payroll.","She is going on vacation.","She needs to book the wedding.","She has just been made their new department manager."],"she's finalizing the schedule for the payroll department","Janet finalizes the schedule."]
+],
+reply:`Hi Diane,
+
+Congratulations to your sister! Of course you should be at the wedding.
+
+Actually, the trade works well for us. The kids' day camp [[7]] during the last week of July, so we were going to stay home anyway. A week in August means we could [[8]] instead.
+
+I'll email Janet [[9]] to let her know about the change. You should send your email too, so she has confirmation from [[10]].
+
+Have a wonderful time in Winnipeg, and bring back some [[11]]!
+
+Marco`,
+b:[
+[["starts","ends","closes","moves"],"your children start day camp at the end of July","Camp starts then."],
+[["go camping","attend camp","work more","stay home"],null,"A free August week allows a trip, e.g. camping."],
+[["today","next year","after Friday","in August"],"we'll both need to email Janet by Friday","Before Friday: today."],
+[["both of us","our children","your sister","the payroll office"],"we'll both need to email Janet","Both need to email."],
+[["wedding photos","vacation days","day camp forms","payroll slips"],null,"Photos of the wedding."]
+]
+});
+
+RS.p1.push({
+id:"p1-42", lv:"M", tt:"Starting a book club", from:"Beth", to:"Sunil",
+text:`Hi Sunil,
+
+I've been thinking about starting a small book club, and you're the first person I wanted to invite, since you always have a book in your hand at lunch.
+
+My idea is to meet once a month on a Sunday afternoon, rotating between our homes. I'd like to keep it small, maybe six to eight people, so everyone has a chance to speak. Each month, a different person would choose the book, as long as it's under four hundred pages and available at the public library, so nobody has to buy it.
+
+For our first meeting, I was thinking of a Canadian novel, perhaps something by Margaret Laurence or a newer writer. I'm open to suggestions, though.
+
+I've already asked Jenna and Rob from the office, and they're both interested. Do you know anyone else who might enjoy it? Also, would you be willing to host one of the first meetings? I'm hosting in October, but my apartment is too small for more than six people.
+
+Let me know what you think!
+
+Beth`,
+q:[
+["Why did Beth invite Sunil first?",["He is known for reading a lot.","He owns a bookstore.","He suggested the idea.","He lives in the same building as Beth."],"you always have a book in your hand at lunch","He always reads at lunch."],
+["Where will the meetings be held?",["At members' homes, taking turns","At the public library","At the office","At a café near the office on Sundays"],"rotating between our homes","Rotating homes."],
+["Why does Beth want a small group?",["So everyone can take part in the discussion","Because books are expensive","Because her apartment is small","Because the public library limits the size of book clubs"],"so everyone has a chance to speak","Everyone can speak."],
+["What rule is there about book choice?",["Books must be free to borrow.","Books must be Canadian.","Books must be new.","Books must be chosen by Beth."],"available at the public library, so nobody has to buy it","Available at the library."],
+["Who has already agreed to join?",["Two coworkers","Sunil's friends","Beth's neighbours","Margaret Laurence"],"I've already asked Jenna and Rob from the office","Jenna and Rob from the office."],
+["Why does Beth ask Sunil to host?",["Her home is too small for a larger group.","She is travelling in October.","He has a big library.","He lives closest to the office and to Jenna and Rob."],"my apartment is too small for more than six people","Her apartment is too small."]
+],
+reply:`Hi Beth,
+
+What a great idea! Count me in.
+
+My neighbour Lucy is a retired English teacher, and I'm sure she'd love to join. That would make [[7]] of us so far, including you.
+
+I'd be happy to host in November. My living room can easily [[8]] eight people, and I'll make coffee.
+
+For the first book, I'd suggest something shorter, since people will be [[9]] the group. A good short novel might make it easier for everyone to finish in time.
+
+One question: should the host also [[10]] the book, or is that a separate person?
+
+I'll start reading as soon as we [[11]].
+
+Looking forward to it,
+Sunil`,
+b:[
+[["five","three","eight","six"],"I've already asked Jenna and Rob","Beth, Jenna, Rob, Sunil, Lucy = five."],
+[["fit","feed","invite","ignore"],"too small for more than six people","His room fits eight."],
+[["new to","tired of","leaving","hosting"],null,"New members may need a short book."],
+[["choose","buy","read","return"],"a different person would choose the book","Does the host also choose?"],
+[["pick the first book","finish the first book","meet in November","buy the books"],"For our first meeting, I was thinking of a Canadian novel","He'll start once the first book is picked."]
+]
+});
+
+RS.p1.push({
+id:"p1-43", lv:"M", tt:"First apartment in Toronto", from:"Arash", to:"Cousin Mina",
+text:`Hi Mina,
+
+I have exciting news: I got the software job in Toronto! I start on September 2nd, so I need to find an apartment very quickly. Since you've lived there for five years, I was hoping you could give me some advice.
+
+My budget is about $1,900 a month. My office is near Union Station, and I'd like to be able to get there in under forty minutes by transit, because I don't plan to buy a car. I'd prefer a one-bedroom, but I'm open to sharing a two-bedroom with a roommate if that means a nicer area.
+
+I've been looking online, but some of the listings seem suspicious. One landlord asked me to send a deposit before I'd even seen the apartment, because he said he was "out of the country." Is that normal?
+
+I'm planning to come to Toronto for a weekend in mid-August to view apartments. Would it be okay if I stayed on your sofa for two nights? I promise to cook dinner for you!
+
+Thanks so much,
+Arash`,
+q:[
+["Why is Arash moving to Toronto?",["He accepted a new job.","He is starting university.","His family moved there.","He wants to live near Mina."],"I got the software job in Toronto","A new job."],
+["What is important to Arash about location?",["A short commute by public transit","Being near a park","Having parking","Living close to his cousin Mina's apartment"],"get there in under forty minutes by transit","Under forty minutes by transit."],
+["What is Arash willing to do for a better area?",["Share a larger apartment","Pay much more rent","Buy a car","Live much further away from downtown"],"open to sharing a two-bedroom with a roommate","Share a two-bedroom."],
+["What made one listing seem suspicious?",["The landlord wanted money before a viewing.","The rent was too high.","The photos were old.","It was much too far away from Union Station."],"asked me to send a deposit before I'd even seen the apartment","Deposit before viewing."],
+["When will Arash visit Toronto?",["In the middle of August","On September 2nd","Next weekend","At the end of September"],"for a weekend in mid-August","Mid-August."],
+["What does Arash offer Mina?",["To cook for her","To pay her rent","To help her move","To buy her a sofa"],"I promise to cook dinner for you","Cook dinner."]
+],
+reply:`Hi Arash,
+
+Congratulations! That's fantastic news.
+
+Please do NOT send money to that landlord. It's a very common [[7]]. A real landlord will always let you [[8]] before asking for a deposit.
+
+With your budget, a one-bedroom downtown will be hard to find, but you could look along the subway line in areas like the Annex or Leslieville, where the commute to Union is [[9]]. Sharing might be smarter for your first year.
+
+Of course you can stay with me in August! The sofa is yours, and I'll [[10]] you to some of the neighbourhoods.
+
+And I'm holding you to that [[11]]!
+
+Mina`,
+b:[
+[["scam","deal","mistake","practice"],"Is that normal?","It's a scam."],
+[["see the place","sign a lease","pay cash","meet his family"],"before I'd even seen the apartment","Let you see it first."],
+[["short","impossible","expensive","very long"],"under forty minutes by transit","A short commute."],
+[["show","drive","send","sell"],null,"Show you the neighbourhoods."],
+[["dinner","deposit","sofa","lease"],"I promise to cook dinner for you","Dinner promise."]
+]
+});
+
+RS.p1.push({
+id:"p1-44", lv:"M", tt:"A surprise 40th", from:"Tanya", to:"Greg",
+text:`Hi Greg,
+
+I'm planning a surprise party for Jason's fortieth birthday on Saturday, October 18th, and I need your help as his best friend.
+
+The party will be at our house, starting at seven. The tricky part is getting Jason out of the house that afternoon so I can decorate and the caterers can set up. Could you invite him to something from two until about half past six? Maybe the Leafs game at a sports bar, or a round of golf if the weather is nice?
+
+I've invited about thirty people, including some of his old university friends who are flying in from Halifax. Please don't mention anything about them if Jason talks to you, since he'd immediately guess something was going on.
+
+Also, I'm putting together a slideshow of photos from the past twenty years. If you have any funny pictures from your camping trips, could you email them to me by the 10th?
+
+Thanks for being part of this!
+
+Tanya`,
+q:[
+["What is Tanya planning?",["A surprise birthday party","A camping trip","A trip to Halifax","A golf tournament with old friends"],"a surprise party for Jason's fortieth birthday","A surprise party."],
+["Why does Tanya need Greg's help?",["To keep Jason away from the house","To cook the food","To pick up guests at the airport","To make the slideshow"],"getting Jason out of the house that afternoon","Keep Jason away."],
+["What activities does Tanya suggest?",["Watching hockey or playing golf","Going camping","Visiting Halifax","Going out for a long lunch at a restaurant"],"Maybe the Leafs game at a sports bar, or a round of golf","Hockey or golf."],
+["Why shouldn't Greg mention the university friends?",["It would reveal the surprise.","Jason doesn't like them.","They might not come.","Their flights are not booked."],"he'd immediately guess something was going on","Jason would guess."],
+["What does Tanya want by the 10th?",["Funny photos from camping trips","A list of guests","Greg's golf scores","Money to help pay the caterer for the party"],"could you email them to me by the 10th","Photos."],
+["When should Jason arrive home?",["Around the start of the party","At two o'clock","After midnight","On Sunday morning after the party"],"from two until about half past six","About 6:30, before the 7:00 start."]
+],
+reply:`Hi Tanya,
+
+What a great idea! Jason will be [[7]].
+
+I'll invite him to watch the Leafs game with me at the Firkin. The game starts at three, so we'll be out of your way until about six-thirty. I'll text you when we're [[8]], so everyone can hide.
+
+My lips are sealed about the Halifax crowd. Jason has no [[9]].
+
+I definitely have some embarrassing camping photos. There's one of Jason [[10]] in the lake that everyone will love. I'll send them this weekend, well before your [[11]].
+
+Greg`,
+b:[
+[["so surprised","very angry","too busy","disappointed"],null,"A surprise party: he'll be surprised."],
+[["on our way","at the game","in Halifax","asleep"],null,"Text when on the way."],
+[["idea","friends","plans","tickets"],"he'd immediately guess something was going on","He has no idea."],
+[["falling","fishing","hiding","dancing"],null,"An embarrassing photo: falling in the lake."],
+[["deadline","party","slideshow","birthday"],"email them to me by the 10th","Before the deadline."]
+]
+});
+
+RS.p1.push({
+id:"p1-45", lv:"M", tt:"The endless kitchen renovation", from:"Paula", to:"Irene",
+text:`Hi Irene,
+
+I'm writing from a kitchen that has had no kitchen for six weeks. Remember how excited I was about the renovation? Well, the excitement is gone.
+
+The contractor promised the work would take four weeks. First, the new cabinets arrived in the wrong colour, so we had to wait two more weeks for a replacement. Then the electrician found old wiring behind the wall that had to be replaced, which added another $3,000 to the cost. Now the countertops are late because the supplier has a backlog.
+
+We've been cooking on a hot plate in the dining room and washing dishes in the bathtub. The kids think it's an adventure, but I'm tired of eating sandwiches.
+
+The contractor says everything should be finished in two weeks, but I'm not sure I believe him anymore. Since you renovated your kitchen last year, did you have similar delays? And do you think it's reasonable to ask for a discount, since the cabinet mistake wasn't our fault?
+
+Paula`,
+q:[
+["How long was the renovation supposed to take?",["Four weeks","Six weeks","Two weeks","Three months"],"The contractor promised the work would take four weeks","Four weeks."],
+["What was the first problem?",["The cabinets were the wrong colour.","The electrician was late.","The countertops broke.","The contractor quit before finishing the work."],"the new cabinets arrived in the wrong colour","Wrong colour cabinets."],
+["Why did the cost increase?",["Old wiring had to be replaced.","The cabinets cost more.","The countertops were upgraded.","The contractor raised his price."],"old wiring behind the wall that had to be replaced, which added another $3,000","Wiring."],
+["How are the children reacting?",["They find it exciting.","They are complaining.","They are staying with relatives.","They are helping the contractor."],"The kids think it's an adventure","An adventure."],
+["How does Paula feel about the new deadline?",["She doubts it will be met.","She is confident about it.","She thinks it's too soon.","She hasn't been told one."],"I'm not sure I believe him anymore","She doubts it."],
+["Why does Paula think a discount is fair?",["One delay was caused by someone else's error.","The wiring was the contractor's fault.","She paid in advance.","Irene received a similar discount on her renovation last year."],"the cabinet mistake wasn't our fault","The cabinet mistake wasn't theirs."]
+],
+reply:`Hi Paula,
+
+Oh no, I feel for you! Our renovation also ran [[7]], so you're not alone.
+
+The wiring cost is annoying, but honestly, it's good they found it. Old wiring can be [[8]].
+
+I do think you could ask for a discount for the cabinet delay, since that was clearly [[9]] mistake. Be polite but firm. We got 10 percent off when our floors arrived damaged.
+
+In the meantime, come over for dinner this Friday. You deserve a meal that isn't [[10]]! Bring the kids, and I'll [[11]] afterward, so you won't need the bathtub.
+
+Irene`,
+b:[
+[["late","early","cheap","smoothly"],null,"Hers was also late."],
+[["dangerous","beautiful","expensive to paint","easy to fix"],null,"Old wiring can be dangerous."],
+[["the company's","your","the electrician's","your children's"],"the cabinet mistake wasn't our fault","The company's mistake."],
+[["a sandwich","homemade","expensive","cold soup"],"I'm tired of eating sandwiches","Not a sandwich."],
+[["do the dishes","take a bath","buy a hot plate","skip dessert"],"washing dishes in the bathtub","A joke: no dishwashing in the bathtub."]
+]
+});
+
+RS.p1.push({
+id:"p1-46", lv:"M", tt:"Mrs. Chen retires", from:"Michelle", to:"Daniel",
+text:`Hi Daniel,
+
+Do you remember Mrs. Chen, our Grade 12 chemistry teacher? I just heard that she's retiring in June after thirty-two years at Riverside High. The school is holding a celebration for her on June 20th in the gym, and the principal has asked former students to share memories.
+
+I immediately thought of you, since you were her favourite student and she wrote your reference letter for engineering school. The principal would like two or three former students to give short speeches, about three minutes each. Would you be willing to be one of them?
+
+I'm also collecting messages from our old class for a memory book. So far I have about twenty, mostly short notes, but I'd love more stories. If you remember the day the fire alarm went off during her experiment, please write about it; I only remember the smoke!
+
+The event starts at 4 p.m. I know you live in Ottawa now, so I understand if you can't travel. In that case, you could record a video message instead.
+
+Let me know!
+
+Michelle`,
+q:[
+["What news did Michelle hear?",["A former teacher is retiring.","The school is closing.","Daniel won an award.","Mrs. Chen is moving to Ottawa."],"she's retiring in June after thirty-two years","Mrs. Chen is retiring."],
+["Why did Michelle think of Daniel?",["He had a close connection with the teacher.","He is now a chemistry teacher.","He organizes school events.","He now works closely with the principal of Riverside High."],"you were her favourite student and she wrote your reference letter","Favourite student; she wrote his reference."],
+["What has the principal requested?",["Short speeches from former students","Donations for a gift","Help decorating the gym","Photos of the class from their last year of school"],"would like two or three former students to give short speeches","Short speeches."],
+["What is Michelle collecting?",["Messages for a memory book","Money for a trip","Old chemistry notes","Photos of Mrs. Chen's old chemistry lab"],"collecting messages from our old class for a memory book","Messages."],
+["What does Michelle remember about the fire alarm?",["Only that there was smoke","Everything that happened","That Daniel caused it","That the school closed"],"I only remember the smoke","Only the smoke."],
+["What can Daniel do if he can't attend?",["Send a recorded video","Write a longer letter","Call the principal","Visit in July"],"you could record a video message instead","A video message."]
+],
+reply:`Hi Michelle,
+
+What lovely news, although it's hard to imagine Riverside without Mrs. Chen. I'd be honoured to [[7]].
+
+I've already checked, and I can take the train from Ottawa that morning, so I'll be there [[8]] for the start at four.
+
+I definitely remember the fire alarm. I was her lab partner that day, and I'm afraid the smoke was [[9]] fault, not hers. I'll write about it for the memory book.
+
+Do you know if we'll have a projector? I'd like to [[10]] a few old class photos during my speech.
+
+See you on the [[11]]!
+
+Daniel`,
+b:[
+[["give a speech","take her job","cancel the event","write her reference"],"Would you be willing to be one of them?","He agrees to speak."],
+[["in time","too late","on Friday","in Ottawa"],"The event starts at 4 p.m.","In time for four."],
+[["my","her","the principal's","your"],"If you remember the day the fire alarm went off during her experiment","A confession: it was his fault."],
+[["show","hide","sell","delete"],null,"Show photos on a projector."],
+[["20th","4th","first","26th"],"on June 20th in the gym","June 20th."]
+]
+});
+
+RS.p1.push({
+id:"p1-47", lv:"E", tt:"Hockey game tickets", from:"Jake", to:"Ali",
+text:`Hi Ali,
+
+My boss gave me two tickets to the Maple Leafs game next Thursday night, and I'd love for you to come with me! The game starts at 7 p.m. at Scotiabank Arena.
+
+The seats are really good. They're in the lower section, close to the ice. My boss usually uses them for clients, but nobody could go this week.
+
+We could meet at the Union Station entrance at 6:15 and grab something to eat inside the arena. The food is expensive, so I'll pay for dinner if you buy the drinks.
+
+Please let me know by Monday. If you can't come, I'll ask my brother.
+
+Jake`,
+q:[
+["Where did Jake get the tickets?",["From his boss","From his brother","From a website","From a client"],"My boss gave me two tickets","His boss."],
+["When is the game?",["Thursday evening","Monday evening","Saturday afternoon","Next month"],"next Thursday night","Thursday night."],
+["What does Jake say about the seats?",["They are close to the ice.","They are at the top.","They are cheap.","They are for clients only."],"close to the ice","Close to the ice."],
+["Where will they meet?",["At a Union Station entrance","Inside the arena","At Jake's office","At a restaurant near the arena"],"meet at the Union Station entrance at 6:15","Union Station."],
+["What will Jake pay for?",["Dinner","Drinks","Parking","The tickets"],"I'll pay for dinner if you buy the drinks","Dinner."],
+["What will Jake do if Ali can't come?",["Invite his brother","Give the tickets back","Go alone","Sell the tickets"],"I'll ask my brother","Ask his brother."]
+],
+reply:`Hi Jake,
+
+Wow, thanks for thinking of me! I'd love to come. I've never [[7]] so close to the ice before.
+
+Meeting at Union Station at [[8]] works for me. I'll come straight from work.
+
+It's a deal: you get dinner, and I'll get the [[9]].
+
+Please say thank you to your [[10]] for me. See you [[11]]!
+
+Ali`,
+b:[
+[["sat","skated","played","worked"],"close to the ice","Sat close to the ice."],
+[["6:15","7:00","noon","Monday"],"at 6:15","6:15."],
+[["drinks","tickets","parking","dinner"],"if you buy the drinks","Drinks."],
+[["boss","brother","client","coach"],"My boss gave me two tickets","His boss."],
+[["on Thursday","on Monday","tomorrow","next month"],"next Thursday night","Thursday."]
+]
+});
+
+RS.p1.push({
+id:"p1-48", lv:"E", tt:"Borrowing a ladder", from:"Frank", to:"Mrs. Lee",
+text:`Dear Mrs. Lee,
+
+I hope you are well. I have a small favour to ask. The storm last night blew some leaves and branches into my roof gutters, and now the water is not draining properly.
+
+I would like to clean the gutters this Saturday morning, but my ladder is too short to reach the roof. I noticed you have a tall ladder in your garage. Could I borrow it for a few hours? I will return it by lunchtime.
+
+If you like, I can also clean your gutters while I have the ladder. Your house is the same height as mine, so it would only take me about an hour.
+
+Thank you very much.
+
+Frank`,
+q:[
+["What caused the problem with the gutters?",["A storm","A broken roof","Old pipes","Snow"],"The storm last night blew some leaves and branches into my roof gutters","The storm."],
+["Why can't Frank use his own ladder?",["It is too short.","It is broken.","He lent it to someone.","It is at his office."],"my ladder is too short to reach the roof","Too short."],
+["Where is Mrs. Lee's ladder?",["In her garage","In her backyard","On her roof","At the store"],"I noticed you have a tall ladder in your garage","In the garage."],
+["When will Frank return the ladder?",["By lunchtime Saturday","On Sunday","Next week","In the evening after dinner"],"I will return it by lunchtime","By lunchtime."],
+["What does Frank offer to do?",["Clean her gutters too","Buy her a new ladder","Fix her roof","Cut her grass"],"I can also clean your gutters","Clean her gutters."],
+["How long would it take to clean Mrs. Lee's gutters?",["About one hour","All morning","Two days","A few minutes"],"it would only take me about an hour","About an hour."]
+],
+reply:`Dear Frank,
+
+Of course you can [[7]] the ladder. The garage will be open on Saturday morning.
+
+Thank you for offering to clean my gutters. That is very [[8]] of you. I can't climb ladders anymore because of my knees.
+
+Please be [[9]] on the roof. The ladder is heavy, so maybe ask your son to [[10]] it for you.
+
+I'll make you a cup of tea when you [[11]].
+
+Mrs. Lee`,
+b:[
+[["borrow","buy","fix","paint"],"Could I borrow it for a few hours?","Borrow."],
+[["kind","expensive","strange","late"],"I can also clean your gutters","Kind."],
+[["careful","quick","noisy","late"],null,"Be careful."],
+[["hold","sell","break","hide"],null,"Hold the ladder."],
+[["finish","leave","arrive late","forget"],null,"Tea when he finishes."]
+]
+});
+
+RS.p1.push({
+id:"p1-49", lv:"E", tt:"Meeting baby Noah", from:"Sarah", to:"Emily",
+text:`Hi Emily,
+
+Congratulations on your beautiful baby boy! I saw the photos, and Noah is so cute. I can't believe he's already two weeks old.
+
+I would love to come and meet him. Would next Sunday afternoon work for you? I don't want to stay long, because I know you're probably very tired. Maybe just an hour?
+
+I've made some frozen meals for you, like lasagna and soup, so you don't have to cook for a few days. I'll bring them with me.
+
+Is there anything else you need? I can pick up groceries or diapers on the way.
+
+Love,
+Sarah`,
+q:[
+["What is Sarah's news about Emily?",["Emily has had a baby.","Emily is getting married.","Emily is moving.","Emily has a new job."],"Congratulations on your beautiful baby boy","A baby boy."],
+["How old is Noah?",["Two weeks","Two months","One week","Two days"],"he's already two weeks old","Two weeks."],
+["Why doesn't Sarah want to stay long?",["Emily is probably tired.","Sarah has to work.","The baby is sick.","Sarah lives far away."],"I know you're probably very tired","Emily is tired."],
+["What is Sarah bringing?",["Frozen meals","A cake","Flowers","Baby clothes"],"I've made some frozen meals for you","Frozen meals."],
+["Why did Sarah make the meals?",["So Emily does not need to cook","For a party","For her own family","To sell them at a local market"],"so you don't have to cook for a few days","So Emily doesn't have to cook."],
+["What else does Sarah offer?",["To buy groceries or diapers","To babysit overnight","To clean the house","To drive Emily to the doctor"],"I can pick up groceries or diapers on the way","Groceries or diapers."]
+],
+reply:`Hi Sarah,
+
+Thank you so much! Sunday afternoon is [[7]]. Noah usually sleeps after lunch, so come around [[8]] o'clock.
+
+You're so kind to make food for us. Lasagna is my [[9]]!
+
+We're almost out of [[10]], so if you could pick up a pack, that would be great.
+
+See you [[11]]!
+
+Emily`,
+b:[
+[["perfect","too late","impossible","busy"],"Would next Sunday afternoon work for you?","Perfect."],
+[["two","nine","eleven","six"],"next Sunday afternoon","Two o'clock is the afternoon."],
+[["favourite","problem","recipe","neighbour"],"like lasagna and soup","Her favourite."],
+[["diapers","soup","lasagna","milk"],"groceries or diapers","Diapers."],
+[["on Sunday","on Monday","tonight","next month"],"next Sunday afternoon","Sunday."]
+]
+});
+
+RS.p1.push({
+id:"p1-50", lv:"E", tt:"Canada Day visit", from:"Cousin Ravi", to:"Amit",
+text:`Hi Amit,
+
+I'm so excited to visit you in Ottawa for Canada Day! My bus arrives at the station on June 30th at 4 p.m.
+
+I've never seen the Canada Day celebrations on Parliament Hill, so I really want to go. I heard there are concerts all day and fireworks at night. Do we need tickets?
+
+I'm also hoping to visit the Canadian Museum of History while I'm there. Is it far from your apartment?
+
+I'll stay for three nights and take the bus back on July 3rd. Please let me know if I should bring anything.
+
+See you soon!
+
+Ravi`,
+q:[
+["Why is Ravi going to Ottawa?",["To celebrate Canada Day","For a job interview","To study","To visit a doctor"],"visit you in Ottawa for Canada Day","Canada Day."],
+["How is Ravi travelling?",["By bus","By plane","By train","By car"],"My bus arrives at the station","Bus."],
+["What does Ravi want to see on Parliament Hill?",["Concerts and fireworks","A hockey game","A parade of cars","A museum on the Hill"],"there are concerts all day and fireworks at night","Concerts and fireworks."],
+["What does Ravi ask about the celebrations?",["Whether tickets are needed","What time they end","Where to park","How much the food there costs"],"Do we need tickets?","Tickets."],
+["What else does Ravi want to visit?",["A history museum","A shopping mall","A beach","A zoo"],"the Canadian Museum of History","The museum."],
+["How long will Ravi stay?",["Three nights","One week","One night","Two weeks"],"I'll stay for three nights","Three nights."]
+],
+reply:`Hi Ravi,
+
+I can't wait! I'll [[7]] you at the bus station on the 30th.
+
+You don't need tickets for Parliament Hill; the celebrations are [[8]]. But it gets very busy, so we should go early.
+
+The museum is only about [[9]] minutes from my place by bus. We could go on July 2nd, when it's [[10]].
+
+Just bring comfortable shoes, because we'll be [[11]] a lot!
+
+Amit`,
+b:[
+[["meet","miss","call","send"],"My bus arrives at the station","Meet him."],
+[["free","expensive","cancelled","indoors"],"Do we need tickets?","Free."],
+[["twenty","three hundred","two","ninety"],"Is it far from your apartment?","Twenty minutes: not far."],
+[["less crowded","closed","more expensive","Canada Day"],null,"July 2nd is less crowded."],
+[["walking","sleeping","driving","cooking"],null,"Comfortable shoes for walking."]
+]
+});
+
 // Part 2 — Reading to Apply a Diagram. dg = diagram; em.body has [[1]]..[[5]]; b = blanks 1–5; q = questions 6–8.
 RS.p2.push({
 id:"p2-01", lv:"H", tt:"Northside Athletic Club plans",
@@ -2071,6 +3178,916 @@ q:[
 ]
 });
 
+RS.p2.push({
+id:"p2-26", lv:"H", tt:"NorthCell family plans",
+dg:{h:"NorthCell Mobile: Family Plans", sub:"Price per line, per month · 2-year agreement not required",
+table:{cols:["Plan","Data per line","Price per line","Includes"],rows:[
+["Share 10","10 GB","$45","Canada-wide calls and texts"],
+["Share 40","40 GB","$60","Canada-wide calls and texts, calls to the U.S."],
+["Unlimited+","Unlimited (full speed to 100 GB)","$80","Everything in Share 40, 10 days of roaming per year"],
+["Kids Line","3 GB","$20","Available only with 2+ adult lines; parental controls"]]},
+foot:["4 or more lines on one account: $10 off each adult line.","Roaming: $15 per day unless included.","Bring your own phone: first month free."]},
+em:{from:"Rosa", to:"Eduardo", subj:"Switching our phones",
+body:`Hi Eduardo,
+
+I compared the NorthCell plans. Since you call your brother in Chicago almost every night, you'd need at least [[1]].
+
+I barely use data, so the cheapest adult plan is plenty for me. For Lucía, who is eleven, the Kids Line makes sense, especially because of the [[2]].
+
+Your mother is joining our account too, so we'd have four lines. That means both our lines and hers would [[3]].
+
+We're going to Portugal for a week in July. If you took Unlimited+, your roaming [[4]], but I'd pay $15 a day on mine.
+
+We're keeping our current phones, so we'd also [[5]].
+
+Rosa`},
+b:[
+[["Share 40","Share 10","Kids Line","roaming"],"Canada-wide calls and texts, calls to the U.S.","U.S. calls start with Share 40."],
+[["parental controls","unlimited data","free roaming","calls to the U.S."],"Available only with 2+ adult lines; parental controls","Parental controls for a child."],
+[["be $10 cheaper","include roaming","become Kids Lines","cost $80"],"4 or more lines on one account: $10 off each adult line.","Four lines: $10 off each adult line."],
+[["would be included","would cost $15 a day","would be unlimited","would not work"],"10 days of roaming per year","Unlimited+ includes 10 days of roaming."],
+[["get the first month free","pay a setup fee","need new SIM cards","lose our numbers"],"Bring your own phone: first month free.","Keeping phones: first month free."]
+],
+q:[
+["What is the main purpose of Rosa's email?",["To plan the family's new phone service","To book a trip to Portugal","To ask Eduardo to call his brother less","To buy Lucía her first phone"],"I compared the NorthCell plans","Choosing plans."],
+["What does Rosa say about her own phone use?",["She uses very little data.","She calls the U.S. often.","She needs unlimited data.","She will not travel in July."],"I barely use data","She barely uses data."],
+["Who will be on the account?",["Rosa, Eduardo, Lucía and Eduardo's mother","Only Rosa and Eduardo","Rosa, Eduardo and his brother","Rosa, Eduardo and their four children"],"Your mother is joining our account too, so we'd have four lines","Four lines."]
+]
+});
+
+RS.p2.push({
+id:"p2-27", lv:"H", tt:"SafeHome security packages",
+dg:{h:"SafeHome Security Systems", sub:"Installation included · 36-month contract",
+items:[
+{n:"Essential", p:"$29.99/month", l:["2 door sensors, 1 motion sensor","Loud alarm","App alerts to your phone","No professional monitoring"]},
+{n:"Monitored", p:"$44.99/month", l:["Everything in Essential","24/7 professional monitoring","Police or fire dispatch","Insurance certificate provided"]},
+{n:"Monitored + Video", p:"$59.99/month", l:["Everything in Monitored","2 outdoor cameras","30 days of cloud video storage"]}
+],
+foot:["Extra sensors: $35 each.","Cancel early: pay 50% of remaining months.","Many insurers discount premiums up to 15% with a monitoring certificate."]},
+em:{from:"Hugh", to:"Nora", subj:"Alarm system after the break-in",
+body:`Nora,
+
+After what happened to the Wongs next door, I've looked at SafeHome. The Essential plan is cheapest, but if the alarm went off while we were travelling, [[1]], which defeats the purpose.
+
+I'd choose at least the Monitored plan. It also comes with [[2]], and our insurance company told me that could lower our premium by up to 15 percent.
+
+The cameras are tempting, especially since the Wongs' thieves were never identified. The Video plan costs [[3]] more each month than Monitored.
+
+The two included door sensors would cover the front and back doors, but the side door and the basement window would need sensors too, so we'd have to buy [[4]].
+
+Just remember that if we move before the contract ends, we'd [[5]]. Let's decide this weekend.
+
+Hugh`},
+b:[
+[["nobody would be sent to check","the app would not work","the cameras would record","the police would call us"],"No professional monitoring","Without monitoring, no one is dispatched."],
+[["an insurance certificate","two cameras","extra sensors","thirty days of cloud video storage"],"Insurance certificate provided","The certificate may lower the premium."],
+[["$15","$30","$44.99","$35"],"$59.99/month","$59.99 − $44.99 = $15."],
+[["two extra sensors","one extra sensor","two more cameras","three motion sensors"],"Extra sensors: $35 each.","The side door and basement window need two extra sensors at $35 each."],
+[["owe half of the remaining payments","lose our deposit","have to pay nothing","get to keep all the cameras for free"],"Cancel early: pay 50% of remaining months.","50% of remaining months."]
+],
+q:[
+["What prompted Hugh to look at alarm systems?",["A neighbour's home was broken into.","Their insurance required it.","Their old alarm broke.","They are going travelling for several weeks soon."],"After what happened to the Wongs next door","The Wongs' break-in."],
+["Why does Hugh find cameras appealing?",["The neighbours' burglars were never caught.","They are included for free.","The insurer requires them.","Nora asked for cameras after the Wongs' burglary."],"the Wongs' thieves were never identified","The thieves weren't identified."],
+["When does Hugh want to make a decision?",["This weekend","After they move","Before their trip","In 36 months"],"Let's decide this weekend","This weekend."]
+]
+});
+
+RS.p2.push({
+id:"p2-28", lv:"H", tt:"Aurora Air fare types",
+dg:{h:"Aurora Air: Fare Types (Economy)", sub:"Toronto–Vancouver, one way",
+table:{cols:["Fare","Price","Checked bag","Seat choice","Changes","Refund"],rows:[
+["Basic","$219","Not included ($35)","Assigned at check-in","Not allowed","No"],
+["Standard","$289","1 bag included","Free","$100 fee","Travel credit only"],
+["Flex","$379","1 bag included","Free, including extra-legroom seats","Free","Full refund to original payment"],
+["Premium","$649","2 bags included","Premium cabin","Free","Full refund to original payment"]]},
+foot:["Aurora Rewards members earn double points on Flex and Premium fares.","Changes must be made at least 2 hours before departure."]},
+em:{from:"Sanjay", to:"Priti", subj:"Flight to Vancouver for the conference",
+body:`Hi Priti,
+
+I'm booking your flight to Vancouver for the medical conference. Since your talk might be moved to a different day, you need a fare that lets you [[1]] without paying extra.
+
+The Standard fare would charge you [[2]] for each change, so I'd recommend Flex. You also mentioned your knee has been bothering you on long flights, and Flex would let you [[3]].
+
+If the conference is cancelled, Flex would give you [[4]], whereas Standard would only give you credit for a future trip.
+
+The difference between Standard and Flex is [[5]], which the department will cover.
+
+Let me know if that's okay.
+
+Sanjay`},
+b:[
+[["change your flight","bring two bags","sit in the premium cabin","earn double points"],"Free","Talk may move: free changes needed."],
+[["$100","$35","$90","$379"],"$100 fee","$100 fee per change."],
+[["pick a seat with more legroom","bring a second bag","board first","use the airport lounge before the flight"],"Free, including extra-legroom seats","Extra-legroom seats on Flex."],
+[["your money back","a travel credit","a free upgrade","double points"],"Full refund to original payment","Full refund."],
+[["$90","$70","$160","$100"],"$379","$379 − $289 = $90."]
+],
+q:[
+["Why is Priti travelling to Vancouver?",["To speak at a conference","To visit family","For a job interview","For medical treatment"],"your talk might be moved","She's giving a talk at a conference."],
+["Why does Sanjay mention Priti's knee?",["Long flights make it uncomfortable.","She needs a wheelchair.","She must carry a heavy bag.","She is not able to take flights that leave at night."],"your knee has been bothering you on long flights","Her knee bothers her on long flights."],
+["Who will pay the extra cost?",["Priti's department","Priti herself","Sanjay","The airline"],"which the department will cover","The department."]
+]
+});
+
+RS.p2.push({
+id:"p2-29", lv:"H", tt:"Campus meal plans",
+dg:{h:"Lakehead College Residence Meal Plans", sub:"2025–26 academic year (September–April)",
+items:[
+{n:"Light", p:"$3,900 / year", l:["10 meals per week","$200 Flex Dollars","Best for students who cook sometimes"]},
+{n:"Regular", p:"$5,100 / year", l:["14 meals per week","$400 Flex Dollars","Breakfast served until 11 a.m. on weekends"]},
+{n:"Unlimited", p:"$6,300 / year", l:["Unlimited dining hall access","$300 Flex Dollars","Guest passes: 10 per year"]}
+],
+foot:["Flex Dollars can be used at campus cafés and the convenience store. Unused Flex Dollars expire April 30.","Students in suite-style residences (with kitchens) may choose the Light plan or no plan."]},
+em:{from:"Mom", to:"Aidan", subj:"Your meal plan",
+body:`Hi Aidan,
+
+The college needs your meal plan choice by Friday. Since you're living in the traditional dorm, not the suites, you [[1]].
+
+You told me you usually skip breakfast, eat lunch on campus, and have dinner every day, so you'd need about fourteen meals a week. That means the [[2]] plan would suit you best.
+
+I know Unlimited sounds appealing, and it would let you [[3]] when your friends visit. But it costs $1,200 more a year, and you'd actually get fewer [[4]] than with Regular.
+
+Remember that any Flex Dollars you don't use [[5]], so don't save them up.
+
+Love,
+Mom`},
+b:[
+[["must choose a meal plan","can cook for yourself","can skip the meal plan","get a free kitchen"],"Students in suite-style residences (with kitchens) may choose the Light plan or no plan.","Only suite students can skip; dorm students must choose."],
+[["Regular","Light","Unlimited","Flex"],"14 meals per week","Fourteen meals = Regular."],
+[["bring guests","cook dinner","sleep in","choose a suite"],"Guest passes: 10 per year","Unlimited includes guest passes."],
+[["Flex Dollars","meals","guest passes","breakfasts"],"$300 Flex Dollars","Unlimited has $300 Flex vs Regular's $400."],
+[["disappear after April","roll over to next year","can be refunded","double in value"],"Unused Flex Dollars expire April 30.","They expire April 30."]
+],
+q:[
+["What must Aidan do by Friday?",["Choose his meal plan","Move into a suite","Pay his tuition","Visit his mother"],"The college needs your meal plan choice by Friday","Choose a plan."],
+["What does Aidan usually do in the morning?",["He doesn't eat breakfast.","He cooks breakfast in his room.","He eats at a café.","He has breakfast at 11 a.m."],"you usually skip breakfast","He skips breakfast."],
+["What is his mother's attitude toward the Unlimited plan?",["It costs more and offers less of something useful.","It is the best value.","It is only for suite students.","It is not being offered to first-year students this year."],"it costs $1,200 more a year, and you'd actually get fewer","More cost, fewer Flex Dollars."]
+]
+});
+
+RS.p2.push({
+id:"p2-30", lv:"H", tt:"Condo amenity bookings",
+dg:{h:"The Harbourview Condominium: Amenity Rules", sub:"Book through the resident portal",
+table:{cols:["Amenity","Max. guests","Booking fee","Deposit","Rules"],rows:[
+["Party Room","40","$150","$500 (refundable)","Must end by 11 p.m.; cleaning by resident"],
+["Rooftop Terrace","20","$75","$250 (refundable)","No glass; closed Nov–April"],
+["Guest Suite","4","$120 / night","None","Max. 3 nights; 2 weeks' notice"],
+["Theatre Room","12","Free","None","3-hour limit"]]},
+foot:["Deposits are returned within 10 days if no damage is found.","Residents with unpaid condo fees cannot book amenities."]},
+em:{from:"Wendy", to:"Tom", subj:"Planning Dad's 70th",
+body:`Hi Tom,
+
+I've been looking at the amenities in my building for Dad's seventieth in November. We're expecting about thirty-five guests, so the rooftop is out, not only because of the size but also because it [[1]].
+
+The party room works, but the party must finish by eleven, and we'd have to [[2]] ourselves afterward. We'd also pay a deposit of [[3]], although we'd get it back if nothing is damaged.
+
+Aunt Joan and Uncle Pete are coming from Winnipeg. They could stay in the guest suite for [[4]] at most, but I need to book it at least two weeks ahead.
+
+Finally, the kids could watch a movie in the theatre room during the speeches, since it's [[5]].
+
+Wendy`},
+b:[
+[["is closed that month","does not allow glass","costs too much to book","needs two weeks' notice"],"No glass; closed Nov–April","The party is in November, when the rooftop is closed (and it holds only 20)."],
+[["clean up","pay the caterer","lock the doors","call security"],"Must end by 11 p.m.; cleaning by resident","Cleaning by resident."],
+[["$500","$150","$250","$75"],"$500 (refundable)","$500 refundable."],
+[["three nights","two weeks","one night","four nights"],"Max. 3 nights; 2 weeks' notice","Max 3 nights."],
+[["free","closed","small","noisy"],"Free","The theatre room is free."]
+],
+q:[
+["What is Wendy planning?",["A birthday party for her father","A wedding","A movie night","A trip to Winnipeg"],"Dad's seventieth in November","Dad's 70th."],
+["Who will need a place to stay?",["Relatives from Winnipeg","Wendy's children","Tom's friends","Her father and his old friends from work"],"Aunt Joan and Uncle Pete are coming from Winnipeg","Aunt and uncle."],
+["What will the children do during the speeches?",["Watch a film","Play on the rooftop","Help clean","Sleep in the guest suite"],"the kids could watch a movie in the theatre room","Watch a movie."]
+]
+});
+
+RS.p2.push({
+id:"p2-31", lv:"H", tt:"Lumen Studio wedding photography",
+dg:{h:"Lumen Studio: Wedding Photography", sub:"Ontario weddings · 2026 season",
+items:[
+{n:"Ceremony", p:"$1,800", l:["4 hours of coverage","1 photographer","300+ edited photos (online gallery)"]},
+{n:"Classic", p:"$3,200", l:["8 hours of coverage","2 photographers","600+ edited photos","Engagement session included"]},
+{n:"Heirloom", p:"$4,900", l:["Full day (up to 12 hours)","2 photographers","800+ edited photos","Engagement session","Printed 40-page album"]}
+],
+foot:["Travel beyond 100 km from Toronto: $1 per km (round trip).","Extra hour: $250.","Friday and Sunday weddings: 10% off."]},
+em:{from:"Leah", to:"Marcus", subj:"Photographer decision",
+body:`Marcus,
+
+I met with Lumen Studio yesterday. Our ceremony starts at 2 p.m. and the reception ends around 11, so four hours of coverage would [[1]].
+
+The Classic package covers eight hours, which gets us almost to the end. If we added [[2]], we'd be covered until the last dance, for a total of $3,450.
+
+Heirloom would cover the whole day and includes a printed album, but it's over $1,400 more than Classic plus the extra hour. Since my aunt has already offered to make us an album as a gift, I don't think we need [[3]].
+
+Both Classic and Heirloom include an [[4]], which is great, because we still need photos for our save-the-date cards.
+
+The venue is only 60 km from Toronto, so we [[5]].
+
+Leah`},
+b:[
+[["not be nearly enough","be too much","cost extra","include an album"],"4 hours of coverage","2 p.m. to 11 p.m. is nine hours; four is not enough."],
+[["one extra hour","a second photographer","an album","a Friday discount"],"Extra hour: $250.","$3,200 + $250 = $3,450."],
+[["to pay for that","a second photographer","the engagement session","an online gallery"],"Printed 40-page album","Her aunt will make an album, so no need to pay for one."],
+[["engagement session","extra hour","travel fee","album"],"Engagement session included","Engagement photos for save-the-date cards."],
+[["won't pay a travel charge","will pay $60","will pay $120","need to pay for a photographer's hotel"],"Travel beyond 100 km from Toronto: $1 per km (round trip).","60 km is under 100 km: no travel fee."]
+],
+q:[
+["What is the purpose of Leah's email?",["To choose a wedding photographer","To book a wedding venue","To plan the reception music","To order save-the-date cards"],"I met with Lumen Studio yesterday","Choosing a photographer."],
+["What does Leah say about her aunt?",["She has offered to give them an album.","She is a photographer.","She will pay for the photos.","She lives about 60 km away from the venue."],"my aunt has already offered to make us an album as a gift","An album gift."],
+["What will they use some photos for?",["Save-the-date cards","A website","A magazine","Thank-you gifts"],"we still need photos for our save-the-date cards","Save-the-date cards."]
+]
+});
+
+RS.p2.push({
+id:"p2-32", lv:"H", tt:"PawGuard pet insurance",
+dg:{h:"PawGuard Pet Insurance", sub:"Monthly premiums for dogs aged 1–7",
+table:{cols:["Plan","Monthly","Accidents","Illness","Dental","Annual limit","Deductible"],rows:[
+["Accident Only","$18","Yes","No","No","$5,000","$250"],
+["Complete","$52","Yes","Yes","No","$10,000","$250"],
+["Complete Plus","$74","Yes","Yes","Yes","Unlimited","$100"]]},
+foot:["Conditions that existed before enrolment are not covered.","Waiting period: 48 hours for accidents, 14 days for illness.","Dogs over 8: add 30% to monthly premium."]},
+em:{from:"Chris", to:"Anya", subj:"Insurance for Bruno",
+body:`Anya,
+
+Now that Bruno is two, I think we should insure him. Accident Only is cheap, but it wouldn't help if he [[1]], and that's what worries me most after what happened to my parents' dog.
+
+Bruno's teeth are already a bit yellow, and the vet said he may need a cleaning next year. Only Complete Plus [[2]].
+
+However, the vet noticed that small skin allergy in March. Because it started [[3]], none of the plans would pay for it.
+
+If we sign up today and he got sick next week, we [[4]], because of the waiting period.
+
+Complete Plus also has a lower [[5]], so we'd pay less out of pocket each time.
+
+Chris`},
+b:[
+[["developed an illness","broke a leg","swallowed a toy","had a car accident"],null,"The Accident Only row shows 'No' for illness."],
+[["covers dental care","covers accidents","has a deductible","costs under $50"],"Dental","Only Complete Plus includes dental."],
+[["before we enrolled him","after the waiting period","while he was eight","during a dental cleaning"],"Conditions that existed before enrolment are not covered.","Pre-existing conditions are excluded."],
+[["might not be covered","would be fully covered","would pay 30% more","could cancel for free"],"14 days for illness","Illness has a 14-day wait."],
+[["deductible","annual limit","monthly price","waiting period"],"$100","Deductible $100 vs $250."]
+],
+q:[
+["Why does Chris want illness coverage?",["Something happened to his parents' dog.","Bruno is often sick.","The vet recommended it.","It is required by law for all dogs in Ontario."],"after what happened to my parents' dog","His parents' dog."],
+["What did the vet say about Bruno's teeth?",["They may need cleaning soon.","They are perfectly healthy.","Some must be removed now.","They are causing his allergy."],"he may need a cleaning next year","A cleaning next year."],
+["How old is Bruno?",["Two","Eight","One","Seven"],"Now that Bruno is two","Two."]
+]
+});
+
+RS.p2.push({
+id:"p2-33", lv:"H", tt:"GreenBlade lawn care",
+dg:{h:"GreenBlade Lawn Care", sub:"Season: April–October · Prices for lawns up to 5,000 sq. ft.",
+items:[
+{n:"Mow Only", p:"$45 / visit", l:["Weekly or every 2 weeks","Clippings left on lawn","Edging not included"]},
+{n:"Care Plan", p:"$1,150 / season", l:["Weekly mowing and edging","3 fertilizer treatments","Spring clean-up"]},
+{n:"Total Care", p:"$1,690 / season", l:["Everything in Care Plan","Fall leaf removal","Aeration and overseeding","Weed control (organic)"]}
+],
+foot:["Lawns over 5,000 sq. ft.: add 20%.","Pay in full by March 15 and save 5%.","Chemical weed control not offered (city bylaw)."]},
+em:{from:"Harold", to:"Joyce", subj:"Lawn service",
+body:`Joyce,
+
+Now that my back won't let me push the mower, I've looked into GreenBlade. Our lawn is about 6,000 square feet, so every price would be [[1]] higher.
+
+Mow Only would be the cheapest, but you always complain when the edges [[2]], and it doesn't include edging.
+
+The big maple drops so many leaves every October that I think we should go with [[3]]. It's the only plan that includes leaf removal.
+
+You asked about using stronger chemicals on the dandelions. GreenBlade doesn't offer that at all because [[4]].
+
+If we pay the whole amount before [[5]], we'd get 5 percent off.
+
+Harold`},
+b:[
+[["20 percent","5 percent","$45","$1,150"],"Lawns over 5,000 sq. ft.: add 20%.","Over 5,000 sq. ft.: +20%."],
+[["look untidy","are too short","turn yellow","get watered"],"Edging not included","She dislikes untidy edges."],
+[["Total Care","Care Plan","Mow Only","spring clean-up"],"Fall leaf removal","Only Total Care removes leaves."],
+[["the city doesn't allow it","it costs too much","it harms the maple","the season is too short"],"Chemical weed control not offered (city bylaw).","A city bylaw."],
+[["March 15","April","October","the first visit"],"Pay in full by March 15 and save 5%.","March 15."]
+],
+q:[
+["Why does Harold want a lawn service?",["He can no longer mow because of his back.","He is moving away.","The mower is broken.","Joyce asked him to hire a company to do it."],"my back won't let me push the mower","His back."],
+["What problem does the maple tree cause?",["Lots of leaves in the fall","Too much shade in summer","Damage to the roof","Dandelions in the lawn"],"The big maple drops so many leaves every October","Leaves."],
+["What did Joyce ask about?",["Using chemicals on weeds","Planting a new tree","Watering the lawn","Hiring a gardener weekly"],"You asked about using stronger chemicals on the dandelions","Chemicals on dandelions."]
+]
+});
+
+RS.p2.push({
+id:"p2-34", lv:"H", tt:"TaxEase filing services",
+dg:{h:"TaxEase: Personal Tax Services", sub:"2025 tax year · Filing deadline April 30",
+table:{cols:["Service","Price","Who it's for","Extras"],rows:[
+["Simple Return","$60","Employment income only","E-filing included"],
+["Family Bundle","$150","Up to 2 adults + dependants","Child benefit application; spousal credits"],
+["Self-Employed","$240","Freelance or small-business income","Expense review; HST filing extra ($90)"],
+["Newcomer Return","$95","First Canadian tax return","World income declaration help"]]},
+foot:["Book before March 31: 15% off.","Late filers (after April 30): +$50 rush fee.","Bring all T4, T5 and receipts to your appointment."]},
+em:{from:"Mei", to:"Jonah", subj:"Our taxes this year",
+body:`Jonah,
+
+Now that you've started freelancing as a photographer, your return is more complicated. The Simple Return [[1]], so you'd need the Self-Employed service.
+
+You also collect HST from clients now, so filing that would cost [[2]] extra.
+
+My return is just my salary from the hospital, so mine could be a Simple Return. Alternatively, we could both go under the Family Bundle, but I don't think it covers [[3]].
+
+If we book before the end of March, we'd get [[4]] off.
+
+Please start collecting your receipts for camera equipment. They'll help reduce your taxes, and TaxEase will [[5]] them.
+
+Mei`},
+b:[
+[["is only for employment income","costs too much","is for newcomers","includes the cost of HST filing"],"Employment income only","Freelance income doesn't fit Simple Return."],
+[["$90","$240","$60","$50"],"HST filing extra ($90)","$90."],
+[["freelance income","two adults","child benefits","spousal credits"],"Freelance or small-business income","The Family Bundle is not listed for self-employment."],
+[["15 percent","$50","5 percent","half"],"Book before March 31: 15% off.","15%."],
+[["review","sell","return","file separately"],"Expense review","Self-Employed includes an expense review."]
+],
+q:[
+["What changed for Jonah this year?",["He began working for himself.","He moved to Canada.","He had a child.","He started at the hospital."],"you've started freelancing as a photographer","Freelancing."],
+["Where does Mei work?",["At a hospital","At TaxEase","As a photographer","At a school"],"my salary from the hospital","A hospital."],
+["What does Mei ask Jonah to do?",["Gather receipts for his equipment","Book the appointment","Pay the rush fee","Buy a new camera"],"start collecting your receipts for camera equipment","Collect receipts."]
+]
+});
+
+RS.p2.push({
+id:"p2-35", lv:"H", tt:"CloudVault storage plans",
+dg:{h:"CloudVault Storage Plans", sub:"Photos, videos and documents · Monthly prices",
+table:{cols:["Plan","Storage","Price","Users","Extras"],rows:[
+["Free","15 GB","$0","1","—"],
+["Plus","200 GB","$3.99","1","Automatic phone backup"],
+["Family","2 TB (shared)","$12.99","Up to 6","Shared albums; each user has private files"],
+["Pro","5 TB","$24.99","1","1-year version history; priority support"]]},
+foot:["Pay yearly and get 2 months free (pay for 10 months).","Upgrades take effect immediately; downgrades at the next billing date."]},
+em:{from:"Omar", to:"Sana", subj:"Our photo storage",
+body:`Sana,
+
+Our phones keep saying they're full. Our photo library is already 180 GB, so the free plan [[1]].
+
+Plus would hold everything for now, but since we add about 50 GB of photos and videos a year, we'd [[2]] within a year.
+
+I think Family is the best choice. It gives us 2 TB and lets [[3]] use it, and the kids could keep their own files private.
+
+If we pay yearly, Family would cost [[4]] instead of paying month by month.
+
+Pro has even more space, but it's [[5]], so the kids couldn't use it.
+
+Omar`},
+b:[
+[["is nowhere near enough","would be just enough","costs too much","has no phone backup"],"15 GB","15 GB is far below 180 GB."],
+[["run out of space","need a new phone","lose our photos","get two months free"],"200 GB","180 + 50 = 230 GB, more than 200 GB."],
+[["all four of us","only two people","up to ten people","just one person"],"Up to 6","Family allows up to six users."],
+[["$129.90","$155.88","$12.99","$39.90"],"Pay yearly and get 2 months free (pay for 10 months).","10 × $12.99 = $129.90."],
+[["for a single user","free for students","only for photos","not available in Canada"],"1-year version history; priority support","Pro has one user."]
+],
+q:[
+["What problem started Omar's search?",["Their phones are running out of space.","They lost some photos.","Their current plan is expensive.","The children deleted some important family files."],"Our phones keep saying they're full","Phones are full."],
+["What does Omar like about Family?",["Each person can keep private files.","It includes version history.","It is free for children.","It gives every user priority customer support."],"the kids could keep their own files private","Private files."],
+["What does Omar say about Pro?",["It has more storage than they need to share.","It is the cheapest option.","It is best for families.","It lets the whole family, including the kids, use it."],"Pro has even more space, but","More space, but single-user."]
+]
+});
+
+RS.p2.push({
+id:"p2-36", lv:"H", tt:"General Hospital parking",
+dg:{h:"St. Mary's General Hospital: Visitor Parking", sub:"Main garage, Queen Street entrance",
+table:{cols:["Option","Price","Details"],rows:[
+["Hourly","$3.50 per 30 minutes","Daily maximum $26"],
+["Evening flat rate","$8","Enter after 6 p.m., leave by 6 a.m."],
+["Weekly pass","$70","7 consecutive days; unlimited in-and-out"],
+["Monthly pass","$180","30 days; unlimited in-and-out"]]},
+foot:["Patients with 3 or more appointments per week: 50% off weekly pass (clinic stamp required).","Passes sold at the cashier on Level 1 only (cash or card)."]},
+em:{from:"Priya", to:"Arjun", subj:"Parking while Mom is in hospital",
+body:`Arjun,
+
+The doctor says Mom will be in hospital for about a week. I'll visit every afternoon for around three hours, so paying hourly would cost me [[1]] a day.
+
+That's why I'm getting the [[2]] instead; it's only $70 for all seven days. It also [[3]], so I can leave to get lunch and come back without paying again.
+
+On the days you visit after work, around seven, you'd pay only [[4]] if you parked on your own.
+
+By the way, Dad's physio appointments are only twice a week, so unfortunately he won't [[5]].
+
+You can buy passes only at the cashier on Level 1.
+
+Priya`},
+b:[
+[["$21","$26","$3.50 for each half hour you stay","$8"],"$3.50 per 30 minutes","Three hours = six half-hours × $3.50 = $21."],
+[["weekly pass","monthly pass","evening rate","daily maximum"],"$70","Seven days for $70."],
+[["allows unlimited in-and-out","includes free meals","covers two cars","lasts a month"],"7 consecutive days; unlimited in-and-out","In-and-out privileges."],
+[["the $8 flat rate","$26","$70","$3.50"],"Enter after 6 p.m., leave by 6 a.m.","After 6 p.m.: $8."],
+[["qualify for the patient discount","need a pass","be allowed to park","have to pay the full daily maximum"],"Patients with 3 or more appointments per week: 50% off weekly pass","Two appointments is fewer than three."]
+],
+q:[
+["Why is Priya writing?",["To explain parking costs during their mother's hospital stay","To ask Arjun to drive Dad to physio","To complain about the hospital","To ask Arjun to buy a monthly pass for the family car"],"The doctor says Mom will be in hospital for about a week","Parking during Mom's stay."],
+["When will Priya visit?",["Every afternoon","Every evening after work","Only on weekends","Twice a week"],"I'll visit every afternoon","Every afternoon."],
+["Where can passes be bought?",["At one cashier location","From the hospital website","At any parking machine","From the physio clinic"],"You can buy passes only at the cashier on Level 1","Level 1 cashier."]
+]
+});
+
+RS.p2.push({
+id:"p2-37", lv:"H", tt:"Harmony Music School",
+dg:{h:"Harmony Music School", sub:"Fall term: September 8 – December 12",
+items:[
+{n:"Private Lesson (30 min)", p:"$38 / lesson", l:["All instruments","Ages 5+","Weekly, flexible times"]},
+{n:"Private Lesson (45 min)", p:"$55 / lesson", l:["All instruments","Recommended for intermediate students"]},
+{n:"Group Guitar", p:"$180 / 10 weeks", l:["Max. 6 students","Beginners, ages 9–14","Saturdays 10 a.m."]},
+{n:"Rock Band Program", p:"$320 / term", l:["Ages 12–17","At least 2 years' experience","Two live performances"]}
+],
+foot:["Siblings: 10% off the second child's fees.","Instrument rental: $25/month.","First private lesson free for new students."]},
+em:{from:"Ingrid", to:"Paul", subj:"Music lessons for the kids",
+body:`Paul,
+
+Maya has been playing guitar for three years and keeps saying she wants to play on a stage, so the [[1]] seems perfect for her. At fourteen, she's also [[2]].
+
+Leo is a complete beginner on piano, and you know how restless he gets, so I'd start him with [[3]]. The first one would even be [[4]], so we can see if he likes it.
+
+We don't have a piano at home, so we'd need to [[5]] until we know he'll stick with it.
+
+What do you think?
+
+Ingrid`},
+b:[
+[["Rock Band Program","Group Guitar","45-minute lesson","instrument rental"],"Two live performances","She wants to perform, and has 3 years' experience."],
+[["within the age range","too old for it","too young for it","a beginner"],"Ages 12–17","Fourteen is within 12–17."],
+[["30-minute private lessons","Group Guitar","45-minute private lessons","the Rock Band Program"],"Private Lesson (30 min)","A short lesson suits a restless beginner."],
+[["free","$38","$55","10% off"],"First private lesson free for new students.","The first private lesson is free."],
+[["rent a keyboard","buy a piano","borrow Maya's guitar","skip practice"],"Instrument rental: $25/month.","Rent an instrument."]
+],
+q:[
+["What does Maya want?",["To perform in front of an audience","To learn piano","To take private lessons","To teach guitar to her younger brother"],"keeps saying she wants to play on a stage","To play on a stage."],
+["What does Ingrid say about Leo?",["He finds it hard to sit still.","He has played piano for years.","He wants to join a band.","He owns a keyboard."],"you know how restless he gets","He's restless."],
+["What does Ingrid want from Paul?",["His opinion","His payment","A lift to the school","A piano"],"What do you think?","His opinion."]
+]
+});
+
+RS.p2.push({
+id:"p2-38", lv:"M", tt:"Blue Summit ski passes",
+dg:{h:"Blue Summit Resort: Lift Tickets", sub:"2025–26 season",
+table:{cols:["Ticket","Adult (18+)","Youth (6–17)"],rows:[
+["Day ticket","$89","$59"],
+["Night skiing (after 4 p.m.)","$39","$29"],
+["4-Day Pack (any 4 days)","$299","$199"],
+["Season pass","$799","$499"]]},
+foot:["Children 5 and under ski free.","4-Day Packs can be shared among family members.","Season pass holders get 20% off rentals and lessons."]},
+em:{from:"Kim", to:"Dan", subj:"Skiing this winter",
+body:`Hi Dan,
+
+I've been looking at Blue Summit prices. We usually ski about four times a winter, so a [[1]] makes the most sense for us. It's cheaper than four day tickets, and we can [[2]] with each other.
+
+Emma is thirteen, so she'd need a [[3]] ticket. Her little brother Ben is five, so he can [[4]].
+
+If you want to go after work sometimes, night skiing is only [[5]] for adults.
+
+Kim`},
+b:[
+[["4-Day Pack","season pass","day ticket","night ticket"],"4-Day Pack (any 4 days)","Four days a winter = 4-Day Pack."],
+[["share it","sell it","upgrade it","return it"],"4-Day Packs can be shared among family members.","Packs can be shared."],
+[["youth","adult","child","senior"],"Youth (6–17)","Thirteen = youth."],
+[["ski for free","buy a youth pack","take lessons","use night tickets"],"Children 5 and under ski free.","Five and under: free."],
+[["$39","$89","$29","$59"],"$39","Adult night: $39."]
+],
+q:[
+["What is Kim planning?",["Ski trips for the family","A job at a ski resort","A ski lesson for Dan","A trip abroad"],"I've been looking at Blue Summit prices","Family skiing."],
+["How often does the family ski?",["About four times a winter","Every weekend","Only once a year, during the holidays","Every night"],"We usually ski about four times a winter","About four times."],
+["When might Dan ski at night?",["After work","On weekends","During lunch","In summer"],"If you want to go after work sometimes","After work."]
+]
+});
+
+RS.p2.push({
+id:"p2-39", lv:"M", tt:"QuickLube service menu",
+dg:{h:"QuickLube Auto Care", sub:"Service menu",
+items:[
+{n:"Oil Change", p:"$69", l:["Synthetic blend oil","Filter replacement","About 30 minutes"]},
+{n:"Tire Swap", p:"$99", l:["Switch summer/winter tires","Balance and pressure check","Storage: +$60 per season"]},
+{n:"Full Inspection", p:"$149", l:["Oil change included","Brake and battery check","Written report"]}
+],
+foot:["Free car wash with any service.","Saturday appointments must be booked online."]},
+em:{from:"Leo", to:"Sam", subj:"Car before the road trip",
+body:`Sam,
+
+Before our road trip to Quebec City, I want to get the car checked. The brakes have been making a noise, so I'm booking the [[1]], which includes a brake check.
+
+Since it already [[2]], we don't need to book a separate one.
+
+We also need to put the summer tires back on. The garage can store our winter tires too, but that costs [[3]] extra.
+
+The good news is that we'll get a [[4]] with any service.
+
+I'll book for Saturday [[5]], since that's required on weekends.
+
+Leo`},
+b:[
+[["Full Inspection","Oil Change","Tire Swap","car wash"],"Brake and battery check","Brakes are checked in the Full Inspection."],
+[["includes an oil change","includes a tire swap","includes storage","takes 30 minutes"],"Oil change included","Oil change included."],
+[["$60","$99","$69","$149"],"Storage: +$60 per season","$60."],
+[["free car wash","free oil change","free tire","discount"],"Free car wash with any service.","Free car wash."],
+[["online","by phone","in person","by email"],"Saturday appointments must be booked online.","Online."]
+],
+q:[
+["Why does Leo want the car checked?",["They are going on a long drive.","They are selling the car.","It failed an inspection.","It was damaged in a small accident last month."],"Before our road trip to Quebec City","A road trip."],
+["What problem does the car have?",["A noise from the brakes","A flat tire","A dead battery","An oil leak under the engine"],"The brakes have been making a noise","Brake noise."],
+["What season is it probably?",["Spring","Early winter","Late fall","Winter"],"We also need to put the summer tires back on","Putting summer tires back on = spring."]
+]
+});
+
+RS.p2.push({
+id:"p2-40", lv:"M", tt:"Lakeside Hotel meeting rooms",
+dg:{h:"Lakeside Hotel: Meeting Rooms", sub:"Full-day rates (8 a.m.–5 p.m.)",
+table:{cols:["Room","Capacity","Price","Audio-visual"],rows:[
+["Boardroom","12","$300","TV screen only"],
+["Studio","30","$550","Projector and microphone included"],
+["Ballroom","120","$1,800","Full AV package included"]]},
+foot:["Catering minimum: $25 per person.","Free Wi-Fi in all rooms.","Book 30 days ahead and save 10%."]},
+em:{from:"Hina", to:"Brad", subj:"Training day venue",
+body:`Brad,
+
+For our training day on March 12th, we'll have about twenty-five staff, so the Boardroom is too small. The [[1]] would fit everyone.
+
+It also comes with a [[2]], so we won't need to rent one for your presentation.
+
+If lunch is catered for everyone, it would cost at least [[3]].
+
+Since it's February 1st today, we can still [[4]] if we book this week.
+
+All rooms have [[5]], so people can bring laptops.
+
+Hina`},
+b:[
+[["Studio","Ballroom","Boardroom","lobby"],"30","Twenty-five people fit in the Studio (30)."],
+[["projector","TV screen","caterer","microphone stand"],"Projector and microphone included","A projector is included."],
+[["$625","$250","$550","$300"],"Catering minimum: $25 per person.","25 × $25 = $625."],
+[["save 10 percent","get free Wi-Fi","use the Ballroom","get free lunch"],"Book 30 days ahead and save 10%.","More than 30 days ahead: 10% off."],
+[["free Wi-Fi","projectors","full AV","catering"],"Free Wi-Fi in all rooms.","Free Wi-Fi."]
+],
+q:[
+["What is Hina organizing?",["A training day","A wedding","A holiday party","A job fair"],"For our training day on March 12th","A training day."],
+["How many people will attend?",["About twenty-five","Twelve","About 120","Thirty exactly"],"about twenty-five staff","About twenty-five."],
+["What will Brad do at the event?",["Give a presentation","Cater lunch","Book the room","Fix the Wi-Fi in the Studio"],"your presentation","He will present."]
+]
+});
+
+RS.p2.push({
+id:"p2-41", lv:"M", tt:"City Museum memberships",
+dg:{h:"City Museum: Memberships", sub:"Valid for 12 months from purchase",
+items:[
+{n:"Individual", p:"$70", l:["Free admission for 1 adult","10% off in the gift shop"]},
+{n:"Dual", p:"$110", l:["Free admission for 2 adults"]},
+{n:"Family", p:"$150", l:["2 adults + children under 18","Free parking on weekends"]},
+{n:"Patron", p:"$300", l:["Family benefits","4 guest passes","Invitations to exhibit openings"]}
+],
+foot:["Single admission: adults $25, children $12.","Members get early access to special exhibits."]},
+em:{from:"Joy", to:"Ahmed", subj:"Museum membership",
+body:`Ahmed,
+
+The kids loved the dinosaur exhibit so much that I'm thinking of buying a membership. For the two of us and our three kids, the [[1]] membership would cover everyone.
+
+One visit for all of us costs $86 without a membership, so we'd save money after only [[2]] visits.
+
+We usually go on Saturdays, so the [[3]] would also help.
+
+If your parents want to come sometimes, we'd need the Patron membership for its [[4]], but I think that's too expensive.
+
+As members, we'd also get [[5]] to special exhibits.
+
+Joy`},
+b:[
+[["Family","Dual","Individual","Patron"],"2 adults + children under 18","Two adults plus kids = Family."],
+[["two","five","ten","one"],"Single admission: adults $25, children $12.","$86 × 2 = $172, more than $150."],
+[["free parking","gift shop discount","guest passes","free food"],"Free parking on weekends","Saturday = weekend parking."],
+[["guest passes","early access","parking","gift shop discount"],"4 guest passes","Grandparents would need guest passes."],
+[["early access","free tickets","private tours","discounts"],"Members get early access to special exhibits.","Early access."]
+],
+q:[
+["Why is Joy considering a membership?",["The children enjoyed a recent visit.","The museum is closing soon.","She won a prize.","Ahmed asked for one as a birthday gift."],"The kids loved the dinosaur exhibit","The kids loved it."],
+["How many children do they have?",["Three","Two","Four","One"],"our three kids","Three."],
+["What does Joy think of the Patron membership?",["It costs too much.","It is the best value.","It has no guest passes.","It is only for adults."],"I think that's too expensive","Too expensive."]
+]
+});
+
+RS.p2.push({
+id:"p2-42", lv:"M", tt:"Suds & Spin laundromat",
+dg:{h:"Suds & Spin Laundromat", sub:"Open daily 7 a.m.–10 p.m. · Last wash at 9 p.m.",
+table:{cols:["Service","Price"],rows:[
+["Small washer (1 load)","$3.50"],
+["Large washer (up to 3 loads, comforters)","$6.00"],
+["Dryer","$0.25 per 5 minutes"],
+["Wash-and-fold service","$1.80 per lb (10 lb minimum), ready next day"]]},
+foot:["Machines accept coins and tap cards.","Free Wi-Fi and coffee."]},
+em:{from:"Tariq", to:"Dina", subj:"Laundry while the washer is broken",
+body:`Dina,
+
+Until our washer is repaired, we'll have to use Suds & Spin. To wash our big duvet, we'll need a [[1]], since the small ones can't fit it.
+
+If we dry it for 40 minutes, that will cost [[2]].
+
+I'm working late on Thursday, so I won't get there until 9:30, which is [[3]] to start a wash.
+
+Maybe we should try the wash-and-fold service for the rest. We have about 15 pounds of clothes, so it would cost [[4]], and it would be ready [[5]].
+
+Tariq`},
+b:[
+[["large washer","small washer","dryer","wash-and-fold"],"Large washer (up to 3 loads, comforters)","A duvet needs the large washer."],
+[["$2.00","$0.25","$3.50","$1.00"],"$0.25 per 5 minutes","40 ÷ 5 = 8 × $0.25 = $2.00."],
+[["too late","just in time","very early","the best time"],"Last wash at 9 p.m.","After 9 p.m. is too late."],
+[["$27","$18","$15","$1.80"],"$1.80 per lb (10 lb minimum), ready next day","15 × $1.80 = $27."],
+[["the next day","the same hour","in a week","by 9 p.m."],"ready next day","Next day."]
+],
+q:[
+["Why must they use a laundromat?",["Their washing machine is broken.","They are moving.","The duvet is too dirty.","Tariq works there on weekends."],"Until our washer is repaired","Their washer is broken."],
+["What is Tariq's problem on Thursday?",["He will arrive after the last wash time.","He has no coins.","The laundromat is closed.","He has to wash their large duvet that evening."],"I won't get there until 9:30","He arrives after 9 p.m."],
+["What does Tariq suggest for the rest of the laundry?",["A service that washes it for them","Washing it at home","Waiting until the washer is fixed","Buying new clothes"],"Maybe we should try the wash-and-fold service","Wash-and-fold."]
+]
+});
+
+RS.p2.push({
+id:"p2-43", lv:"M", tt:"Parkside Veterinary Clinic",
+dg:{h:"Parkside Veterinary Clinic", sub:"Common services",
+table:{cols:["Service","Price"],rows:[
+["Wellness exam","$85"],
+["Vaccination (each)","$45"],
+["Dental cleaning","$450"],
+["Nail trim","$20"]]},
+foot:["New patients: first exam 50% off.","Appointments after 6 p.m.: +$100 emergency fee.","Payment due at time of visit."]},
+em:{from:"Lina", to:"Mark", subj:"Taking Pepper to the vet",
+body:`Mark,
+
+I booked Pepper's first appointment at Parkside. Because she's a new patient, her exam will only cost [[1]].
+
+She also needs two vaccinations, which will cost [[2]] in total.
+
+While we're there, we might as well get her nails [[3]], since she's been scratching the floors.
+
+The vet said her teeth look fine for now, so we don't need the [[4]] yet.
+
+Please don't book an evening appointment next time, because after six there's an extra [[5]] fee.
+
+Lina`},
+b:[
+[["$42.50","$85","$45","$20"],"New patients: first exam 50% off.","Half of $85 = $42.50."],
+[["$90","$45","$85","$135"],"Vaccination (each)","2 × $45 = $90."],
+[["trimmed","cleaned","painted","checked"],"Nail trim","A nail trim."],
+[["dental cleaning","wellness exam","nail trim","vaccination"],"Dental cleaning","Teeth are fine: no cleaning."],
+[["$100","$20","$45","$450"],"Appointments after 6 p.m.: +$100 emergency fee.","$100."]
+],
+q:[
+["Why is the exam cheaper?",["It is Pepper's first visit.","Pepper is a puppy.","Lina has a coupon.","It is booked on a weekday morning."],"Because she's a new patient","New patient."],
+["Why does Pepper need a nail trim?",["She has been scratching the floors.","The vet recommended it.","Her nails are broken.","She has an infection in one of her paws."],"she's been scratching the floors","Scratching floors."],
+["What does Lina ask Mark to avoid?",["Booking visits in the evening","Feeding Pepper late","Bringing Pepper to the office","Paying by card"],"Please don't book an evening appointment next time","Evening visits."]
+]
+});
+
+RS.p2.push({
+id:"p2-44", lv:"M", tt:"Harbour Rentals boats",
+dg:{h:"Harbour Rentals", sub:"Open 9 a.m.–7 p.m. · Last rental 6 p.m.",
+table:{cols:["Boat","Price per hour","Max. people","Notes"],rows:[
+["Kayak (single)","$25","1","Life jacket included"],
+["Canoe","$35","3","Life jackets included"],
+["Paddleboard","$30","1","Must be 12+"],
+["Pontoon boat","$120","8","Boating licence required"]]},
+foot:["Reserve online and save 10%.","Children under 12 must be with an adult."]},
+em:{from:"Nate", to:"Carla", subj:"Saturday on the lake",
+body:`Carla,
+
+For Saturday, I think the two of us and Olivia could share a [[1]], since it holds three people.
+
+Your nephew Jack is eleven, so he's too young for a [[2]], but he could ride in the canoe with us.
+
+My brother wanted a pontoon boat, but none of us has a [[3]], so that's not possible.
+
+If we book online, we'll [[4]].
+
+Let's get there by five at the latest, since the last rental is at [[5]].
+
+Nate`},
+b:[
+[["canoe","kayak","paddleboard","pontoon boat"],"Canoe","A canoe holds three."],
+[["paddleboard","canoe","life jacket","kayak rental"],"Must be 12+","Paddleboards: 12+."],
+[["boating licence","life jacket","reservation","credit card"],"Boating licence required","A licence is required."],
+[["save 10 percent","get a free hour","skip the line","get a bigger boat"],"Reserve online and save 10%.","Save 10%."],
+[["6 p.m.","7 p.m.","5 p.m.","9 a.m."],"Last rental 6 p.m.","6 p.m."]
+],
+q:[
+["What are they planning for Saturday?",["A day on the water","A fishing competition","A boating course","A picnic in the park"],"For Saturday","Boating."],
+["How old is Jack?",["Eleven","Twelve","Eight","Fourteen"],"Your nephew Jack is eleven","Eleven."],
+["Why can't they rent a pontoon boat?",["Nobody has the required licence.","It is too expensive.","It is already booked.","It holds only one person at a time."],"none of us has a","No licence."]
+]
+});
+
+RS.p2.push({
+id:"p2-45", lv:"M", tt:"Lotus Yoga passes",
+dg:{h:"Lotus Yoga Studio", sub:"Class passes",
+items:[
+{n:"Drop-in", p:"$22", l:["One class"]},
+{n:"10-Class Card", p:"$180", l:["Valid for 6 months","Shareable with one friend"]},
+{n:"Monthly Unlimited", p:"$149", l:["Unlimited classes","Auto-renews monthly"]},
+{n:"New Student Intro", p:"$40", l:["Unlimited classes for 2 weeks","First-time students only"]}
+],
+foot:["Mat rental: $3 per class.","Cancel at least 12 hours before class or lose the credit."]},
+em:{from:"Ella", to:"Rachel", subj:"Yoga together?",
+body:`Rachel,
+
+Want to try Lotus Yoga with me? Since neither of us has been there before, we could both start with the [[1]] for $40.
+
+After that, I'll probably go about twice a week. That's eight classes a month, so the [[2]] would be cheaper than drop-ins.
+
+You said you'd only come once a week. You could share my [[3]] if I buy one.
+
+Don't forget to bring your own mat, or it's [[4]] each time.
+
+And if you can't make a class, cancel at least [[5]] ahead.
+
+Ella`},
+b:[
+[["New Student Intro","Drop-in","10-Class Card","Monthly Unlimited"],"First-time students only","First-timers: $40 intro."],
+[["Monthly Unlimited","Drop-in","New Student Intro","mat rental"],"Unlimited classes","8 × $22 = $176, more than $149."],
+[["10-Class Card","Monthly Unlimited","intro pass","mat"],"Shareable with one friend","The 10-class card is shareable."],
+[["$3","$22","$40","free"],"Mat rental: $3 per class.","$3."],
+[["12 hours","two weeks","one day","six months"],"Cancel at least 12 hours before class","12 hours."]
+],
+q:[
+["What is Ella suggesting?",["That they try a yoga studio together","That Rachel teach yoga","That they buy mats","That they cancel their gym membership and join a studio"],"Want to try Lotus Yoga with me?","Try yoga together."],
+["How often will Ella go?",["About twice a week","Once a week","Every day","Only once or twice a month"],"I'll probably go about twice a week","Twice a week."],
+["How often does Rachel plan to go?",["Once a week","Twice a week","Every day","Never"],"You said you'd only come once a week","Once a week."]
+]
+});
+
+RS.p2.push({
+id:"p2-46", lv:"M", tt:"PrintPro price list",
+dg:{h:"PrintPro Copy Centre", sub:"Price list",
+table:{cols:["Item","Quantity","Price"],rows:[
+["Business cards","250","$45"],
+["Colour flyers","100","$60"],
+["Posters (18 × 24 in.)","1","$25"],
+["Banner (2 × 6 ft.)","1","$95"]]},
+foot:["Rush orders (24 hours): +30%.","Free design help on orders over $100.","Standard orders ready in 3 business days."]},
+em:{from:"Omar", to:"Nadia", subj:"Printing for the bake sale",
+body:`Nadia,
+
+For the school bake sale, I'd like 100 colour flyers, which cost [[1]], and one banner for the front table.
+
+Together that's [[2]], so we'd get [[3]] for our poster and flyer design, which is great since neither of us is artistic.
+
+The bake sale is next Saturday, and standard orders take [[4]], so if we order on Monday, we won't need to pay the [[5]].
+
+Omar`},
+b:[
+[["$60","$45","$25","$95"],"Colour flyers","100 flyers: $60."],
+[["$155","$95","$60","$120"],"Banner (2 × 6 ft.)","$60 + $95 = $155."],
+[["free design help","30% off","a free banner","rush service"],"Free design help on orders over $100.","Over $100: free design."],
+[["three business days","one day","a week","24 hours with the rush fee"],"Standard orders ready in 3 business days.","Three business days."],
+[["rush fee","design fee","poster fee","banner fee"],"Rush orders (24 hours): +30%.","No rush fee needed."]
+],
+q:[
+["What is the printing for?",["A school event","A new business","A wedding","A concert"],"For the school bake sale","A school bake sale."],
+["Why is Omar happy about the design help?",["They are not good at design.","It saves them a trip.","It makes printing faster.","The school requires it."],"since neither of us is artistic","Neither is artistic."],
+["When is the bake sale?",["Next Saturday","Monday","In three weeks","Tomorrow"],"The bake sale is next Saturday","Next Saturday."]
+]
+});
+
+RS.p2.push({
+id:"p2-47", lv:"E", tt:"Scoops ice cream menu",
+dg:{h:"Scoops Ice Cream", sub:"Open noon–10 p.m.",
+table:{cols:["Size","Cup or cone"],rows:[
+["Kids (1 small scoop)","$3.50"],
+["Single (1 scoop)","$4.75"],
+["Double (2 scoops)","$6.50"],
+["Milkshake","$7.00"]]},
+foot:["Waffle cone: add $1.","Dairy-free flavours available."]},
+em:{from:"Anna", to:"Josh", subj:"Ice cream after the game",
+body:`Josh,
+
+After the soccer game, let's take the kids to Scoops. Mia always wants two flavours, so she'll get a [[1]].
+
+Sam is only four, so a [[2]] size is enough for him.
+
+Remember that your sister can't eat dairy. Luckily, they have [[3]] flavours.
+
+If you want a waffle cone, it's [[4]] extra.
+
+They're open until [[5]], so we have lots of time.
+
+Anna`},
+b:[
+[["double","single","kids","milkshake"],"Double (2 scoops)","Two flavours = double."],
+[["kids","double","milkshake","waffle"],"Kids (1 small scoop)","Kids size."],
+[["dairy-free","chocolate","waffle","free"],"Dairy-free flavours available.","Dairy-free."],
+[["$1","$3.50","$7","$6.50"],"Waffle cone: add $1.","$1."],
+[["10 p.m.","noon","6 p.m.","midnight"],"Open noon–10 p.m.","10 p.m."]
+],
+q:[
+["When will they go to Scoops?",["After a soccer game","Before school","At lunch","On Mia's birthday"],"After the soccer game","After the game."],
+["How old is Sam?",["Four","Ten","Two","Six"],"Sam is only four","Four."],
+["What can't Josh's sister eat?",["Dairy","Nuts","Sugar","Waffles"],"your sister can't eat dairy","Dairy."]
+]
+});
+
+RS.p2.push({
+id:"p2-48", lv:"E", tt:"Riverside Zoo tickets",
+dg:{h:"Riverside Zoo", sub:"Open 9 a.m.–5 p.m. daily",
+items:[
+{n:"Adult", p:"$28", l:["Ages 13–64"]},
+{n:"Child", p:"$18", l:["Ages 3–12"]},
+{n:"Senior", p:"$22", l:["Ages 65+"]},
+{n:"Toddler", p:"Free", l:["Under 3"]}
+],
+foot:["Parking: $12 per car.","Tuesdays: 20% off all tickets."]},
+em:{from:"Leila", to:"Grandma", subj:"Zoo trip",
+body:`Hi Grandma,
+
+We're going to the zoo next week, and we'd love for you to come! Your ticket is [[1]], because you're over 65.
+
+Adam is eight, so he needs a [[2]] ticket. Baby Zara is only one, so she's [[3]].
+
+If we go on [[4]], everyone saves 20 percent.
+
+We'll drive, so we'll need to pay [[5]] for parking.
+
+Love,
+Leila`},
+b:[
+[["$22","$28","$18","free"],"$22","Senior: $22."],
+[["child","adult","toddler","senior"],"Ages 3–12","Eight = child."],
+[["free","$18","$22","$28"],"Under 3","Under 3: free."],
+[["Tuesday","Sunday","Monday","Friday"],"Tuesdays: 20% off all tickets.","Tuesday."],
+[["$12","$18","$28","nothing"],"Parking: $12 per car.","$12."]
+],
+q:[
+["Who is Leila inviting?",["Her grandmother","Her teacher","Her boss","Her neighbour"],"Hi Grandma","Grandma."],
+["How old is Adam?",["Eight","Three","Twelve","One"],"Adam is eight","Eight."],
+["How will they get to the zoo?",["By car","By bus","By bike","On foot"],"We'll drive","By car."]
+]
+});
+
+RS.p2.push({
+id:"p2-49", lv:"E", tt:"Sweet Crumb Bakery orders",
+dg:{h:"Sweet Crumb Bakery", sub:"Custom cakes · Order 3 days ahead",
+table:{cols:["Cake","Serves","Price"],rows:[
+["Small round","8","$35"],
+["Large round","16","$60"],
+["Half slab","30","$95"],
+["Cupcakes (dozen)","12","$30"]]},
+foot:["Writing on cake: free.","Delivery: $15."]},
+em:{from:"Ben", to:"Kate", subj:"Cake for Dad's party",
+body:`Kate,
+
+About sixteen people are coming to Dad's party, so a [[1]] cake should be enough.
+
+The bakery can write "Happy Birthday, Dad" on it for [[2]].
+
+The party is on Saturday, so I need to order by [[3]] at the latest.
+
+I'll pick it up myself so we don't pay the [[4]] delivery fee.
+
+The kids also want [[5]], so maybe we can get a dozen of those too.
+
+Ben`},
+b:[
+[["large round","small round","half slab","cupcake"],"16","Large round serves 16."],
+[["free","$15","$35","$60"],"Writing on cake: free.","Free."],
+[["Wednesday","Friday","Saturday","Monday"],"Order 3 days ahead","Three days before Saturday = Wednesday."],
+[["$15","$35","$30","$60"],"Delivery: $15.","$15."],
+[["cupcakes","cookies","pies","bread"],"Cupcakes (dozen)","A dozen cupcakes."]
+],
+q:[
+["What is the cake for?",["Their father's birthday","A wedding","A school event","A party for Kate's birthday"],"Dad's party","Dad's party."],
+["How many guests are expected?",["About sixteen","Eight","Thirty","Only twelve"],"About sixteen people","About sixteen."],
+["How will Ben get the cake?",["He will pick it up.","It will be delivered.","Kate will get it.","Dad will get it."],"I'll pick it up myself","Pick it up."]
+]
+});
+
+RS.p2.push({
+id:"p2-50", lv:"E", tt:"Strike Zone bowling",
+dg:{h:"Strike Zone Bowling", sub:"Prices per person",
+table:{cols:["Time","1 game","2 games"],rows:[
+["Weekdays before 5 p.m.","$6","$10"],
+["Weekdays after 5 p.m.","$8","$14"],
+["Weekends","$9","$16"]]},
+foot:["Shoe rental: $4.","Groups of 10+: free shoe rental."]},
+em:{from:"Mo", to:"Jen", subj:"Bowling night",
+body:`Jen,
+
+Let's go bowling on Friday after work. Since it's after 5 p.m., one game costs [[1]] each.
+
+If we play two games, it's [[2]] per person.
+
+I don't have my own shoes, so I'll need to pay [[3]] for rentals.
+
+If we bring [[4]] or more people, shoe rental is free!
+
+It's cheaper [[5]] before 5 p.m., but we both work then.
+
+Mo`},
+b:[
+[["$8","$6","$9","$4"],"Weekdays after 5 p.m.","Friday after 5: $8."],
+[["$14","$16","$10","$8"],"$14","Two games weekday evening: $14."],
+[["$4","$10","$8","nothing"],"Shoe rental: $4.","$4."],
+[["10","5","2","20"],"Groups of 10+: free shoe rental.","Ten."],
+[["on weekdays","on weekends","at night","on holidays"],"Weekdays before 5 p.m.","Weekdays before 5 are cheapest."]
+],
+q:[
+["When does Mo want to go bowling?",["Friday after work","Saturday morning","Sunday afternoon","Monday at noon"],"on Friday after work","Friday after work."],
+["What does Mo need to rent?",["Shoes","A lane","A ball","A locker"],"I don't have my own shoes","Shoes."],
+["Why can't they go before 5 p.m.?",["They both work.","It is closed.","It is more expensive.","The lanes are full."],"we both work then","They work."]
+]
+});
+
 // Part 3 — Reading for Information. st = [statement, "A"-"E", evidence (null for E), reason]
 RS.p3.push({
 id:"p3-01", lv:"H", tt:"Urban heat islands", h:"Why Cities Run Hot",
@@ -2594,6 +4611,531 @@ st:[
 ["The ice is smoothed during the night.","C","people come out at night to flood the ice","Flooding at night."],
 ["Skating brings people together.","D","It is also a social activity","A social activity."],
 ["Most rinks do not charge money.","A","Most are free","Free."]
+]
+});
+
+RS.p3.push({
+id:"p3-26", lv:"H", tt:"Building the CPR", h:"The Workers Who Built the Canadian Pacific Railway",
+paras:[
+`When British Columbia joined Confederation in 1871, it did so on one condition: a railway linking it to the rest of the country would be started within two years and completed within ten. The deadline proved wildly optimistic. Political scandal delayed the project for most of the 1870s, and construction in earnest began only in 1881, when the Canadian Pacific Railway company was formed with generous government land grants and subsidies.`,
+`The most dangerous section ran through the mountains of British Columbia, where contractor Andrew Onderdonk struggled to find enough workers. Local labour was scarce, so he recruited about 15,000 men from southern China. They were paid roughly half what white workers earned for the same work and were often given the most hazardous tasks, including handling explosives in narrow canyons. Historians estimate that at least 600 Chinese workers died, though poor record-keeping means the true number may be far higher.`,
+`Once the line was finished in 1885, the government's attitude toward these workers changed sharply. The same year, Parliament introduced a head tax of $50 on Chinese immigrants, later raised to $500, roughly two years' wages for a labourer. The tax was designed to discourage further immigration, and it separated many families for decades, since men who had stayed in Canada could not afford to bring their wives and children over.`,
+`In 2006, the federal government formally apologized for the head tax and offered symbolic payments to surviving taxpayers and widows. Some descendants welcomed the gesture, while others argued it came too late, since almost everyone directly affected had died. Today, memorials in Vancouver and Toronto honour the railway workers, and several museums have begun collecting oral histories from descendants before those memories are lost.`
+],
+st:[
+["A promise made to a province was not kept on time.","A","The deadline proved wildly optimistic","The ten-year deadline wasn't met."],
+["Workers were paid unequally based on their origin.","B","paid roughly half what white workers earned for the same work","Half the pay for the same work."],
+["The actual death toll may never be known.","B","poor record-keeping means the true number may be far higher","Poor records."],
+["A policy kept families apart for many years.","C","it separated many families for decades","Families separated for decades."],
+["Some people felt an official apology was not timely.","D","others argued it came too late","Too late."],
+["Most Chinese workers returned to China after 1885.","E",null,"No paragraph says where most workers went."],
+["Efforts are being made to record family memories.","D","collecting oral histories from descendants before those memories are lost","Oral histories."],
+["The company received support from the government.","A","generous government land grants and subsidies","Land grants and subsidies."],
+["A fee was introduced to reduce the arrival of certain newcomers.","C","The tax was designed to discourage further immigration","The head tax."]
+]
+});
+
+RS.p3.push({
+id:"p3-27", lv:"H", tt:"The cost of noise", h:"Why Noise Is More Than a Nuisance",
+paras:[
+`Most people think of noise as an annoyance rather than a health threat. Yet the World Health Organization now ranks traffic noise as the second most harmful environmental stressor in Western Europe, after fine particle air pollution. Unlike many hazards, noise affects people even when they are not consciously aware of it, because the body continues to react to sound while a person sleeps.`,
+`The mechanism is surprisingly physical. Sudden or persistent noise triggers the release of stress hormones such as cortisol, raising heart rate and blood pressure. Over years, this repeated activation appears to contribute to heart disease. One large study near Frankfurt Airport found that residents exposed to night flights had a measurably higher risk of heart failure, even after researchers accounted for income and smoking.`,
+`Children seem to be particularly affected in a different way. Studies of schools under flight paths in London and Munich found that pupils exposed to aircraft noise scored lower on reading tests and took longer to learn to read. When one Munich airport closed and another opened, researchers saw the reading scores of children near the old airport improve while those near the new one declined.`,
+`Solutions exist, although they are rarely cheap. Quieter road surfaces made of porous asphalt can reduce tire noise by several decibels, and some cities have lowered speed limits at night for the same reason. Well-sealed windows and sound barriers help, but critics note that the neighbourhoods most exposed to highway and airport noise are often the ones least able to pay for such improvements.`
+],
+st:[
+["The body reacts to sound even during sleep.","A","the body continues to react to sound while a person sleeps","It reacts while sleeping."],
+["A natural experiment showed that removing a source of noise can help.","C","the reading scores of children near the old airport improve","Scores improved when the airport closed."],
+["Researchers ruled out some other possible causes.","B","even after researchers accounted for income and smoking","They accounted for income and smoking."],
+["Traffic rules have been changed to reduce noise.","D","some cities have lowered speed limits at night","Lower night speed limits."],
+["Only one environmental factor is considered more harmful.","A","second most harmful environmental stressor","Second, after air pollution."],
+["Hearing loss is the most common effect of traffic noise.","E",null,"Hearing loss is never mentioned."],
+["The poorest areas may benefit least from some solutions.","D","least able to pay for such improvements","Least able to pay."],
+["Chemical changes in the body link noise to heart problems.","B","triggers the release of stress hormones such as cortisol","Stress hormones."],
+["Noise may slow down how quickly young people learn a skill.","C","took longer to learn to read","Took longer to learn to read."]
+]
+});
+
+RS.p3.push({
+id:"p3-28", lv:"H", tt:"The gig economy", h:"Working by the Task: The Rise of the Gig Economy",
+paras:[
+`A decade ago, few people had heard the term 'gig economy.' Today, millions of Canadians earn at least part of their income by driving for ride-hailing companies, delivering meals, or completing short online tasks. For some, it is a flexible way to supplement a regular salary. For others, particularly newcomers whose foreign credentials are not recognized, it has become a primary source of income.`,
+`Supporters emphasize choice. Workers can log in and out whenever they wish, turn down jobs, and work for several apps at once. Surveys consistently find that flexibility is the feature gig workers value most, especially parents and students who cannot commit to fixed schedules. Companies argue that treating these workers as employees would force them to set shifts, eliminating the very flexibility that attracted people in the first place.`,
+`Critics focus on what workers give up. Because most platforms classify them as independent contractors, gig workers generally receive no minimum wage guarantee, sick pay, or employer pension contributions. They also pay for their own vehicles, fuel and phone plans, costs that can reduce real hourly earnings well below what the apps advertise. A Toronto study found that after expenses, some delivery workers earned less than half the provincial minimum wage during slow periods.`,
+`Governments are beginning to respond. Ontario passed legislation in 2022 guaranteeing app-based workers a minimum wage for time spent actively completing a task, although not for time spent waiting for orders. British Columbia followed with similar rules and added workplace injury insurance. Labour groups welcomed the changes but argued that excluding waiting time leaves a large gap, since drivers may spend a third of their shift without a paid job.`
+],
+st:[
+["For some people, gig work has replaced traditional employment.","A","it has become a primary source of income","Primary income."],
+["Companies claim that changing workers' status would reduce freedom.","B","eliminating the very flexibility that attracted people in the first place","Shifts would remove flexibility."],
+["Advertised earnings can be misleading.","C","reduce real hourly earnings well below what the apps advertise","Below what apps advertise."],
+["New laws do not pay workers for all the time they are working.","D","although not for time spent waiting for orders","Waiting time unpaid."],
+["Workers in the gig economy are mostly young people.","E",null,"Age is not discussed."],
+["Being able to control their own hours matters most to workers.","B","flexibility is the feature gig workers value most","Flexibility."],
+["Workers must cover their own work expenses.","C","They also pay for their own vehicles, fuel and phone plans","Own vehicles and fuel."],
+["One province added protection in case workers are hurt.","D","added workplace injury insurance","BC added injury insurance."],
+["Qualifications earned abroad may push people toward gig work.","A","newcomers whose foreign credentials are not recognized","Foreign credentials."]
+]
+});
+
+RS.p3.push({
+id:"p3-29", lv:"H", tt:"Living with wildfire smoke", h:"When the Smoke Rolls In",
+paras:[
+`In June 2023, smoke from wildfires in Quebec drifted south and turned the sky over New York an eerie orange. For many Canadians, however, smoky summers were already familiar. Fire seasons in western Canada now begin earlier and last longer than they did in the 1990s, and the area burned each year has increased substantially. Smoke can travel thousands of kilometres, meaning that people far from any flames may breathe the worst air of their lives.`,
+`The main danger comes from fine particles less than 2.5 micrometres wide, about one-thirtieth the width of a human hair. These particles pass deep into the lungs and can enter the bloodstream. On heavy smoke days, hospitals report more visits for asthma attacks, and some studies have linked smoke exposure to premature births. People with heart or lung conditions, older adults, and pregnant women are considered most at risk.`,
+`Public health agencies advise staying indoors on bad days, but that advice assumes homes are well sealed. Older houses often let in large amounts of outdoor air, and many apartments lack central air conditioning. A portable air purifier with a HEPA filter can substantially reduce indoor particle levels in a single room, which is why some cities now lend them to vulnerable residents or open 'clean air shelters' in libraries and community centres.`,
+`Masks offer some protection, but not all masks are equal. Cloth and surgical masks do little to block fine smoke particles. Well-fitted N95 respirators filter most of them, yet studies show many people wear them loosely, allowing unfiltered air to leak around the edges. Experts also caution that masks should complement, not replace, efforts to reduce exposure by limiting time outdoors.`
+],
+st:[
+["Smoke can affect regions far from where fires are burning.","A","Smoke can travel thousands of kilometres","Thousands of kilometres."],
+["Particles in smoke can travel beyond the lungs.","B","can enter the bloodstream","Into the bloodstream."],
+["Staying inside may not be enough in some buildings.","C","that advice assumes homes are well sealed","Homes may not be sealed."],
+["Wearing protective equipment incorrectly reduces its value.","D","many people wear them loosely","Worn loosely."],
+["Public spaces have been used to protect people from bad air.","C","open 'clean air shelters' in libraries and community centres","Clean air shelters."],
+["The fire season has become longer over time.","A","now begin earlier and last longer than they did in the 1990s","Earlier and longer."],
+["Governments now pay for residents to install central air conditioning.","E",null,"C mentions lending purifiers, not paying for AC."],
+["Common types of face coverings provide little protection.","D","Cloth and surgical masks do little to block fine smoke particles","Cloth and surgical masks."],
+["Certain groups face greater health risks.","B","are considered most at risk","Older adults, pregnant women, etc."]
+]
+});
+
+RS.p3.push({
+id:"p3-30", lv:"H", tt:"Meat grown in a lab", h:"Cultivated Meat: Food of the Future?",
+paras:[
+`Cultivated meat is produced by taking a small sample of cells from a living animal and growing them in large steel tanks called bioreactors. The cells are fed a nutrient-rich liquid and multiply until they form tissue that can be shaped into products such as chicken nuggets or ground beef. Supporters describe it as real meat without the need to raise and slaughter animals.`,
+`The environmental case is promising but uncertain. Livestock farming produces a significant share of global greenhouse gas emissions and uses vast amounts of land and water. Cultivated meat could reduce land use dramatically. However, a 2023 study from the University of California suggested that if bioreactors are powered by fossil fuels and use highly purified ingredients, the carbon footprint could actually be higher than that of conventional beef.`,
+`Cost remains the biggest barrier. The first cultivated burger, presented in London in 2013, cost more than $300,000 to produce. Prices have fallen enormously since then, but producing meat at a cost comparable to supermarket chicken would require factories far larger than any that exist today. Some investors who were enthusiastic a few years ago have become more cautious, and several start-ups have closed or merged.`,
+`Regulation varies widely. Singapore became the first country to approve the sale of cultivated chicken in 2020, and the United States followed in 2023. Italy, by contrast, has banned its production, arguing it threatens traditional farming and food culture. In Canada, no product has yet been approved for sale, and surveys suggest that consumers are divided, with younger people more willing to try it than older generations.`
+],
+st:[
+["The process begins with material taken from an animal that is still alive.","A","taking a small sample of cells from a living animal","Cells from a living animal."],
+["The environmental benefit depends partly on the energy source.","B","if bioreactors are powered by fossil fuels","Fossil fuel power could raise emissions."],
+["Some financial supporters have become less confident.","C","Some investors who were enthusiastic a few years ago have become more cautious","Investors more cautious."],
+["One country has made the product illegal to produce.","D","Italy, by contrast, has banned its production","Italy banned it."],
+["Cultivated meat tastes the same as conventional meat.","E",null,"Taste is not discussed."],
+["Age appears to affect people's willingness to try the product.","D","younger people more willing to try it than older generations","Younger people more willing."],
+["Large-scale production facilities do not yet exist.","C","would require factories far larger than any that exist today","Factories larger than any existing."],
+["Traditional farming uses large areas of land.","B","uses vast amounts of land and water","Vast land and water."],
+["Cultivated meat is already sold in Canadian supermarkets.","E",null,"D says nothing has been approved in Canada."]
+]
+});
+
+RS.p3.push({
+id:"p3-31", lv:"H", tt:"The placebo puzzle", h:"When Believing Is Healing",
+paras:[
+`A placebo is a treatment with no active ingredient, such as a sugar pill, that nonetheless produces a measurable improvement in a patient's condition. The effect has been recognized for centuries, but it gained scientific attention during the Second World War, when an American anaesthetist named Henry Beecher reported that injured soldiers given salt water instead of morphine sometimes felt their pain decrease.`,
+`The strength of the placebo effect depends heavily on context. Studies have found that two pills work better than one, that injections work better than pills, and that more expensive-looking treatments produce stronger effects than cheap ones. The attitude of the doctor also matters: patients who receive a placebo from a warm, confident practitioner tend to report greater relief than those who receive the same pill from someone brief and distant.`,
+`Perhaps most surprisingly, placebos can work even when patients know they are taking one. In a Harvard study of people with irritable bowel syndrome, participants were openly told they were receiving sugar pills with no medication in them. Many still reported significant improvement compared with a group that received no treatment. Researchers suspect that the ritual of taking a pill may trigger the body's own pain-relief systems.`,
+`Placebos have clear limits, however. They can reduce symptoms such as pain, nausea and fatigue, which are strongly influenced by perception, but they do not shrink tumours or cure infections. Ethicists also warn that deceiving patients damages trust, which is why some doctors are cautiously exploring open-label placebos as an honest alternative for conditions where standard treatments offer little help.`
+],
+st:[
+["Wartime observations brought scientific interest to the effect.","A","it gained scientific attention during the Second World War","The war."],
+["The appearance of a treatment can change how well it works.","B","more expensive-looking treatments produce stronger effects","Expensive-looking = stronger."],
+["Patients improved even without being deceived.","C","placebos can work even when patients know they are taking one","Open-label placebos."],
+["Some conditions cannot be treated with placebos.","D","they do not shrink tumours or cure infections","No effect on tumours or infections."],
+["A doctor's manner may influence a patient's results.","B","patients who receive a placebo from a warm, confident practitioner","Warm, confident doctors."],
+["Placebos are now commonly prescribed in Canadian hospitals.","E",null,"Not mentioned."],
+["Hiding the truth from patients raises ethical concerns.","D","deceiving patients damages trust","Deception damages trust."],
+["The act of taking medicine may itself cause a physical response.","C","the ritual of taking a pill may trigger the body's own pain-relief systems","The ritual may trigger pain relief."],
+["A substitute for a painkiller reduced suffering in some cases.","A","given salt water instead of morphine sometimes felt their pain decrease","Salt water instead of morphine."]
+]
+});
+
+RS.p3.push({
+id:"p3-32", lv:"H", tt:"Zebra mussels", h:"The Tiny Invader of the Great Lakes",
+paras:[
+`Zebra mussels, small striped shellfish no bigger than a fingernail, are native to lakes in southern Russia and Ukraine. They were first discovered in the Great Lakes in 1988, almost certainly carried there in the ballast water of ships crossing the Atlantic. Ships take on water to stay stable and release it when they load cargo, and with it, any organisms that survived the journey.`,
+`Once established, the mussels spread with astonishing speed. A single female can produce up to a million eggs a year, and the larvae drift freely before attaching to almost any hard surface. Within a few years, they had coated rocks, docks and boat hulls across the Great Lakes and moved into rivers and inland lakes, often transported unknowingly on recreational boats and fishing equipment.`,
+`The economic damage has been severe. The mussels clog the intake pipes of power plants and water treatment facilities, which must spend millions of dollars each year cleaning them. Ecologically, the picture is more complicated. By filtering huge volumes of water, the mussels have made some lakes remarkably clear, which pleases swimmers. However, clearer water allows sunlight to penetrate deeper, encouraging the growth of algae, and the mussels remove plankton that native fish depend on.`,
+`Eliminating zebra mussels from the Great Lakes is now considered impossible, so efforts focus on preventing further spread. Several provinces require boaters to drain water and clean their boats before moving between lakes, and inspection stations operate at some borders. Since 2006, ships entering the Great Lakes must also exchange their ballast water at sea, a rule that appears to have sharply reduced new invasions.`
+],
+st:[
+["The species arrived by accident through international shipping.","A","carried there in the ballast water of ships crossing the Atlantic","Ballast water."],
+["The animals reproduce in very large numbers.","B","A single female can produce up to a million eggs a year","A million eggs."],
+["Some effects of the species may seem positive at first.","C","the mussels have made some lakes remarkably clear, which pleases swimmers","Clear water pleases swimmers."],
+["Completely removing the species is no longer considered possible.","D","Eliminating zebra mussels from the Great Lakes is now considered impossible","Impossible."],
+["People spread the species without realizing it.","B","often transported unknowingly on recreational boats","Unknowingly."],
+["Zebra mussels are dangerous for people to eat.","E",null,"Eating them is never mentioned."],
+["Industrial facilities face costly maintenance.","C","must spend millions of dollars each year cleaning them","Millions each year."],
+["A shipping regulation seems to have worked.","D","a rule that appears to have sharply reduced new invasions","Ballast exchange rule."],
+["The species comes from Eastern Europe.","A","native to lakes in southern Russia and Ukraine","Russia and Ukraine."]
+]
+});
+
+RS.p3.push({
+id:"p3-33", lv:"H", tt:"Why we procrastinate", h:"The Real Reason We Put Things Off",
+paras:[
+`For decades, procrastination was treated as a problem of time management. People who delayed important tasks were told to make better schedules, use planners and break work into smaller steps. These strategies help some people, but researchers increasingly argue that they miss the underlying cause. According to psychologist Tim Pychyl of Carleton University, procrastination is primarily a problem of managing emotions, not time.`,
+`The theory is that people avoid tasks that make them feel bad: bored, anxious, insecure or overwhelmed. Putting the task off brings immediate relief, which rewards the avoidance and makes it more likely to happen again. The relief is short-lived, however, because the task remains, often accompanied by guilt. Over time, this cycle can increase stress and has been linked to poorer sleep and even higher rates of some illnesses among students.`,
+`Surprisingly, harsh self-criticism tends to make procrastination worse. In a study of first-year university students, those who forgave themselves for procrastinating before their first midterm exams procrastinated less when studying for the next set. Researchers suggest that self-forgiveness reduced the negative feelings attached to the subject, making it easier to return to.`,
+`Practical strategies based on this research focus on lowering the emotional cost of starting. One common technique is to commit to working on a task for just ten minutes, since starting is usually the hardest part. Another is to identify the specific feeling that a task produces. Naming it, researchers find, can reduce its power, making it easier to act despite discomfort.`
+],
+st:[
+["Traditional advice may not address the root of the problem.","A","they miss the underlying cause","They miss the cause."],
+["Avoiding a task can create a habit because it feels good at first.","B","Putting the task off brings immediate relief, which rewards the avoidance","Relief rewards avoidance."],
+["Being kind to yourself may reduce future delays.","C","those who forgave themselves for procrastinating","Self-forgiveness."],
+["Identifying an emotion can make it less powerful.","D","Naming it, researchers find, can reduce its power","Naming it."],
+["The habit may have physical consequences.","B","linked to poorer sleep and even higher rates of some illnesses","Poor sleep and illness."],
+["Procrastination is more common among adults than students.","E",null,"No comparison by age is given."],
+["A researcher from a Canadian university proposed a new view.","A","psychologist Tim Pychyl of Carleton University","Carleton University."],
+["Beginning a task is often the most difficult step.","D","since starting is usually the hardest part","Starting is hardest."],
+["People who procrastinate usually have lower intelligence.","E",null,"Intelligence is not mentioned."]
+]
+});
+
+RS.p3.push({
+id:"p3-34", lv:"H", tt:"Farming indoors", h:"Can Vertical Farms Feed Northern Communities?",
+paras:[
+`In many northern Canadian communities, fresh vegetables arrive by plane, often after several days in transit. By the time they reach store shelves, lettuce may be wilted and prices can be three or four times higher than in southern cities. Vertical farms, which grow crops in stacked indoor trays under LED lights, have been proposed as a way to produce fresh food locally year-round.`,
+`Several pilot projects have shown promising results. In Inuvik, a community greenhouse housed in a former hockey arena has operated since the 1990s, though it closes during the darkest winter months. More recent container farms, built inside insulated shipping containers, can grow leafy greens throughout the year. One in Kugluktuk produced roughly the same amount of lettuce per month as a small outdoor farm in the south does in a season.`,
+`Energy is the central challenge. Artificial lighting and heating consume large amounts of electricity, and many northern communities rely on diesel generators, which are expensive and polluting. Critics argue that growing vegetables with diesel power simply swaps one environmental cost for another. Some projects are experimenting with solar panels and wind turbines, although these are less reliable during long polar nights.`,
+`Beyond food, organizers point to other benefits. Farms have created jobs and training for young people, and schools have used them to teach science. However, most projects so far grow only leafy greens and herbs, which are light and quick to harvest but provide relatively few calories. Staple foods such as potatoes or grains remain difficult to produce indoors at a reasonable cost.`
+],
+st:[
+["Fresh produce in the North is often poor in quality and expensive.","A","lettuce may be wilted and prices can be three or four times higher","Wilted and expensive."],
+["An old sports building has been reused for growing food.","B","a community greenhouse housed in a former hockey arena","A former hockey arena."],
+["Using fuel-based power may cancel out environmental benefits.","C","growing vegetables with diesel power simply swaps one environmental cost for another","Swaps one cost for another."],
+["The crops grown so far do not provide much energy for the body.","D","provide relatively few calories","Few calories."],
+["Renewable energy is less dependable in certain seasons.","C","less reliable during long polar nights","Polar nights."],
+["The farms have educational uses.","D","schools have used them to teach science","Teaching science."],
+["Vertical farms have lowered food prices in every northern community.","E",null,"No paragraph reports lower prices everywhere."],
+["One indoor farm matched the seasonal output of a southern farm in a month.","B","produced roughly the same amount of lettuce per month as a small outdoor farm in the south does in a season","Month vs season."],
+["Food often takes days to arrive.","A","often after several days in transit","Several days."]
+]
+});
+
+RS.p3.push({
+id:"p3-35", lv:"H", tt:"Acidifying oceans", h:"The Other Carbon Problem",
+paras:[
+`About a quarter of the carbon dioxide released by burning fossil fuels is absorbed by the oceans. This has slowed global warming, but at a cost. When carbon dioxide dissolves in seawater, it forms carbonic acid, gradually lowering the water's pH. Since the Industrial Revolution, the surface ocean has become about thirty percent more acidic, a change faster than any in the past fifty million years.`,
+`The effects are most obvious in animals that build shells or skeletons from calcium carbonate, including oysters, mussels, corals and tiny sea snails called pteropods. In more acidic water, these creatures must spend more energy building their shells, and in extreme cases, existing shells begin to dissolve. Pteropods are an important food for salmon, so their decline could affect fisheries far beyond the shellfish industry.`,
+`British Columbia's shellfish farmers have already felt the impact. In 2014, a company near Qualicum Beach lost about ten million scallops, a loss it blamed on unusually acidic water. Some hatcheries now monitor water chemistry continuously and add buffering chemicals such as sodium carbonate during the most sensitive early life stages, when young shellfish are especially vulnerable.`,
+`Scientists are exploring broader solutions, such as planting seagrass and kelp, which absorb carbon dioxide locally and may create small zones of less acidic water. However, most researchers stress that these measures can only slow the damage in limited areas. The only long-term solution, they argue, is to reduce the amount of carbon dioxide released into the atmosphere in the first place.`
+],
+st:[
+["The oceans have reduced the pace of climate change.","A","This has slowed global warming","Slowed warming."],
+["The current rate of change is unusual in Earth's history.","A","a change faster than any in the past fifty million years","Fastest in 50 million years."],
+["Harm to small creatures could affect a larger fishing industry.","B","Pteropods are an important food for salmon","Salmon depend on pteropods."],
+["A business suffered a major loss it linked to water conditions.","C","lost about ten million scallops","Ten million scallops."],
+["Marine plants may offer some local relief.","D","planting seagrass and kelp","Seagrass and kelp."],
+["Young shellfish are given special protection at certain facilities.","C","add buffering chemicals such as sodium carbonate during the most sensitive early life stages","Buffering for young shellfish."],
+["Ocean acidification has already caused the extinction of several species.","E",null,"No extinctions are mentioned."],
+["Animals need extra energy to make their shells.","B","must spend more energy building their shells","More energy."],
+["Cutting emissions is seen as the only lasting answer.","D","The only long-term solution, they argue, is to reduce the amount of carbon dioxide","Reduce CO2."]
+]
+});
+
+RS.p3.push({
+id:"p3-36", lv:"H", tt:"Coyotes in the city", h:"Urban Coyotes: Living with a Clever Neighbour",
+paras:[
+`Coyotes were once found mainly on the prairies, but over the past century they have spread across nearly all of North America, including its largest cities. Toronto, Calgary and Vancouver all have established coyote populations. Their success is partly explained by the decline of wolves, which once kept coyote numbers in check, and partly by their remarkable ability to eat almost anything, from mice and rabbits to fruit and garbage.`,
+`Urban coyotes have changed their behaviour to suit city life. Studies using GPS collars in Chicago found that city coyotes are far more active at night than rural ones, allowing them to avoid people. They also use railway lines, ravines and golf courses as travel corridors. Many residents live near coyotes for years without ever seeing one.`,
+`Conflicts do occur, however, and most can be traced to feeding. When people deliberately or accidentally leave out food, coyotes lose their natural fear of humans and may approach them boldly. In Stanley Park in Vancouver, a series of attacks in 2021 was linked to coyotes that had been fed regularly by visitors. Several animals were eventually removed, and the park was partially closed for months.`,
+`Wildlife experts recommend 'hazing' to maintain coyotes' wariness: if you see one, make yourself look large, shout, and wave your arms until it leaves. Pet owners are advised to keep cats indoors and small dogs on leashes. Experts also warn that removing coyotes rarely solves the problem in the long term, since new animals quickly move into the empty territory.`
+],
+st:[
+["The disappearance of another predator helped coyotes spread.","A","the decline of wolves, which once kept coyote numbers in check","Fewer wolves."],
+["Coyotes use natural and human-made pathways to move around.","B","use railway lines, ravines and golf courses as travel corridors","Travel corridors."],
+["Human behaviour caused problems in a well-known park.","C","linked to coyotes that had been fed regularly by visitors","Feeding by visitors."],
+["Killing or relocating coyotes is not a lasting solution.","D","removing coyotes rarely solves the problem in the long term","Not a lasting solution."],
+["Coyotes in cities have become more nocturnal.","B","city coyotes are far more active at night than rural ones","More active at night."],
+["Coyotes are the most common wild animal in Canadian cities.","E",null,"No comparison with other animals."],
+["Residents can scare coyotes away with certain actions.","D","make yourself look large, shout, and wave your arms","Hazing."],
+["Coyotes have a very flexible diet.","A","eat almost anything","Almost anything."],
+["A public area was closed after incidents.","C","the park was partially closed for months","Partially closed."]
+]
+});
+
+RS.p3.push({
+id:"p3-37", lv:"H", tt:"The psychology of waiting in line", h:"Why Waiting Feels Longer Than It Is",
+paras:[
+`Most people spend a surprising amount of their lives waiting in line, whether at grocery stores, airports or amusement parks. Researchers who study queues have found that how long a wait feels often matters more to customers than how long it actually lasts. An eight-minute wait that feels organized and fair can leave people more satisfied than a five-minute wait that feels chaotic.`,
+`One key factor is uncertainty. People find waits more stressful when they don't know how long they will last. This is why many theme parks display estimated waiting times at the entrance to each ride, and why some deliberately overestimate them. When guests reach the front sooner than expected, they feel pleasantly surprised rather than frustrated.`,
+`Fairness also matters. Studies show that people strongly dislike seeing others who arrived later being served first. Many banks and airports have replaced multiple parallel lines with a single 'serpentine' line feeding several counters. Although this rarely reduces the average wait, customers perceive it as fairer, since no one can get lucky by choosing a faster line.`,
+`Finally, unoccupied time feels longer than occupied time. A famous example comes from a Houston airport, which received complaints about slow baggage delivery. Instead of speeding up the baggage handling, the airport moved arrival gates farther from the baggage claim, so passengers spent more time walking and less time standing. Complaints dropped almost to zero, even though the total time was unchanged.`
+],
+st:[
+["The feeling of waiting can matter more than its actual length.","A","how long a wait feels often matters more to customers than how long it actually lasts","Perception matters more."],
+["Some businesses intentionally show longer times than necessary.","B","some deliberately overestimate them","They overestimate."],
+["A layout change made customers feel treated more equally.","C","customers perceive it as fairer","A single serpentine line."],
+["Keeping people busy reduced complaints without saving time.","D","Complaints dropped almost to zero, even though the total time was unchanged","Walking instead of standing."],
+["Not knowing how long you will wait increases stress.","B","People find waits more stressful when they don't know how long they will last","Uncertainty."],
+["Single lines usually shorten the average waiting time.","E",null,"C says a single line RARELY reduces the average wait. Contradicted = E."],
+["A disorganized short wait can be less satisfying than a longer one.","A","a five-minute wait that feels chaotic","Chaotic five minutes vs organized eight."],
+["People are upset when latecomers are served first.","C","people strongly dislike seeing others who arrived later being served first","Latecomers served first."],
+["Airports now pay passengers for long waits.","E",null,"Not mentioned."]
+]
+});
+
+RS.p3.push({
+id:"p3-38", lv:"M", tt:"Canada geese", h:"The Changing Habits of Canada Geese",
+paras:[
+`Canada geese are among the most recognizable birds in North America. Traditionally, they spent summers in the far North and flew south in large V-shaped groups each fall. Flying in a V formation saves energy, because each bird benefits from the air movement created by the bird ahead of it.`,
+`In recent decades, however, many geese have stopped migrating. Large populations now live year-round in cities such as Toronto and Ottawa. Parks, golf courses and ponds provide open grass to eat and water for safety, and in cities there are few predators.`,
+`These resident geese can cause problems. Their droppings pollute beaches and parks, and some beaches have been closed because of high bacteria levels. Geese can also become aggressive during nesting season in spring, hissing at people who come too close.`,
+`Cities have tried several solutions. Some use trained dogs to chase geese away, while others plant tall grasses along shorelines, since geese prefer open areas where they can watch for danger. Feeding geese is banned in many parks because it encourages them to stay.`
+],
+st:[
+["A travel pattern helps birds use less energy.","A","Flying in a V formation saves energy","V formation."],
+["Cities offer geese safety from animals that hunt them.","B","in cities there are few predators","Few predators."],
+["Geese may act aggressively at a certain time of year.","C","Geese can also become aggressive during nesting season in spring","Nesting season."],
+["Plants are used to make areas less attractive to geese.","D","plant tall grasses along shorelines","Tall grasses."],
+["Some geese no longer fly south for winter.","B","many geese have stopped migrating","Stopped migrating."],
+["Geese are protected by law in all Canadian cities.","E",null,"Not mentioned."],
+["Swimming areas have been shut because of geese.","C","some beaches have been closed because of high bacteria levels","Beaches closed."],
+["Giving food to geese is not allowed in many places.","D","Feeding geese is banned in many parks","Feeding banned."],
+["Geese traditionally spent summers in northern regions.","A","they spent summers in the far North","Far North."]
+]
+});
+
+RS.p3.push({
+id:"p3-39", lv:"M", tt:"The discovery of insulin", h:"A Canadian Discovery That Changed Medicine",
+paras:[
+`Before the 1920s, a diagnosis of Type 1 diabetes was almost always fatal. Doctors could only put patients on extreme diets, which extended their lives by a few months or years at best. Scientists suspected that the pancreas produced a substance that controlled blood sugar, but nobody had been able to extract it.`,
+`In 1921, Frederick Banting, a young surgeon from Ontario, and Charles Best, a medical student, began experiments at the University of Toronto. Working in a small laboratory during the summer, they succeeded in extracting insulin from the pancreas of dogs. Biochemist James Collip later helped purify it so it could be safely used in humans.`,
+`In January 1922, fourteen-year-old Leonard Thompson became the first person to receive an insulin injection. After a second, purer dose, his condition improved dramatically. News spread quickly, and desperate families travelled to Toronto from around the world.`,
+`In 1923, Banting and John Macleod, the professor who supervised the laboratory, received the Nobel Prize. Banting shared his prize money with Best, feeling that Best deserved recognition. The team also sold the patent to the university for just one dollar each, hoping that insulin would be affordable for everyone.`
+],
+st:[
+["Treatment before the discovery could only delay death.","A","which extended their lives by a few months or years at best","Extended life only briefly."],
+["The first patient improved after a better version was given.","C","After a second, purer dose, his condition improved dramatically","Second, purer dose."],
+["A prize winner chose to share his reward.","D","Banting shared his prize money with Best","Shared with Best."],
+["The researchers wanted the treatment to be available at a low cost.","D","hoping that insulin would be affordable for everyone","Affordable."],
+["Early experiments involved animals.","B","extracting insulin from the pancreas of dogs","Dogs."],
+["Insulin can cure Type 1 diabetes permanently.","E",null,"No paragraph says insulin cures diabetes."],
+["People travelled internationally seeking treatment.","C","desperate families travelled to Toronto from around the world","From around the world."],
+["Another scientist made the substance safe for people.","B","James Collip later helped purify it so it could be safely used in humans","Collip purified it."],
+["Scientists had suspected the source of the substance before it was found.","A","Scientists suspected that the pancreas produced a substance","They suspected the pancreas."]
+]
+});
+
+RS.p3.push({
+id:"p3-40", lv:"M", tt:"Living in a tiny house", h:"The Tiny House Movement",
+paras:[
+`Tiny houses are homes that are usually smaller than 40 square metres, about the size of a large living room. Many are built on trailers so they can be moved. The movement grew in popularity after the 2008 financial crisis, when many people began questioning the need for large, expensive homes.`,
+`Supporters say tiny houses offer financial freedom. Because they cost much less than a traditional house, many owners can buy one without a large mortgage. Lower heating and electricity bills are another advantage, and owners often say that having less space encourages them to own fewer things.`,
+`However, tiny house owners often face legal problems. Many Canadian municipalities have minimum size requirements for homes, and some do not allow people to live permanently in a house on wheels. Finding land to park a tiny house can therefore be difficult, especially near large cities.`,
+`Living in a small space also requires adjustment. Couples may find it hard to have privacy, and storage is always limited. Some owners who started with enthusiasm eventually move back into larger homes, particularly after having children.`
+],
+st:[
+["An economic crisis increased interest in smaller homes.","A","after the 2008 financial crisis","2008 crisis."],
+["Tiny house owners pay less for energy.","B","Lower heating and electricity bills","Lower bills."],
+["Local rules can prevent people from living in tiny houses.","C","some do not allow people to live permanently in a house on wheels","Municipal rules."],
+["Some owners leave their tiny homes when their family grows.","D","particularly after having children","After having children."],
+["Many tiny houses are portable.","A","Many are built on trailers so they can be moved","On trailers."],
+["Tiny houses are easy to sell.","E",null,"Resale is not discussed."],
+["Having less room can lead to buying less.","B","having less space encourages them to own fewer things","Fewer things."],
+["It is especially hard to find land near big cities.","C","especially near large cities","Near large cities."],
+["Space for belongings is always a problem.","D","storage is always limited","Limited storage."]
+]
+});
+
+RS.p3.push({
+id:"p3-41", lv:"M", tt:"Community radio", h:"Small Stations, Big Voices",
+paras:[
+`Community radio stations are non-profit broadcasters run largely by volunteers. Canada has more than 150 of them, from large cities to remote villages. Unlike commercial stations, they are not focused on profit, and many rely on donations, memberships and small grants.`,
+`These stations often broadcast programs that commercial radio ignores. A station in Toronto might offer shows in Tagalog, Punjabi or Somali, while one in northern Quebec may broadcast mainly in Cree. For many newcomers and Indigenous communities, community radio is one of the few media sources in their own language.`,
+`Community radio also plays an important role during emergencies. When wildfires forced the evacuation of Fort McMurray in 2016, local volunteers kept the station on the air to share updates about roads and shelters. In rural areas with weak internet service, radio can be the most reliable source of information.`,
+`However, many stations struggle financially. Volunteers are sometimes difficult to keep, and equipment is expensive to replace. Several stations have closed in recent years, while others have started streaming online to reach new audiences.`
+],
+st:[
+["Stations are supported by public contributions.","A","many rely on donations, memberships and small grants","Donations and memberships."],
+["Programs are offered in many different languages.","B","shows in Tagalog, Punjabi or Somali","Many languages."],
+["A station continued operating during a disaster.","C","local volunteers kept the station on the air","Fort McMurray."],
+["Some stations have shut down.","D","Several stations have closed in recent years","Closed."],
+["Radio is dependable where internet access is poor.","C","In rural areas with weak internet service, radio can be the most reliable source","Rural areas."],
+["Most community radio listeners are over sixty.","E",null,"Listener age is not mentioned."],
+["People who run stations are mostly unpaid.","A","run largely by volunteers","Volunteers."],
+["Stations are using the internet to find listeners.","D","others have started streaming online to reach new audiences","Streaming online."],
+["For some groups, it is a rare source of media in their language.","B","one of the few media sources in their own language","Few media sources."]
+]
+});
+
+RS.p3.push({
+id:"p3-42", lv:"M", tt:"The Group of Seven", h:"Painting the Canadian Landscape",
+paras:[
+`The Group of Seven was a group of Canadian painters who first exhibited together in Toronto in 1920. They believed that Canada needed its own style of art, rather than copying European traditions. Their bold colours and strong brushstrokes were very different from the soft, realistic landscapes that were popular at the time.`,
+`Much of their work was inspired by trips to Algonquin Park, Georgian Bay and Lake Superior. The painters often travelled by canoe and train, making small sketches on wooden panels outdoors and later turning them into large paintings in their studios.`,
+`At first, critics were not impressed. Some described the paintings as rough and unfinished, and one reviewer compared them to the work of a child. Over time, however, the public came to see their paintings as a symbol of Canadian identity.`,
+`Today, their works sell for millions of dollars, and the McMichael Gallery in Kleinburg, Ontario, holds a large collection. Some historians note, though, that the group often painted the land as empty wilderness, ignoring the Indigenous peoples who had lived there for thousands of years.`
+],
+st:[
+["The artists wanted to break away from European influence.","A","rather than copying European traditions","Not copying Europe."],
+["Early work was done outside and finished later indoors.","B","making small sketches on wooden panels outdoors and later turning them into large paintings in their studios","Sketches outdoors."],
+["The paintings were not well received at first.","C","At first, critics were not impressed","Critics unimpressed."],
+["Their view of the land has been criticized for leaving people out.","D","ignoring the Indigenous peoples","Ignoring Indigenous peoples."],
+["They travelled by boat to find subjects.","B","The painters often travelled by canoe","By canoe."],
+["All seven artists were born in Canada.","E",null,"Birthplaces are not mentioned."],
+["A gallery keeps many of their works.","D","the McMichael Gallery in Kleinburg, Ontario, holds a large collection","McMichael Gallery."],
+["Their style was different from what was popular then.","A","very different from the soft, realistic landscapes that were popular","Different style."],
+["The paintings came to represent the nation.","C","a symbol of Canadian identity","Canadian identity."]
+]
+});
+
+RS.p3.push({
+id:"p3-43", lv:"M", tt:"Composting at home", h:"Turning Kitchen Scraps into Soil",
+paras:[
+`About half of what Canadian households throw away is organic material, such as food scraps and yard waste. When this material ends up in landfills, it breaks down without oxygen and produces methane, a powerful greenhouse gas. Composting at home is one way to reduce this.`,
+`A good compost pile needs a balance of 'greens' and 'browns.' Greens are wet materials rich in nitrogen, such as vegetable peels and coffee grounds. Browns are dry materials rich in carbon, like dead leaves and shredded paper. Too many greens can make the pile smell, while too many browns slow it down.`,
+`Some items should never go into a home compost bin. Meat, fish and dairy products can attract raccoons and rats, and diseased plants may spread problems to the garden. Pet waste is also unsafe to use on vegetable gardens.`,
+`With regular turning to add air, a home compost pile can produce rich, dark soil in two to six months. Gardeners use it to improve plant growth and reduce the need for chemical fertilizers. People without gardens can often drop off food scraps at community gardens or use city green bin programs.`
+],
+st:[
+["Organic waste in landfills creates a harmful gas.","A","produces methane, a powerful greenhouse gas","Methane."],
+["An unbalanced pile may have a bad smell.","B","Too many greens can make the pile smell","Too many greens."],
+["Certain foods can attract animals.","C","Meat, fish and dairy products can attract raccoons and rats","Raccoons and rats."],
+["Compost can replace some artificial products.","D","reduce the need for chemical fertilizers","Less chemical fertilizer."],
+["Mixing the pile helps it break down.","D","With regular turning to add air","Turning adds air."],
+["Compost bins must be bought from the city.","E",null,"Not mentioned."],
+["Dry materials contain a lot of carbon.","B","Browns are dry materials rich in carbon","Browns."],
+["People without yards still have options.","D","People without gardens can often drop off food scraps","Drop-off options."],
+["Material from sick plants should be kept out.","C","diseased plants may spread problems to the garden","Diseased plants."]
+]
+});
+
+RS.p3.push({
+id:"p3-44", lv:"M", tt:"Lighthouse keepers", h:"The Last Lighthouse Keepers",
+paras:[
+`For more than two centuries, lighthouse keepers guided ships safely along Canada's coasts. They lived in isolated stations, often with their families, and were responsible for keeping the light burning through the night. In storms, keepers sometimes rowed out to rescue sailors from sinking boats.`,
+`The work was demanding. Before electricity, keepers had to carry oil up narrow stairs, clean the glass lenses every day, and wind the clockwork that made the light rotate. Supplies arrived by boat, and in winter some stations were cut off for weeks at a time.`,
+`Starting in the 1960s, the federal government began replacing keepers with automated lights. Today, only about fifty staffed lighthouses remain in Canada, almost all of them in British Columbia and Newfoundland and Labrador. The government argues that automation saves money.`,
+`However, many coastal residents and boaters want keepers to stay. They point out that keepers provide weather reports to pilots and fishermen and can respond to emergencies that machines cannot. Several abandoned lighthouses have also been turned into museums, inns or artists' studios by local communities.`
+],
+st:[
+["Keepers sometimes saved people in danger.","A","keepers sometimes rowed out to rescue sailors","Rescued sailors."],
+["Keepers could be isolated for long periods.","B","some stations were cut off for weeks at a time","Cut off for weeks."],
+["Most remaining staffed lighthouses are in two provinces.","C","almost all of them in British Columbia and Newfoundland and Labrador","Two provinces."],
+["Keepers share information about the weather.","D","keepers provide weather reports to pilots and fishermen","Weather reports."],
+["Old buildings have found new uses.","D","turned into museums, inns or artists' studios","New uses."],
+["Lighthouse keepers were paid very high salaries.","E",null,"Pay is not mentioned."],
+["Keepers' families often lived with them.","A","often with their families","With families."],
+["Replacing keepers is said to reduce costs.","C","The government argues that automation saves money","Saves money."],
+["The light's movement depended on a mechanical system.","B","wind the clockwork that made the light rotate","Clockwork."]
+]
+});
+
+RS.p3.push({
+id:"p3-45", lv:"M", tt:"The sport of curling", h:"Curling: Canada's Winter Game",
+paras:[
+`Curling began in Scotland in the 1500s, when players slid stones across frozen ponds. Scottish immigrants brought the game to Canada in the early 1800s, and today Canada has more curlers than any other country, with about 1,000 curling clubs.`,
+`The game is played by two teams of four players. Each team slides heavy granite stones toward a target called the house. Players called sweepers use brooms to brush the ice in front of the stone, which helps it travel farther and in a straighter line.`,
+`Curling is known for its strong tradition of good manners. Players shake hands before and after each game, and it is customary for the losing team to buy the winners a drink. Players are expected to call their own fouls, even in major competitions.`,
+`In small towns, the curling club is often a social centre during the long winters. Many clubs now offer programs for beginners, children and people with disabilities, including wheelchair curling, which has been a Paralympic sport since 2006.`
+],
+st:[
+["The game came to Canada with newcomers.","A","Scottish immigrants brought the game to Canada","Scottish immigrants."],
+["Brushing the ice affects how the stone moves.","B","helps it travel farther and in a straighter line","Farther and straighter."],
+["Players are trusted to report their own mistakes.","C","Players are expected to call their own fouls","Call their own fouls."],
+["The sport has an adapted version for athletes with disabilities.","D","wheelchair curling, which has been a Paralympic sport since 2006","Wheelchair curling."],
+["Canada has the most curlers in the world.","A","Canada has more curlers than any other country","More than any other country."],
+["Curling stones are made in Canada.","E",null,"Where stones are made is not mentioned."],
+["There is a tradition involving the losing team.","C","it is customary for the losing team to buy the winners a drink","Losers buy a drink."],
+["Clubs bring small communities together.","D","the curling club is often a social centre","A social centre."],
+["Teams have the same number of players.","B","two teams of four players","Four each."]
+]
+});
+
+RS.p3.push({
+id:"p3-46", lv:"M", tt:"The farmers' market boom", h:"Why Farmers' Markets Are Growing",
+paras:[
+`Farmers' markets have become increasingly popular across Canada. Ontario alone has more than 180 markets, and many cities now host markets year-round, moving indoors during winter. Shoppers say they enjoy buying food directly from the people who grow it.`,
+`For farmers, markets offer better prices. When selling to grocery chains, farmers may receive only a small portion of the final price. At a market, they keep the full amount, although they must pay a fee for their stall and spend long hours selling.`,
+`Markets also help local economies. Studies have found that money spent at farmers' markets is more likely to stay in the community, since vendors often buy supplies and services locally. Markets can also attract visitors to downtown areas.`,
+`However, prices at markets are sometimes higher than at supermarkets, which can make them less accessible to low-income families. To address this, some provinces offer programs that give families coupons to spend on fresh fruit and vegetables at participating markets.`
+],
+st:[
+["Some markets continue through the cold season.","A","moving indoors during winter","Indoors in winter."],
+["Farmers earn more by selling directly to customers.","B","they keep the full amount","Keep the full amount."],
+["Vendors spend a lot of time at markets.","B","spend long hours selling","Long hours."],
+["Market spending supports other local businesses.","C","vendors often buy supplies and services locally","Buying locally."],
+["Programs help families afford fresh produce.","D","give families coupons to spend on fresh fruit and vegetables","Coupons."],
+["Markets are allowed only on weekends.","E",null,"Market days are not mentioned."],
+["Customers like meeting producers.","A","enjoy buying food directly from the people who grow it","From growers."],
+["Market food may cost more than supermarket food.","D","prices at markets are sometimes higher than at supermarkets","Higher prices."],
+["Markets can bring people into city centres.","C","Markets can also attract visitors to downtown areas","Downtown visitors."]
+]
+});
+
+RS.p3.push({
+id:"p3-47", lv:"E", tt:"Polar bears in Churchill", h:"The Polar Bear Capital of the World",
+paras:[
+`Churchill is a small town in northern Manitoba on the shore of Hudson Bay. It is called the Polar Bear Capital of the World. Every fall, hundreds of polar bears wait near the town for the bay to freeze.`,
+`Polar bears need sea ice to hunt seals, which are their main food. When the ice melts in summer, the bears come onto land and eat very little. They wait until the ice returns in November.`,
+`Many tourists visit Churchill in October and November to see the bears. They ride in large vehicles called tundra buggies, which have big wheels and high windows. This keeps visitors safe.`,
+`Living with bears can be dangerous. People in Churchill do not lock their cars, so anyone can hide inside if a bear comes near. The town also has a "polar bear jail" for bears that come too close to homes.`
+],
+st:[
+["Bears come to the area to wait for ice.","A","polar bears wait near the town for the bay to freeze","They wait for ice."],
+["Bears eat little during the summer.","B","the bears come onto land and eat very little","They eat little."],
+["Special vehicles keep tourists safe.","C","This keeps visitors safe","Tundra buggies."],
+["Residents leave cars open for safety.","D","People in Churchill do not lock their cars","Cars unlocked."],
+["Churchill is in Manitoba.","A","Churchill is a small town in northern Manitoba","Manitoba."],
+["Polar bears are good swimmers.","E",null,"Swimming is not mentioned."],
+["Seals are the bears' main food.","B","to hunt seals, which are their main food","Seals."],
+["Tourists visit in the fall.","C","Many tourists visit Churchill in October and November","October and November."],
+["There is a place to hold bears that come too close.","D","The town also has a \"polar bear jail\"","Polar bear jail."]
+]
+});
+
+RS.p3.push({
+id:"p3-48", lv:"E", tt:"Making a budget", h:"How to Make a Monthly Budget",
+paras:[
+`A budget is a plan for your money. It helps you see how much money comes in and how much goes out each month. People with a budget often feel less stressed about money.`,
+`First, write down your monthly income. This includes your pay after taxes and any other money you receive. Then, list your fixed costs, like rent, phone bills and transit passes. These costs are the same every month.`,
+`Next, track your other spending for one month. Write down everything you buy, like food, coffee and clothes. Many people are surprised by how much they spend on small things.`,
+`Finally, set goals. Try to save some money every month, even a small amount. Experts say you should try to save enough money to cover three months of costs in case of an emergency.`
+],
+st:[
+["A budget can reduce worry about money.","A","People with a budget often feel less stressed about money","Less stress."],
+["Some costs stay the same each month.","B","These costs are the same every month","Fixed costs."],
+["Small purchases can add up.","C","Many people are surprised by how much they spend on small things","Small things."],
+["You should save for emergencies.","D","in case of an emergency","Emergency savings."],
+["Use your income after taxes.","B","your pay after taxes","After taxes."],
+["You should use a special app for budgeting.","E",null,"Apps are not mentioned."],
+["Write down all your purchases.","C","Write down everything you buy","Everything."],
+["Try to save even a little money.","D","even a small amount","A small amount."],
+["A budget shows money coming in and going out.","A","how much money comes in and how much goes out","In and out."]
+]
+});
+
+RS.p3.push({
+id:"p3-49", lv:"E", tt:"Visiting Niagara Falls", h:"A Day at Niagara Falls",
+paras:[
+`Niagara Falls is on the border between Canada and the United States. It is made of three waterfalls. The biggest one, Horseshoe Falls, is on the Canadian side. About twelve million people visit every year.`,
+`The most popular activity is the boat tour. The boat takes visitors very close to the bottom of the falls. Everyone gets a rain poncho, but most people still get wet!`,
+`Another popular attraction is Journey Behind the Falls. Visitors take an elevator down through the rock and walk through tunnels to see the water from behind.`,
+`In the evening, the falls are lit up with coloured lights. In summer, there are fireworks on many nights. Many visitors also enjoy the gardens and restaurants on Clifton Hill.`
+],
+st:[
+["The largest waterfall is in Canada.","A","The biggest one, Horseshoe Falls, is on the Canadian side","Horseshoe Falls."],
+["Visitors are given something to stay dry.","B","Everyone gets a rain poncho","A poncho."],
+["You can see the water from behind.","C","to see the water from behind","From behind."],
+["There are fireworks in summer.","D","In summer, there are fireworks on many nights","Fireworks."],
+["Millions of people visit each year.","A","About twelve million people visit every year","Twelve million."],
+["The boat tour is free for children.","E",null,"Prices are not mentioned."],
+["People often get wet on the boat.","B","most people still get wet","Wet."],
+["An elevator takes visitors underground.","C","take an elevator down through the rock","Elevator."],
+["The falls are lit at night.","D","the falls are lit up with coloured lights","Coloured lights."]
+]
+});
+
+RS.p3.push({
+id:"p3-50", lv:"E", tt:"The loonie", h:"The Story of the Loonie",
+paras:[
+`The one-dollar coin in Canada is called the loonie. It got its name because it shows a picture of a loon, a bird that lives on Canadian lakes. The coin was introduced in 1987 to replace the one-dollar paper bill.`,
+`The government changed to a coin because coins last much longer than paper money. A paper bill lasted about one year, but a coin can last twenty years or more. This saved the government money.`,
+`At first, the coin was supposed to show a canoe. However, the design was lost in the mail, so the government chose the loon instead. Canadians quickly began calling it the loonie.`,
+`In 1996, Canada introduced a two-dollar coin. People called it the toonie because it is worth two loonies. Today, both coins are used every day across the country.`
+],
+st:[
+["The coin's name comes from a bird.","A","It got its name because it shows a picture of a loon","A loon."],
+["Coins last longer than paper money.","B","coins last much longer than paper money","Longer."],
+["The first design was lost.","C","the design was lost in the mail","Lost in the mail."],
+["A two-dollar coin was introduced later.","D","In 1996, Canada introduced a two-dollar coin","1996."],
+["The coin replaced paper money.","A","to replace the one-dollar paper bill","Replaced the bill."],
+["The loonie is made of gold.","E",null,"Material is not mentioned."],
+["The change saved the government money.","B","This saved the government money","Saved money."],
+["People gave the coin a nickname quickly.","C","Canadians quickly began calling it the loonie","Quickly."],
+["Both coins are used today.","D","both coins are used every day","Both used."]
 ]
 });
 
@@ -3447,5 +5989,829 @@ b:[
 [["lock","ride","wash","sell"],"more bike racks","Lock (park) his bike."],
 [["racks","lanes","taxis","shops"],"add more bike racks","Racks."],
 [["shops","taxis","cars","buses"],"in front of her shop","Racks help shops too."]
+]
+});
+
+RS.p4.push({
+id:"p4-26", lv:"H", tt:"A $20 minimum wage?",
+art:{h:"Labour groups push for a $20 minimum wage",
+text:`A coalition of labour groups in Ontario is campaigning to raise the provincial minimum wage to $20 an hour, up from its current level of about $17. They argue that rising rents and grocery prices have left many full-time workers unable to cover basic costs, and they point out that food bank visits by employed people have nearly doubled in five years.
+
+Campaign organizer Rosa Mendez says the increase is overdue. 'Nobody working forty hours a week should need a food bank,' she said. She dismisses warnings about job losses, noting that similar predictions were made when the wage rose sharply in 2018, and employment in affected sectors continued to grow.
+
+Small business owner Derek Wong, who runs two coffee shops in Hamilton, sees it differently. Labour already makes up about a third of his costs, and he says a jump of three dollars an hour would force him either to raise prices significantly or to cut staff hours. 'Large chains can absorb this. A café with twelve employees can't,' he said. He would support a smaller increase phased in over several years.
+
+Economist Dr. Priya Sandhu says the research is genuinely mixed. Moderate increases rarely cause large job losses, she explains, but very rapid increases in regions with lower living costs can reduce hiring, especially for young and inexperienced workers. She suggests that the province consider regional minimum wages, since living costs in Toronto differ greatly from those in smaller northern towns.
+
+The provincial government has said it will stick with its current policy of annual increases tied to inflation.`},
+q:[
+["What evidence does the coalition use?",["More working people are using food banks.","Most workers earn $20 already.","Rents have fallen in Ontario.","Most employers in Ontario already support the change."],"food bank visits by employed people have nearly doubled in five years","Food bank use by the employed."],
+["How does Rosa Mendez respond to concerns about jobs?",["Similar fears in the past did not come true.","She agrees that jobs will be lost.","She says small businesses will be exempt.","She wants a slower increase."],"similar predictions were made when the wage rose sharply in 2018, and employment in affected sectors continued to grow","Past predictions didn't come true."],
+["What is Derek Wong's position?",["He would accept a gradual, smaller raise.","He opposes any increase at all.","He supports the full increase.","He plans to close one of his two cafés this year."],"He would support a smaller increase phased in over several years","A smaller, phased increase."],
+["According to Dr. Sandhu, who is most affected by rapid increases?",["Young and inexperienced workers","Large chain owners","Workers in Toronto","Economists who study wages"],"especially for young and inexperienced workers","Young, inexperienced workers."],
+["What does Dr. Sandhu suggest?",["Different minimum wages for different regions","Freezing wages for five years","A $25 minimum wage","Removing the minimum wage for young workers"],"consider regional minimum wages","Regional wages."]
+],
+cm:{by:"Tom Richards",
+text:`I work full-time in a warehouse and still struggle to pay rent, so I agree with Ms. Mendez that no full-time worker should [[6]].
+
+At the same time, Mr. Wong's concern is real. My sister owns a small bakery, and she has told me that a sudden three-dollar increase would force her to [[7]].
+
+That's why Dr. Sandhu's idea makes the most sense to me. Rent in Toronto is [[8]] than in Timmins, so why should the minimum wage be the same? A [[9]] approach could help workers in expensive cities without hurting small businesses elsewhere.
+
+Unfortunately, the government seems happy to [[10]], so I doubt anything will change soon.`},
+b:[
+[["need a food bank","work forty hours","own a café","live in Toronto"],"Nobody working forty hours a week should need a food bank","Mendez's point."],
+[["cut staff hours","hire more people","open a second shop","lower her prices"],"would force him either to raise prices significantly or to cut staff hours","Like Wong: cut hours."],
+[["far higher","much lower","exactly the same","slightly cheaper"],"living costs in Toronto differ greatly from those in smaller northern towns","Toronto is more expensive."],
+[["regional","national","temporary","private"],"consider regional minimum wages","Regional."],
+[["keep its current policy","raise wages to $20","cut the minimum wage","study the issue"],"it will stick with its current policy","Stick with current policy."]
+]
+});
+
+RS.p4.push({
+id:"p4-27", lv:"H", tt:"Speed cameras near schools",
+art:{h:"Speed cameras in school zones: safety tool or cash grab?",
+text:`Two years after installing automated speed cameras in fifty school zones, the City of Brampton says the average speed of vehicles in those areas has dropped by about 15 percent. The cameras photograph the licence plates of speeding vehicles, and owners receive tickets by mail. The city now plans to add forty more cameras next year.
+
+Traffic safety advocate Helen Park, whose nephew was injured by a speeding driver near his school, strongly supports the expansion. 'Police can't be on every corner,' she said. 'Cameras work every hour of every day, and drivers know it.' She points to research from Toronto showing that the number of drivers going more than 20 km/h over the limit fell sharply after cameras were installed.
+
+Driver Mark Olsen is among the critics. He received three tickets in two months, all for driving about 10 km/h over the limit early in the morning, when he says no children were around. 'If safety were the real goal, the cameras would only operate during school hours,' he said. He believes the city is more interested in the revenue, which reached nearly $12 million last year.
+
+City councillor Anita Das says the money goes directly into road safety projects such as new crosswalks and sidewalk improvements. However, she admits that the city should do more to explain how the program works. She has proposed adding signs that show drivers their real-time speed before they reach the cameras, which she believes would slow drivers down without anyone needing to receive a ticket.`},
+q:[
+["What result does the city report?",["Drivers are going slower in school zones.","Accidents have disappeared completely.","Fewer children walk to school.","Tickets have decreased."],"the average speed of vehicles in those areas has dropped by about 15 percent","Lower speeds."],
+["Why does Helen Park favour cameras over police?",["Cameras operate constantly.","Police are too expensive.","Cameras are more polite.","Police give fewer tickets."],"Cameras work every hour of every day","They work constantly."],
+["What is Mark Olsen's main complaint?",["The cameras operate when children are not present.","The tickets are too expensive.","The cameras are hidden.","He was not speeding when the photos were taken."],"the cameras would only operate during school hours","He wants them only during school hours."],
+["What does Councillor Das say about the money?",["It is used for road safety improvements.","It goes to the police.","It pays for school supplies.","It is returned to drivers who have no other tickets."],"the money goes directly into road safety projects","Road safety projects."],
+["What has Councillor Das proposed?",["Signs that display drivers' speeds","Removing the cameras","Doubling the fines","Cameras that operate only in the morning"],"adding signs that show drivers their real-time speed","Speed display signs."]
+],
+cm:{by:"Samira Khan",
+text:`As a parent of two young children, I'm glad the cameras are working. The fact that speeds have dropped by [[6]] percent is hard to argue with.
+
+Still, Mr. Olsen raises a fair point. If cameras only operated during school hours, fewer drivers would feel [[7]].
+
+I was reassured to learn from Councillor Das that the money [[8]]. The city should publish exactly which crosswalks and sidewalks it pays for, since many people clearly believe the program is [[9]].
+
+Her idea of speed display signs is excellent. Most drivers slow down when they see their speed, and nobody would have to [[10]].`},
+b:[
+[["about 15","nearly 20","exactly 50","about 40"],"has dropped by about 15 percent","15 percent."],
+[["unfairly treated","safer","more awake","better informed"],"He believes the city is more interested in the revenue","Drivers feel treated unfairly."],
+[["goes into road safety","goes to the police","is returned to drivers","pays councillors"],"the money goes directly into road safety projects","Road safety."],
+[["just a way to make money","too expensive","completely safe","run by police"],"He believes the city is more interested in the revenue","A cash grab."],
+[["pay a fine","slow down","buy a sign","drive to school"],"without anyone needing to receive a ticket","No tickets needed."]
+]
+});
+
+RS.p4.push({
+id:"p4-28", lv:"H", tt:"Limiting short-term rentals",
+art:{h:"Should cities limit short-term rentals?",
+text:`Vancouver, Toronto and several other Canadian cities have introduced rules restricting short-term rentals such as those listed on Airbnb. In most cases, owners may now rent out only their principal residence, meaning the home where they actually live, rather than investment properties used full-time as tourist accommodation.
+
+Housing advocate Jordan Lee argues the rules are essential. In some downtown neighbourhoods, he says, as many as one in ten apartments had been converted into full-time short-term rentals, removing them from the long-term rental market. 'Every unit rented to tourists is a unit a family can't live in,' he said. He wants cities to enforce the rules more strictly, since many illegal listings remain online.
+
+Property owner Cynthia Moreau disagrees. She bought a condo as a short-term rental investment before the rules changed and says she now faces losing money on her mortgage. 'The city changed the rules after I made a decision in good faith,' she said. She also argues that tourists bring money to local restaurants and shops, particularly in neighbourhoods far from downtown hotels.
+
+Urban researcher Dr. Samuel Obi says short-term rentals are only one part of the housing problem. His research found that the rules returned some units to the long-term market, but the effect on overall rents was modest. 'Limiting short-term rentals helps, but it won't solve a housing shortage that requires hundreds of thousands of new homes,' he said. He believes cities should focus on speeding up construction.`},
+q:[
+["What do most new rules allow?",["Renting out the home where the owner lives","Renting any number of properties","Renting only to students","Renting only during the busy summer tourist season"],"owners may now rent out only their principal residence","Principal residence only."],
+["What problem does Jordan Lee describe?",["Homes for residents were turned into tourist rentals.","Tourists damage apartments.","Rents have fallen downtown.","Hotels downtown have become much too expensive for tourists."],"converted into full-time short-term rentals, removing them from the long-term rental market","Units removed from the long-term market."],
+["What does Lee want cities to do?",["Enforce the rules more strictly","Cancel the rules","Build more hotels","Tax tourists who stay in rentals"],"He wants cities to enforce the rules more strictly","Stricter enforcement."],
+["Why does Cynthia Moreau feel treated unfairly?",["The rules changed after she invested.","She was fined by the city.","Her tenants stopped paying.","Tourists seriously damaged her condo last summer."],"The city changed the rules after I made a decision in good faith","Rules changed after her decision."],
+["What is Dr. Obi's view?",["The rules help a little, but more housing is needed.","The rules have solved the housing problem.","Short-term rentals should be banned completely.","Rents have increased because of the rules."],"it won't solve a housing shortage that requires hundreds of thousands of new homes","It helps but more homes are needed."]
+],
+cm:{by:"Daniel Ferreira",
+text:`I live in a downtown building where several units were full-time rentals for tourists, so I understand Mr. Lee's frustration. It felt like living in a [[6]] rather than a community.
+
+I have some sympathy for Ms. Moreau, but anyone who invests takes the risk that rules may [[7]].
+
+What convinced me most was Dr. Obi's research. If the rules had only a [[8]] effect on rents, then cities cannot rely on them alone. They must also [[9]] new homes much faster.
+
+Meanwhile, I agree the city should remove the illegal listings that are still [[10]].`},
+b:[
+[["hotel","library","school","hospital"],null,"Tourist rentals make it feel like a hotel."],
+[["change","disappear","help","stay the same"],"The city changed the rules after I made a decision in good faith","Rules may change."],
+[["modest","dramatic","negative","permanent"],"the effect on overall rents was modest","Modest."],
+[["build","sell","rent","tax"],"cities should focus on speeding up construction","Build faster."],
+[["online","downtown","legal","expensive"],"many illegal listings remain online","Still online."]
+]
+});
+
+RS.p4.push({
+id:"p4-29", lv:"H", tt:"Voting at sixteen",
+art:{h:"Should 16-year-olds be allowed to vote?",
+text:`A private member's bill in Parliament proposes lowering the federal voting age from eighteen to sixteen. Similar changes have already been made in Austria, Scotland and several Brazilian and German states. Supporters say young people are directly affected by long-term issues such as climate change and housing, and should have a say.
+
+High school teacher Marc Bélanger supports the bill. He argues that sixteen is actually a better age to start voting than eighteen. 'At sixteen, most students are still living at home and studying civics in school,' he said. 'At eighteen, many are moving away for college or work, and registering to vote becomes one more thing they forget.' He cites research from Austria showing that people who first voted at sixteen were more likely to keep voting in later elections.
+
+Political scientist Dr. Karen Holt is more cautious. While she agrees that sixteen-year-olds are capable of making informed decisions, she questions whether lowering the age alone would increase participation. In Scotland, she notes, turnout among sixteen- and seventeen-year-olds was high in the 2014 independence referendum, a single dramatic issue, but lower in ordinary elections. She believes better civic education would matter more than changing the law.
+
+Grade 11 student Aisha Rahman says many of her classmates follow politics closely on social media. 'We pay taxes on our part-time jobs, but we have no voice,' she said. However, she admits that some of her friends are not interested at all and would probably not vote even if they could.`},
+q:[
+["What is the main argument of supporters?",["Young people are affected by long-term issues.","Sixteen-year-olds pay high taxes.","Other countries require it.","Voting would be much easier if it were moved online."],"young people are directly affected by long-term issues","Affected by long-term issues."],
+["Why does Marc Bélanger think sixteen is a good starting age?",["Students are still at home and in school.","Students are more mature at sixteen.","Students have more free time.","Students can vote online."],"most students are still living at home and studying civics in school","Still at home and studying civics."],
+["What did the Austrian research show?",["Early voters tended to keep voting.","Young voters chose different parties.","Turnout fell after the change.","Students disliked voting."],"people who first voted at sixteen were more likely to keep voting","They kept voting."],
+["What point does Dr. Holt make about Scotland?",["Youth turnout depended on the type of vote.","Young people never voted.","The referendum was cancelled.","Turnout among young voters was high in every kind of election."],"high in the 2014 independence referendum, a single dramatic issue, but lower in ordinary elections","Depends on the vote."],
+["What does Aisha Rahman admit?",["Not all her peers care about politics.","She does not pay taxes.","She is too young to understand politics.","She would not vote."],"some of her friends are not interested at all","Some friends aren't interested."]
+],
+cm:{by:"Gordon MacLeod",
+text:`I was skeptical about this idea, but Mr. Bélanger's argument changed my mind. It makes sense that students would register more easily while they are still [[6]].
+
+Dr. Holt also makes a good point. The Scottish example suggests that young people vote when the issue feels [[7]], but not always otherwise.
+
+Perhaps the answer is to do both: lower the age and improve [[8]] in schools.
+
+As for Aisha's point about taxes, I found it convincing. If teenagers contribute through [[9]], it seems fair that they should have some voice. And of course, adults who aren't interested in politics also [[10]] to vote, so that argument applies to everyone.`},
+b:[
+[["at home and in school","working full-time","living alone","at university"],"most students are still living at home and studying civics in school","At home and in school."],
+[["important","boring","confusing","local"],"a single dramatic issue","When the issue feels important."],
+[["civic education","sports programs","school lunches","exam results"],"better civic education would matter more","Civic education."],
+[["the taxes they pay","their votes","their schoolwork","social media"],"We pay taxes on our part-time jobs","Taxes."],
+[["often don't bother","are required","always choose","rarely want"],"would probably not vote even if they could","Uninterested adults often don't vote either."]
+]
+});
+
+RS.p4.push({
+id:"p4-30", lv:"H", tt:"Junk food ads and kids",
+art:{h:"Should advertising of unhealthy food to children be banned?",
+text:`The federal government is considering restrictions on the advertising of foods high in sugar, salt and saturated fat to children under thirteen. Quebec has banned most commercial advertising aimed at children since 1980, and researchers have long studied its effects.
+
+Pediatrician Dr. Amina Diallo strongly supports national restrictions. She says children are especially vulnerable to advertising because they cannot always recognize persuasive techniques. She points to a study which found that Quebec families bought significantly less fast food than families in other provinces, and says childhood obesity rates in Quebec are among the lowest in Canada. 'Parents are fighting against billion-dollar marketing budgets,' she said.
+
+Food industry spokesperson Greg Holloway argues that such a ban would be both unfair and ineffective. He says companies already follow voluntary guidelines and that parents, not advertisers, decide what children eat. He also notes that much advertising now happens online and through influencers, where it is difficult to regulate. 'A ban on television ads would simply push marketing onto platforms that are harder to monitor,' he said.
+
+Nutrition researcher Dr. Paul Lemieux agrees that restrictions could help, but warns that the Quebec results are not as clear as supporters claim. Differences in culture and diet between Quebec and other provinces may also explain some of the gap. He believes advertising rules should be combined with other measures, such as better food labelling and healthier school meals.`},
+q:[
+["What is true about Quebec?",["It has restricted ads aimed at children for decades.","It recently introduced a ban.","It has the highest obesity rates.","It has always opposed any restrictions on advertising."],"Quebec has banned most commercial advertising aimed at children since 1980","Since 1980."],
+["Why does Dr. Diallo think children need protection?",["They often cannot see how ads try to persuade them.","They watch too much TV.","They buy their own food.","They are more influenced by their teachers than by their parents."],"they cannot always recognize persuasive techniques","They can't recognize persuasion."],
+["What is one of Greg Holloway's arguments?",["Restrictions would move advertising to places that are harder to control.","Children should choose their own food.","Advertising is good for health.","Quebec's ban was a success that other provinces should copy immediately."],"push marketing onto platforms that are harder to monitor","Harder-to-monitor platforms."],
+["Why is Dr. Lemieux cautious about Quebec's results?",["Other factors may explain the differences.","The data was lost.","Quebec's ban was never enforced.","The study was too recent to show any long-term results."],"Differences in culture and diet between Quebec and other provinces may also explain some of the gap","Culture and diet."],
+["What does Dr. Lemieux recommend?",["Combining ad rules with other measures","Banning all fast food","Ending school meal programs","Relying on the industry's own voluntary guidelines"],"should be combined with other measures","Combine measures."]
+],
+cm:{by:"Linda Tran",
+text:`As a mother of three, I agree completely with Dr. Diallo. It often feels as if I'm competing with [[6]] every time we go to the grocery store.
+
+Mr. Holloway says parents decide what children eat, and that's true, but children still [[7]] their parents for what they see in ads.
+
+His point about influencers is fair, though. My kids see far more ads on [[8]] than on television. Any new rules must cover online platforms too.
+
+I found Dr. Lemieux's view the most balanced. Advertising rules alone won't solve the problem, and I would love to see [[9]] in schools. Clearer [[10]] would also help busy parents make better choices.`},
+b:[
+[["billion-dollar marketing budgets","other parents","school cafeterias","doctors who recommend healthy food"],"Parents are fighting against billion-dollar marketing budgets","Marketing budgets."],
+[["ask","ignore","punish","feed"],null,"Children ask parents for what they see."],
+[["their phones","billboards","radio","newspapers"],"much advertising now happens online and through influencers","Online."],
+[["healthier meals","more advertising","longer recess","fast food"],"healthier school meals","Healthier meals."],
+[["food labels","TV ads","menus","coupons"],"better food labelling","Labels."]
+]
+});
+
+RS.p4.push({
+id:"p4-31", lv:"H", tt:"Public money for a stadium",
+art:{h:"Should the city help pay for a new stadium?",
+text:`The owners of the city's professional football team have asked for $200 million in public funding toward a new $600-million stadium. They say the current stadium, built in 1975, is outdated and too costly to repair, and they have hinted that the team could move to another city if a deal is not reached.
+
+Mayor Susan Clark supports contributing some public money. She argues that the stadium would host concerts and community events as well as football, and that the surrounding neighbourhood would benefit from new restaurants and shops. 'A stadium is not just for sports fans. It's a year-round gathering place,' she said. She has proposed that the city's contribution be repaid gradually through a special tax on tickets.
+
+Economist Dr. Robert Kim is skeptical. He says decades of research show that new stadiums rarely produce the economic growth that is promised. Most spending at stadiums, he explains, is money that residents would have spent elsewhere in the city anyway, for example at restaurants or movie theatres. 'The public takes the risk, while team owners keep most of the profits,' he said.
+
+Resident Carla Diaz, who lives near the proposed site, has a different concern. She worries that traffic and noise on game nights would make her street unpleasant and that rising property values could push out long-time renters. She wants the city to guarantee affordable housing in the area before approving any funding.`},
+q:[
+["What have the team owners suggested?",["The team might relocate without funding.","They will pay for the entire stadium.","They want to sell the team.","The old stadium is in good condition."],"the team could move to another city if a deal is not reached","The team might move."],
+["Why does Mayor Clark support the plan?",["The stadium would be used for many types of events.","Football is the city's most popular sport.","The team owners are her friends.","It would cost the city nothing at all in the long run."],"would host concerts and community events as well as football","Many events."],
+["How does the mayor propose to recover the city's money?",["Through a ticket tax","Through property taxes","By selling land","By charging for parking"],"repaid gradually through a special tax on tickets","A ticket tax."],
+["What is Dr. Kim's main argument?",["Stadium spending usually replaces spending elsewhere.","Stadiums always lose money.","Concerts are unprofitable.","Owners usually share their profits fairly with the city."],"Most spending at stadiums, he explains, is money that residents would have spent elsewhere","It replaces other spending."],
+["What does Carla Diaz want before approval?",["A guarantee of affordable housing","Lower ticket prices","A different site","Free parking on game nights for residents"],"She wants the city to guarantee affordable housing","Affordable housing."]
+],
+cm:{by:"Brian O'Neil",
+text:`I've had season tickets for twenty years, and I'd hate to see the team [[6]]. Still, I'm not sure $200 million of public money is justified.
+
+Dr. Kim's research makes sense to me. When I go to a game, I [[7]] spend that money at a local restaurant instead.
+
+I do like the mayor's idea of a ticket tax, since it means the people who [[8]] the stadium would help pay for it.
+
+And Ms. Diaz is right to worry about her neighbourhood. The city should [[9]] residents like her before making a final decision. Owners who [[10]] the most should also pay the most.`},
+b:[
+[["move away","win more","change coaches","raise prices"],"the team could move to another city","Leave the city."],
+[["would otherwise","never","always","rarely"],"money that residents would have spent elsewhere","He'd otherwise spend it elsewhere."],
+[["use","build","own","sell"],null,"Users help pay."],
+[["listen to","ignore","relocate","charge"],null,"Listen to residents."],
+[["profit","lose","suffer","complain"],"team owners keep most of the profits","Those who profit most."]
+]
+});
+
+RS.p4.push({
+id:"p4-32", lv:"H", tt:"Backyard chickens",
+art:{h:"Should residents be allowed to keep chickens?",
+text:`After a two-year pilot project, city council is deciding whether to permanently allow residents to keep up to four hens in their backyards. Roosters would remain banned because of noise. About 120 households took part in the pilot, which required a permit, a secure coop and an annual inspection.
+
+Pilot participant Lucy Grant says the experience was overwhelmingly positive. Her family collects about two dozen eggs a week, and her children have learned where food comes from. 'Our neighbours were nervous at first, but now they're asking for eggs,' she said. She adds that hens eat kitchen scraps, reducing the amount of food waste her family throws away.
+
+Neighbour Frank Russo is less enthusiastic. The family next door to him kept hens during the pilot, and he says the smell was noticeable during hot weather. He also reports seeing more rats near the fence line, which he believes were attracted by spilled chicken feed. 'I'm not against chickens in the country,' he said, 'but city lots are too close together.'
+
+Veterinarian Dr. Helen Cho supports the program, with conditions. She notes that the pilot inspections found most coops were well maintained, but a few owners had not planned for winter and their hens suffered in the cold. She also warns that many people underestimate how long hens live; they stop laying eggs after a few years but can live for eight or more. She would like the city to require owners to attend a short training course.`},
+q:[
+["What would the permanent program allow?",["A small number of hens but no roosters","Any number of chickens","Roosters with a special permit","Chickens without any permit or inspection"],"up to four hens in their backyards. Roosters would remain banned","Up to four hens."],
+["What does Lucy Grant say about her neighbours?",["Their attitude has become positive.","They complained to the city.","They moved away.","They have started keeping hens of their own too."],"now they're asking for eggs","Now they ask for eggs."],
+["What additional benefit does Lucy mention?",["Less food is wasted.","Her garden grows faster.","Her children get exercise.","She saves on electricity."],"reducing the amount of food waste","Less food waste."],
+["What is Frank Russo's position?",["Chickens are better suited to rural areas.","Chickens should be banned everywhere.","Rats are not a problem.","The pilot should be expanded."],"I'm not against chickens in the country","Better in the country."],
+["What problem did Dr. Cho find in some coops?",["They were not prepared for winter.","They were too large.","They had too many roosters.","They had no food or water in them."],"a few owners had not planned for winter","Not prepared for winter."]
+],
+cm:{by:"Nadia Hussein",
+text:`I took part in the pilot, and like Ms. Grant, I now rarely [[6]] eggs at the store.
+
+However, I understand Mr. Russo's complaint. Chicken feed does attract [[7]], and owners need to store it in sealed containers.
+
+I strongly agree with Dr. Cho that owners should take a [[8]]. When I started, I had no idea hens could live [[9]] years. Anyone who is only interested in eggs should think carefully, because hens will keep needing care long after they [[10]].`},
+b:[
+[["buy","eat","cook","sell"],"Her family collects about two dozen eggs a week","She rarely buys eggs."],
+[["rats","roosters","neighbours","children"],"attracted by spilled chicken feed","Rats."],
+[["training course","vacation","permit test","cooking class"],"require owners to attend a short training course","Training."],
+[["eight or more","only two","exactly four","under three"],"can live for eight or more","Eight or more."],
+[["stop laying","start laying","get sold","move away"],"they stop laying eggs after a few years","Stop laying."]
+]
+});
+
+RS.p4.push({
+id:"p4-33", lv:"H", tt:"AI in hiring",
+art:{h:"Should employers use AI to screen job applicants?",
+text:`A growing number of large employers are using artificial intelligence to screen résumés and even analyse recorded video interviews. The software ranks candidates based on keywords, work history and, in some cases, speech patterns, allowing recruiters to focus on a shortlist.
+
+HR director Paula Grant, whose company receives about 3,000 applications for every opening, says the technology is a practical necessity. 'Without it, qualified people would be lost in the pile,' she said. She argues that AI can actually reduce bias, since it does not see a candidate's appearance or hear their accent unless programmed to.
+
+Technology researcher Dr. Omar Siddiqui strongly disagrees with that claim. He points out that AI systems learn from past hiring decisions, so if a company historically favoured certain groups, the software may repeat that pattern. He cites a well-known case in which a major tech company abandoned an AI tool after discovering it downgraded résumés that mentioned women's organizations. 'The bias is still there. It's just harder to see,' he said.
+
+Job seeker Daniel Kaur, a recent engineering graduate, has applied for more than a hundred positions and received mostly automated rejections within hours. He has learned to copy keywords from job descriptions into his résumé, which he says has improved his results. 'It feels like I'm writing for a machine, not a person,' he said. He would like employers to be required to tell applicants when AI is used and to offer a human review on request.`},
+q:[
+["Why does Paula Grant's company use AI?",["It receives too many applications to review manually.","It has no HR staff.","It is required by law.","It saves the company a lot of money on recruiters' salaries."],"receives about 3,000 applications for every opening","Too many applications."],
+["What does Paula believe about AI and bias?",["It may reduce certain kinds of unfairness.","It always increases bias.","It cannot be used in interviews.","It always prefers candidates with many years of experience."],"AI can actually reduce bias","It can reduce bias."],
+["Why does Dr. Siddiqui disagree?",["AI can learn from unfair past decisions.","AI is too expensive for most companies.","AI cannot read résumés.","AI favours recent graduates."],"AI systems learn from past hiring decisions","Learns from past decisions."],
+["What has helped Daniel Kaur?",["Using words from job ads in his résumé","Applying to fewer jobs","Sending video interviews","Calling recruiters directly after each application"],"copy keywords from job descriptions into his résumé","Keywords."],
+["What change does Daniel want?",["Employers should disclose AI use and allow human review.","AI should be banned in hiring.","Graduates should get priority.","Rejections should be sent faster so applicants can move on."],"tell applicants when AI is used and to offer a human review on request","Disclosure and human review."]
+],
+cm:{by:"Yasmin Patel",
+text:`I work in recruitment, and I understand Ms. Grant's situation. No team can read [[6]] applications for a single job.
+
+However, Dr. Siddiqui's example worries me. If a tool learned to favour [[7]], it could quietly repeat past mistakes for years.
+
+Daniel's experience sounds familiar to many of my friends. It's frustrating that job seekers must [[8]] to get past the software.
+
+His proposals seem reasonable to me. Applicants deserve to know when a machine is [[9]] them, and a human review would catch mistakes that software [[10]].`},
+b:[
+[["3,000","300","30","100"],"about 3,000 applications for every opening","3,000."],
+[["certain groups","women's organizations","recent graduates","long résumés"],"if a company historically favoured certain groups","Certain groups."],
+[["copy keywords","apply less","call managers","lie about grades"],"copy keywords from job descriptions","Copy keywords."],
+[["judging","hiring","training","paying"],null,"When a machine judges them."],
+[["misses","finds","creates","prefers"],null,"Humans catch what software misses."]
+]
+});
+
+RS.p4.push({
+id:"p4-34", lv:"H", tt:"Closing a rural ER at night",
+art:{h:"Rural hospital plans to close its emergency department overnight",
+text:`The only hospital in the town of Pine Ridge plans to close its emergency department from 7 p.m. to 7 a.m. starting next month. The hospital says it cannot find enough doctors and nurses to staff overnight shifts. Patients needing emergency care at night will have to travel to the regional hospital, about 70 kilometres away.
+
+Hospital CEO Martin Blake says the decision was painful but necessary. Over the past year, the department has had to close without warning on eleven occasions when staff called in sick. 'A planned closure is safer than an unexpected one,' he said. 'At least people will know in advance where to go.' He adds that ambulances will be stationed in town overnight.
+
+Local paramedic Sarah Quinn is deeply concerned. She says the drive to the regional hospital can take over an hour in winter, and that ambulances making that trip will be unavailable for other calls for up to three hours. 'In a small town, every minute counts,' she said. She believes the province should offer higher pay and housing support to attract staff to rural areas.
+
+Resident Joe Martin, who is seventy-eight, worries about his wife, who has a heart condition. 'We moved here to retire because of the hospital,' he said. Several residents have started a petition asking the provincial government to intervene, and it has already collected more than 4,000 signatures, nearly half the town's population.`},
+q:[
+["Why is the hospital closing its ER at night?",["It cannot find enough staff.","It is being renovated.","Too few patients visit at night.","The province ordered it."],"it cannot find enough doctors and nurses to staff overnight shifts","Staff shortages."],
+["Why does Martin Blake prefer a planned closure?",["People will know where to go in advance.","It saves more money.","Staff want more nights off.","It is required by provincial law for small hospitals."],"At least people will know in advance where to go","Know in advance."],
+["What is Sarah Quinn's concern about ambulances?",["Long trips will leave the town without ambulances for hours.","There are no ambulances in the town.","Ambulance drivers will lose their jobs.","Ambulances cannot safely drive on the highway in winter at all."],"will be unavailable for other calls for up to three hours","Unavailable for hours."],
+["What does Sarah Quinn suggest?",["Better incentives for rural health workers","Closing the hospital completely","Moving residents to the city","Building a faster road to the regional hospital"],"higher pay and housing support to attract staff to rural areas","Pay and housing support."],
+["What does the petition show?",["Strong local opposition to the closure","Support for the hospital's decision","Interest in a new clinic","Anger at the paramedics"],"nearly half the town's population","Nearly half the town signed."]
+],
+cm:{by:"Rev. Alan Moore",
+text:`I have served this community for twenty years, and I have rarely seen people so [[6]]. Mr. Blake is right that unexpected closures are dangerous, but a planned closure still leaves families like the Martins [[7]] at night.
+
+Ms. Quinn's point about ambulances is critical. If one ambulance is on the highway for [[8]] hours, who will respond to the next emergency?
+
+I support her call for better pay and housing for rural staff. The province must act before more small towns [[9]].
+
+I encourage everyone who has not yet done so to [[10]].`},
+b:[
+[["worried","relaxed","pleased","bored"],null,"The community is worried."],
+[["far from help","close to help","well protected","in the city"],"about 70 kilometres away","Far from emergency care."],
+[["three","seventy","eleven","twelve"],"for up to three hours","Three hours."],
+[["lose their hospitals","gain doctors","build stadiums","grow quickly"],null,"Before more towns lose hospitals."],
+[["sign the petition","move away","call the hospital","become paramedics"],"Several residents have started a petition","Sign the petition."]
+]
+});
+
+RS.p4.push({
+id:"p4-35", lv:"H", tt:"E-scooter sharing",
+art:{h:"One year of shared e-scooters: success or sidewalk clutter?",
+text:`A year ago, the city launched a pilot allowing two companies to rent electric scooters through smartphone apps. Riders can pick up a scooter anywhere in the downtown area and leave it at designated parking zones. More than 400,000 trips have been taken since the program began.
+
+Transportation manager Kim Nguyen calls the pilot a success. City surveys found that about one in four trips replaced a car or taxi ride, and many riders used scooters to reach subway stations. 'Scooters fill the gap between home and transit,' she said. She says the city will require companies to add more parking zones next year.
+
+Accessibility advocate David Brown sees serious problems. He is blind and says scooters left lying across sidewalks have become a daily hazard. Although riders are supposed to use designated zones, he says many simply abandon scooters wherever their trip ends. 'The rules exist on paper, but nobody enforces them,' he said. He wants companies to be fined each time a scooter blocks a sidewalk.
+
+Emergency physician Dr. Lisa Morgan reports that her hospital has treated dozens of scooter injuries, mostly head injuries and broken wrists. Many riders were not wearing helmets, which are not required under the pilot rules. She supports the program but wants helmets to be mandatory and speed limits lowered from 24 km/h to 20 km/h in busy areas.`},
+q:[
+["What did city surveys find?",["Some scooter trips replaced car trips.","Most riders were tourists.","Scooters reduced subway use.","Most riders said they would rather use bicycles."],"about one in four trips replaced a car or taxi ride","One in four replaced a car trip."],
+["What role do scooters play, according to Kim Nguyen?",["They connect people to public transit.","They replace buses.","They are mainly for tourists.","They reduce the need for downtown parking."],"Scooters fill the gap between home and transit","Link to transit."],
+["What is David Brown's main complaint?",["Scooters are left where they block walkers.","Scooters are too fast.","Scooters are too expensive.","The apps are not accessible to people who are blind."],"scooters left lying across sidewalks have become a daily hazard","Blocking sidewalks."],
+["What does David Brown want?",["Penalties for companies when scooters block sidewalks","A ban on scooters","More scooters downtown","Free scooter rides for people with disabilities in the city"],"He wants companies to be fined each time a scooter blocks a sidewalk","Fines."],
+["What does Dr. Morgan recommend?",["Required helmets and lower speed limits","Ending the program","Banning scooters at night","Training courses for all riders before their first trip"],"wants helmets to be mandatory and speed limits lowered","Helmets and slower speeds."]
+],
+cm:{by:"Marcus Webb",
+text:`I ride a scooter to the subway every morning, so I agree with Ms. Nguyen that they help people [[6]] public transit.
+
+But Mr. Brown's experience is unacceptable. Scooters left on sidewalks are dangerous, and the rules clearly aren't being [[7]].
+
+I also support Dr. Morgan's proposals. I always wear a helmet, but many riders don't, probably because they are [[8]] under the current rules.
+
+If the city adds more parking zones, [[9]] companies for blocked sidewalks, and requires helmets, I think the program could [[10]] long-term.`},
+b:[
+[["reach","avoid","replace","close"],"many riders used scooters to reach subway stations","Reach transit."],
+[["enforced","written","explained","ignored"],"nobody enforces them","Not enforced."],
+[["not required","too expensive","not sold","too heavy"],"which are not required under the pilot rules","Not required."],
+[["fines","pays","rewards","hires"],"fined each time a scooter blocks a sidewalk","Fines."],
+[["succeed","fail","close","shrink"],null,"Succeed."]
+]
+});
+
+RS.p4.push({
+id:"p4-36", lv:"H", tt:"Do zoos still belong?",
+art:{h:"Should modern cities still have zoos?",
+text:`As the city prepares to spend $80 million renovating its zoo, a debate has emerged over whether zoos should exist at all in the twenty-first century. The zoo attracts about a million visitors a year and is home to more than 3,000 animals.
+
+Zoo director Dr. Hannah Lee argues that modern zoos are very different from the zoos of the past. She says they play a key role in conservation, pointing out that the zoo breeds several endangered species, including the Vancouver Island marmot, and has released hundreds back into the wild. 'Many children form their first connection with wildlife here,' she said.
+
+Animal rights activist Jake Morrison believes zoos cannot provide a good life for many species. He points to elephants and polar bears, which travel long distances in the wild and often show signs of stress in captivity, such as pacing. 'Conservation work can be done in sanctuaries and in the wild, without keeping animals on display,' he said. He wants the renovation money spent on protecting natural habitats instead.
+
+Biology teacher Maria Santos takes a middle position. She brings her students to the zoo every year and says the educational value is real. However, she believes zoos should stop keeping species that clearly struggle in captivity, such as large marine mammals and elephants, and focus instead on smaller species that can thrive in enclosures and benefit from breeding programs.`},
+q:[
+["Why is the debate happening now?",["The city plans an expensive renovation.","The zoo is closing.","An animal escaped.","Visitor numbers have fallen sharply over the past year."],"As the city prepares to spend $80 million renovating its zoo","The renovation."],
+["What evidence does Dr. Lee give for the zoo's value?",["It has returned animals of rare species to nature.","It earns money for the city.","It has the largest collection in Canada.","It offers free admission to every school group in the region."],"has released hundreds back into the wild","Released endangered animals."],
+["What does Jake Morrison say about elephants and polar bears?",["They often seem stressed in zoos.","They are the most popular animals.","They should be bred more.","They adapt easily to captivity."],"often show signs of stress in captivity","Stress in captivity."],
+["What does Morrison want?",["Money spent on protecting wild habitats","More animals in the zoo","A larger elephant enclosure","Free school visits for every student in the city"],"He wants the renovation money spent on protecting natural habitats","Habitat protection."],
+["What is Maria Santos's position?",["Zoos should keep only species that do well there.","Zoos should close immediately.","Zoos should add more elephants.","Zoos have little real educational value for students."],"focus instead on smaller species that can thrive in enclosures","Keep species that thrive."]
+],
+cm:{by:"Robert Chen",
+text:`I grew up visiting this zoo, and Dr. Lee is right that it's where many children first [[6]] wildlife.
+
+Still, Mr. Morrison has a point. I've seen the polar bear [[7]] back and forth for hours, and it's hard to watch.
+
+Ms. Santos's view seems the most sensible. The zoo should [[8]] on animals that can live well in captivity and move large animals to [[9]].
+
+If the renovation follows her approach, I would happily [[10]] it.`},
+b:[
+[["connect with","learn to fear","feed","hunt"],"Many children form their first connection with wildlife here","Connect with."],
+[["pacing","sleeping","swimming","eating"],"such as pacing","Pacing."],
+[["focus","spend less","give up","vote"],"focus instead on smaller species","Focus."],
+[["sanctuaries","other zoos","private homes","circuses"],"Conservation work can be done in sanctuaries","Sanctuaries."],
+[["support","oppose","ignore","delay"],null,"Support."]
+]
+});
+
+RS.p4.push({
+id:"p4-37", lv:"H", tt:"A tax on sugary drinks",
+art:{h:"Would a tax on sugary drinks improve health?",
+text:`Newfoundland and Labrador introduced a tax of 20 cents per litre on sugary drinks in 2022, becoming the first Canadian province to do so. Health groups are now urging other provinces to follow, while the beverage industry is lobbying against the idea.
+
+Public health researcher Dr. Emily Watson supports the tax. She points to evidence from Mexico and the United Kingdom, where similar taxes led to measurable reductions in sugary drink purchases. In the UK, many companies reduced the sugar in their drinks to avoid the tax altogether. 'The goal isn't to raise money,' she said. 'It's to change what's on the shelves.'
+
+Convenience store owner Raj Patel opposes the tax. He says his customers simply buy their drinks in neighbouring provinces or switch to other sweet snacks. He also argues that the tax hits low-income families hardest, since they spend a larger share of their income on groceries. 'Taxing people doesn't teach them to eat better,' he said.
+
+Nutritionist Sophie Tremblay thinks the tax can help but only as part of a wider strategy. She notes that Newfoundland's revenue from the tax is supposed to fund healthy eating programs, but critics say it has mostly gone into general government spending. She believes the money should be clearly used for things like school nutrition programs and access to clean drinking water in remote communities.`},
+q:[
+["What makes Newfoundland and Labrador notable?",["It was the first province with this tax.","It has banned sugary drinks.","It has the lowest drink prices.","It refused to introduce the tax that other provinces use."],"becoming the first Canadian province to do so","The first province."],
+["What happened in the UK, according to Dr. Watson?",["Companies reduced sugar to avoid the tax.","People bought more sugary drinks.","The tax was cancelled.","Drink prices fell after the tax."],"many companies reduced the sugar in their drinks to avoid the tax","Companies reduced sugar."],
+["What is Dr. Watson's main goal?",["To change the products sold","To raise government revenue","To close convenience stores","To ban all soft drinks"],"It's to change what's on the shelves","Change what's sold."],
+["What is one of Raj Patel's arguments?",["The tax affects poorer families most.","The tax is too low to matter.","Drinks should be banned.","Stores should stop selling snacks."],"the tax hits low-income families hardest","Hits low-income families."],
+["What concern does Sophie Tremblay raise?",["The tax money may not be used for health.","The tax is too high.","Children drink too much water.","Convenience stores are closing because of the tax."],"it has mostly gone into general government spending","Money not used for health."]
+],
+cm:{by:"Karen Lewis",
+text:`I support Dr. Watson's view. The UK example shows that companies will [[6]] when there's a financial reason to do so.
+
+Mr. Patel's concern about low-income families is important, though. That's why Ms. Tremblay's point matters: the money must go back into [[7]] programs that help those same families.
+
+I was disappointed to learn that the revenue has mostly gone into [[8]]. If the government wants public support, it should be [[9]] about how every dollar is spent.
+
+As for people driving to other provinces, that would [[10]] if every province had the same tax.`},
+b:[
+[["change their recipes","raise their prices","close their factories","advertise more"],"many companies reduced the sugar in their drinks","Change recipes."],
+[["health and nutrition","sports","highway","small business support"],"used for things like school nutrition programs","Nutrition programs."],
+[["general spending","school programs","clean water","health research"],"it has mostly gone into general government spending","General spending."],
+[["transparent","secretive","careful","generous"],null,"Transparent."],
+[["stop","increase","double","begin"],"his customers simply buy their drinks in neighbouring provinces","It would stop."]
+]
+});
+
+RS.p4.push({
+id:"p4-38", lv:"M", tt:"Free museum Sundays",
+art:{h:"Should city museums be free on Sundays?",
+text:`City council is considering making its three public museums free every Sunday. Currently, adult admission costs $20.
+
+Councillor Ben Adams supports the idea. He says many families cannot afford to visit, and that free days in other cities have brought in new visitors, especially newcomers and low-income residents. 'Museums belong to everyone,' he said.
+
+Museum director Sandra Lee is worried about the cost. Sunday is the museums' busiest day, and admission fees pay for about a quarter of their budget. She suggests offering free admission one evening a week instead, when fewer paying visitors come.
+
+Parent Omar Hassan likes the idea but worries about crowds. He visited a free day at a museum in Montreal and said it was so busy that his children could hardly see the exhibits. He suggests requiring free timed tickets to control numbers.`},
+q:[
+["What is the council considering?",["Free museum entry on Sundays","Closing museums on Sundays","Raising admission prices","Building a new museum"],"making its three public museums free every Sunday","Free Sundays."],
+["Why does Councillor Adams support the idea?",["It could attract people who can't usually afford it.","It would save money.","Museums are empty on Sundays.","Tourists visiting the city have asked for it."],"many families cannot afford to visit","Affordability."],
+["Why is Sandra Lee concerned?",["Sunday brings in a lot of money.","Staff don't work on Sundays.","Sunday is the quietest day.","She wants higher prices."],"Sunday is the museums' busiest day","Sunday is busy and profitable."],
+["What does Sandra Lee suggest instead?",["A free evening each week","Free entry for children only","Closing one museum","A lower price on Sundays"],"offering free admission one evening a week","A free evening."],
+["What was Omar Hassan's experience in Montreal?",["The museum was very crowded.","The museum was closed.","Tickets were expensive.","His children were bored."],"it was so busy that his children could hardly see the exhibits","Very crowded."]
+],
+cm:{by:"Julia Park",
+text:`I love the idea of free Sundays. Like Councillor Adams, I believe museums should be open to [[6]].
+
+However, Ms. Lee's concern about the budget makes sense. If the museums lose a quarter of their money, they might have to [[7]] staff or exhibits.
+
+Mr. Hassan's idea of [[8]] tickets seems like a smart compromise. It would keep the museums from becoming too [[9]] while still letting families visit for [[10]].`},
+b:[
+[["everyone","tourists","experts","children only"],"Museums belong to everyone","Everyone."],
+[["cut","hire","add","celebrate"],"admission fees pay for about a quarter of their budget","Cut staff or exhibits."],
+[["timed","expensive","paper","annual"],"requiring free timed tickets","Timed tickets."],
+[["crowded","quiet","expensive","small"],"it was so busy","Crowded."],
+[["free","a fee","Sunday","twenty dollars"],null,"Visit for free."]
+]
+});
+
+RS.p4.push({
+id:"p4-39", lv:"M", tt:"Banning backyard fireworks",
+art:{h:"Should private fireworks be banned?",
+text:`After receiving hundreds of complaints last summer, the town council is considering a ban on fireworks set off by residents. Public fireworks shows on Canada Day and New Year's Eve would continue.
+
+Resident Karen White supports the ban. Her dog becomes so frightened during fireworks that he hides for hours and refuses to eat. She adds that fireworks are often set off late at night, long after the permitted hours. 'It's not one night a year anymore. It's every weekend,' she said.
+
+Store owner Tom Singh, who sells fireworks, opposes the ban. He says most families use them responsibly and only on holidays. He believes the problem is a small number of people breaking the rules and that the town should enforce existing time limits.
+
+Fire chief Laura Chen supports stricter rules. Last year, her department responded to six fires caused by fireworks, including one that damaged a garage. She recommends allowing private fireworks only on Victoria Day, Canada Day and New Year's Eve.`},
+q:[
+["What would continue under the proposed ban?",["Public fireworks shows","Private fireworks on weekends","Fireworks sales","Late-night fireworks"],"Public fireworks shows on Canada Day and New Year's Eve would continue","Public shows."],
+["Why does Karen White support the ban?",["Fireworks upset her pet and happen too often.","She dislikes Canada Day.","Fireworks damaged her house.","She owns a store that sells fireworks."],"Her dog becomes so frightened during fireworks","Her dog and frequency."],
+["What does Tom Singh think is the real problem?",["A few people ignore the rules.","Fireworks are too cheap.","Stores sell too many fireworks.","Dogs are too sensitive."],"the problem is a small number of people breaking the rules","A few rule-breakers."],
+["What happened last year according to Laura Chen?",["Fireworks caused several fires.","No fires were reported.","A store burned down.","A dog was injured by fireworks last summer."],"her department responded to six fires caused by fireworks","Six fires."],
+["What does Laura Chen recommend?",["Allowing private fireworks only on certain holidays","A complete ban","No changes","Allowing private fireworks every weekend in summer"],"allowing private fireworks only on Victoria Day, Canada Day and New Year's Eve","Only on certain holidays."]
+],
+cm:{by:"Peter Evans",
+text:`I have two young children, and fireworks at midnight keep them [[6]]. I agree with Ms. White that it happens far too [[7]].
+
+Mr. Singh may be right that most families are responsible, but the town clearly isn't [[8]] the existing rules.
+
+I think Chief Chen's plan is the best solution. Allowing fireworks on just [[9]] holidays would protect pets and prevent [[10]] while still letting families celebrate.`},
+b:[
+[["awake","happy","safe","hungry"],"fireworks are often set off late at night","Awake."],
+[["often","rarely","quietly","early"],"It's every weekend","Often."],
+[["enforcing","writing","reading","changing"],"the town should enforce existing time limits","Enforcing."],
+[["three","six","two","every"],"Victoria Day, Canada Day and New Year's Eve","Three holidays."],
+[["fires","celebrations","sales","holidays"],"six fires caused by fireworks","Fires."]
+]
+});
+
+RS.p4.push({
+id:"p4-40", lv:"M", tt:"Renaming a street",
+art:{h:"Should Dundas Street get a new name?",
+text:`A committee has recommended renaming a major street named after Henry Dundas, an eighteenth-century British politician. Critics say Dundas delayed the abolition of the slave trade, and that a street should not honour him.
+
+Committee member Grace Thompson says the change is about values. 'Street names tell us who a community chooses to honour,' she said. She adds that the committee held public consultations and that most participants supported a new name.
+
+Business owner Mike Rossi, whose shop is on the street, opposes the change. He says businesses would have to pay to update signs, business cards and websites. He also worries customers would be confused. 'I support learning about history, but this isn't the right way,' he said.
+
+Historian Dr. Nadia Ali suggests a different approach. Instead of simply removing the name, she recommends adding signs that explain who Dundas was and why his legacy is controversial. However, she says she would accept a new name if the community strongly prefers it.`},
+q:[
+["Why do critics object to the name?",["Dundas delayed ending the slave trade.","Dundas was not Canadian.","The name is too long.","Dundas never visited the city named after him."],"Dundas delayed the abolition of the slave trade","He delayed abolition."],
+["What does Grace Thompson say about street names?",["They show who a community wants to honour.","They should never change.","They should be chosen by businesses.","They often confuse visitors who are new to the city."],"Street names tell us who a community chooses to honour","Who a community honours."],
+["What is one of Mike Rossi's concerns?",["The cost for businesses","The history of Dundas","The committee's members","Traffic on the street"],"businesses would have to pay to update signs","Cost."],
+["What does Dr. Ali recommend?",["Adding information about Dundas","Renaming every street","Ignoring the issue","Holding another public vote on the name"],"adding signs that explain who Dundas was","Explanatory signs."],
+["When would Dr. Ali accept a new name?",["If the community strongly wants it","Never","Only if businesses agree","If the city pays for all the new signs"],"she would accept a new name if the community strongly prefers it","If the community prefers it."]
+],
+cm:{by:"Samuel Okafor",
+text:`I support Ms. Thompson's view. A street name is a kind of [[6]], and we should choose carefully who we honour.
+
+I understand Mr. Rossi's worry about [[7]], but perhaps the city could help businesses pay for new signs.
+
+Dr. Ali's idea of adding [[8]] is interesting, but I think it would be better to do both: rename the street and explain [[9]] the name was changed. That way, we [[10]] history rather than hiding it.`},
+b:[
+[["honour","map","business","road"],"who a community chooses to honour","An honour."],
+[["costs","history","traffic","tourists"],"businesses would have to pay to update signs","Costs."],
+[["signs","streets","shops","names"],"adding signs that explain who Dundas was","Signs."],
+[["why","where","when","how much"],null,"Why it was changed."],
+[["learn from","forget","sell","ignore"],null,"Learn from history."]
+]
+});
+
+RS.p4.push({
+id:"p4-41", lv:"M", tt:"Closing a library branch",
+art:{h:"Plan to close small library branch sparks protest",
+text:`The public library board has proposed closing the Maple Street branch, one of its smallest locations, to save about $400,000 a year. The money would be used to extend hours at the larger central library.
+
+Library CEO Janet Moore says the decision is based on usage. Maple Street has the fewest visitors of any branch, and most of its users live within a short bus ride of the central library. She says longer hours at the central branch would benefit far more people.
+
+Resident Ahmed Rahimi strongly disagrees. He is a senior who doesn't drive, and he visits the branch several times a week to read newspapers and use the computers. 'For people like me, the bus trip is not short,' he said. He also points out that the branch hosts a popular English conversation group for newcomers.
+
+Parent Lisa Tran suggests a compromise. She wants the library to keep Maple Street open but reduce its hours, perhaps opening only three days a week. She believes this would still save money while keeping a local space for children and seniors.`},
+q:[
+["Why does the board want to close the branch?",["To save money","Because the building is unsafe","To build apartments","Because staff quit"],"to save about $400,000 a year","To save money."],
+["What would the savings be used for?",["Longer hours at the central library","New computers at Maple Street","A new branch","Pay raises for staff at all branches"],"extend hours at the larger central library","Longer central hours."],
+["Why does Janet Moore support the closure?",["The branch has the lowest number of visitors.","The central library is closing.","Residents asked for it.","The old branch building is too expensive to heat."],"Maple Street has the fewest visitors of any branch","Fewest visitors."],
+["What does Ahmed Rahimi use the branch for?",["Reading newspapers and using computers","Borrowing movies only","Teaching English","Meeting his children and grandchildren there"],"to read newspapers and use the computers","Newspapers and computers."],
+["What compromise does Lisa Tran suggest?",["Keeping the branch open fewer days","Closing the central library","Moving the branch","Charging a fee for library cards at the branch"],"reduce its hours, perhaps opening only three days a week","Fewer days."]
+],
+cm:{by:"Rachel Kim",
+text:`I volunteer with the English conversation group at Maple Street, so this issue matters to me. Like Mr. Rahimi, many of our participants don't [[6]], and the central library is hard for them to reach.
+
+Ms. Moore's numbers may be correct, but a library isn't only about [[7]]. It's also a community space.
+
+I think Ms. Tran's idea is a fair [[8]]. Opening three days a week would save [[9]] while keeping the branch available for [[10]] and seniors.`},
+b:[
+[["drive","read","speak","study"],"He is a senior who doesn't drive","Don't drive."],
+[["visitor numbers","books","computers","money"],"Maple Street has the fewest visitors","Visitor numbers."],
+[["compromise","mistake","closure","expense"],null,"A compromise."],
+[["money","time","books","space"],"would still save money","Money."],
+[["children","tourists","staff","drivers"],"a local space for children and seniors","Children."]
+]
+});
+
+RS.p4.push({
+id:"p4-42", lv:"M", tt:"Pay-what-you-can café",
+art:{h:"A café where customers choose the price",
+text:`A new café in Hamilton lets customers pay whatever they can afford for a meal. A suggested price is posted, but people may pay less, more, or volunteer for an hour instead. The owners say the goal is to make healthy food available to everyone.
+
+Co-owner Maria Lopez says the model is working so far. About 70 percent of customers pay the suggested price or more, which helps cover those who pay less. 'We see business people and people who are homeless eating at the same tables,' she said.
+
+Local restaurant owner Frank Dimarco is skeptical. He believes the café will struggle once the excitement fades, and he worries some people will take advantage of the system. 'Good intentions don't pay the rent,' he said.
+
+Social worker Diane Cole supports the café. She says it gives people dignity, because customers who cannot pay are not singled out. She adds that the volunteer option lets people contribute and feel part of the community.`},
+q:[
+["What is special about the café?",["Customers decide how much to pay.","All meals are free.","Only volunteers can eat there.","Prices change daily."],"lets customers pay whatever they can afford","Customers choose the price."],
+["What other option do customers have?",["To volunteer instead of paying","To bring their own food","To pay later","To eat for free on Mondays"],"volunteer for an hour instead","Volunteer."],
+["How does the café cover its costs?",["Many customers pay the suggested price or more.","It receives government money.","Staff are unpaid.","It charges tourists more than local customers."],"About 70 percent of customers pay the suggested price or more","Most pay enough."],
+["What does Frank Dimarco predict?",["The café may have trouble later.","The café will expand quickly.","Prices will rise.","Other restaurants will copy it."],"the café will struggle once the excitement fades","Struggle later."],
+["Why does Diane Cole support the café?",["It treats customers who can't pay with respect.","It is the cheapest café.","It hires social workers.","It offers job training to people who volunteer there."],"it gives people dignity","Dignity."]
+],
+cm:{by:"Jenny Morris",
+text:`I've eaten at this café several times, and like Ms. Lopez, I've seen people from very different [[6]] sharing tables. It's wonderful.
+
+Mr. Dimarco may be right that some people will [[7]] the system, but that seems to be a small risk, since most customers pay [[8]].
+
+I especially like the volunteer option Ms. Cole mentioned. It lets people who can't pay still [[9]]. I hope this café [[10]] for many years.`},
+b:[
+[["backgrounds","restaurants","countries","jobs"],"business people and people who are homeless","Backgrounds."],
+[["take advantage of","support","improve","complain about"],"some people will take advantage of the system","Take advantage."],
+[["enough","nothing","late","cash"],"About 70 percent of customers pay the suggested price or more","Enough."],
+[["contribute","complain","leave","cook"],"lets people contribute","Contribute."],
+[["succeeds","struggles","closes","moves"],null,"Succeeds."]
+]
+});
+
+RS.p4.push({
+id:"p4-43", lv:"M", tt:"A neighbourhood dog park",
+art:{h:"Residents divided over proposed dog park",
+text:`The city plans to turn part of Riverside Park into a fenced area where dogs can run off-leash. The area would be about the size of a soccer field and include benches and water fountains.
+
+Dog owner Kevin Brooks welcomes the plan. He says dogs need space to run, and that many owners currently let their dogs off-leash illegally in other parts of the park. 'A proper area would keep everyone safer,' he said.
+
+Resident Martha Green, who lives next to the park, is worried about noise. She says barking starts early in the morning and could continue all day. She would prefer the dog park to be placed farther from homes.
+
+City parks manager Ravi Singh says the location was chosen because it is close to parking and away from the children's playground. However, he says the city will consider planting trees along the fence to reduce noise, and limiting hours to 7 a.m. to 9 p.m.`},
+q:[
+["What is the city planning?",["A fenced area for dogs","A new soccer field","A children's playground","A parking lot"],"a fenced area where dogs can run off-leash","A dog park."],
+["What does Kevin Brooks say owners currently do?",["Let dogs off-leash where it's not allowed","Keep dogs at home","Drive to other cities","Use the soccer field next to the playground"],"many owners currently let their dogs off-leash illegally","Off-leash illegally."],
+["What is Martha Green's concern?",["Noise from barking","Traffic","Dog waste","The cost of building it"],"She says barking starts early in the morning","Noise."],
+["Why was the location chosen?",["It is near parking and away from the playground.","It is the cheapest land.","Residents voted for it.","It already has many large trees."],"close to parking and away from the children's playground","Parking and away from playground."],
+["What might the city do to reduce noise?",["Plant trees and limit hours","Ban large dogs","Move the park","Build a tall wall around the park"],"planting trees along the fence to reduce noise, and limiting hours","Trees and hours."]
+],
+cm:{by:"Susan Lee",
+text:`I have a young dog with lots of energy, so I agree with Mr. Brooks that dogs need space to [[6]].
+
+However, I can understand Ms. Green's concern. Nobody wants to hear [[7]] at six in the morning.
+
+Mr. Singh's suggestions sound reasonable. Trees would [[8]] the noise, and closing at [[9]] p.m. would give neighbours quiet evenings. I think this plan could [[10]] both owners and neighbours.`},
+b:[
+[["run","sleep","eat","bark"],"dogs need space to run","Run."],
+[["barking","music","traffic","children"],"barking starts early in the morning","Barking."],
+[["reduce","increase","create","ignore"],"planting trees along the fence to reduce noise","Reduce."],
+[["9","7","6","11"],"limiting hours to 7 a.m. to 9 p.m.","9 p.m."],
+[["satisfy","annoy","confuse","surprise"],null,"Satisfy both."]
+]
+});
+
+RS.p4.push({
+id:"p4-44", lv:"M", tt:"Cash-free buses",
+art:{h:"Transit system plans to stop accepting cash",
+text:`The regional transit system plans to stop accepting cash on buses next year. Riders would pay with transit cards, debit or credit cards, or phones.
+
+Transit manager Paul Chen says cash causes delays because drivers must wait while riders count coins. He also says handling cash costs the system about $2 million a year for collection and security. 'Most riders already pay electronically,' he said.
+
+Advocate Linda Morales says the change would hurt people without bank accounts, including some seniors and people experiencing homelessness. 'Not everyone has a card or a phone,' she said. She wants cash to remain an option.
+
+Mr. Chen responds that transit cards will be sold with cash at hundreds of stores and pharmacies. However, Ms. Morales points out that many of these stores are closed at night, when some shift workers need to travel.`},
+q:[
+["What change is planned?",["Buses will stop accepting cash.","Fares will increase.","Buses will run all night.","Transit cards will be free."],"stop accepting cash on buses","No cash."],
+["What problem does cash cause, according to Paul Chen?",["It slows down boarding.","It is often fake.","It is too heavy.","Drivers often lose some of it."],"drivers must wait while riders count coins","Delays."],
+["How much does handling cash cost?",["About $2 million a year","About $200 a year","Nothing","About $20 million a year"],"about $2 million a year","$2 million."],
+["Who would be most affected, according to Linda Morales?",["People without bank accounts","Students","Drivers","Tourists visiting the region"],"hurt people without bank accounts","People without bank accounts."],
+["What problem does Morales see with buying cards in stores?",["Many stores are closed at night.","Stores charge extra.","Cards are hard to use.","Most of the stores are too far away."],"many of these stores are closed at night","Closed at night."]
+],
+cm:{by:"Tony Nguyen",
+text:`I pay with my phone, so I agree with Mr. Chen that boarding would be [[6]] without cash.
+
+But Ms. Morales raises an important point. My grandmother doesn't have a [[7]], and she always pays with coins.
+
+Mr. Chen says cards will be sold in stores, but that won't help night-shift workers if stores are [[8]]. Perhaps machines that sell cards for cash could be placed at [[9]] stations. That way, no one would be [[10]].`},
+b:[
+[["faster","slower","cheaper","free"],"cash causes delays","Faster."],
+[["bank card","bus pass","phone number","car"],"Not everyone has a card or a phone","A bank card."],
+[["closed","open","busy","empty"],"many of these stores are closed at night","Closed."],
+[["major","small","closed","private"],null,"Major stations."],
+[["left behind","paid","late","early"],null,"No one left behind."]
+]
+});
+
+RS.p4.push({
+id:"p4-45", lv:"M", tt:"Required summer reading",
+art:{h:"Should summer reading be required?",
+text:`A school board is considering requiring students in grades 3 to 8 to read at least five books over the summer. Students would write a short report on each book when school starts.
+
+Teacher Anna Scott supports the plan. She says many students forget reading skills over the summer, and teachers spend weeks reviewing in September. 'Reading just twenty minutes a day can prevent that,' she said.
+
+Parent David Kim disagrees. He says summer should be a break, and that forcing children to read may make them dislike books. He prefers voluntary programs, such as the public library's summer reading club, which offers prizes.
+
+Librarian Carol Martin agrees with Mr. Kim that choice is important. She says children read more when they can pick their own books. She suggests that the board encourage reading but let children choose any books they like, including comics and graphic novels.`},
+q:[
+["What would students have to do?",["Read five books and write reports","Attend summer school","Visit the library weekly","Read one book of their choice each month"],"read at least five books over the summer","Five books and reports."],
+["Why does Anna Scott support the plan?",["Students lose reading skills over the summer.","Students have too much free time.","Parents asked for it.","Books are cheap at the public library sale."],"many students forget reading skills over the summer","They forget skills."],
+["What is David Kim's concern?",["Forced reading may make children dislike books.","Books are expensive.","Reports are too long.","Libraries are closed for much of the summer."],"forcing children to read may make them dislike books","They may dislike books."],
+["What does David Kim prefer?",["Voluntary reading programs","No reading at all","More homework","Longer school days in September"],"He prefers voluntary programs","Voluntary programs."],
+["What does Carol Martin suggest?",["Letting children choose their books","Requiring ten books","Banning comics","Cancelling the library's summer club"],"let children choose any books they like","Children choose."]
+],
+cm:{by:"Omar Farah",
+text:`I'm a parent of two readers, and I agree with Ms. Scott that reading over the summer [[6]]. My kids read every night, and they start school without needing much [[7]].
+
+Still, Mr. Kim makes a good point. My son hated reading when it felt like [[8]].
+
+Ms. Martin's suggestion seems best. Once my son could choose [[9]], he started reading every day. The board should encourage reading, not [[10]] it.`},
+b:[
+[["helps","hurts","wastes time","is too hard"],"Reading just twenty minutes a day can prevent that","It helps."],
+[["review","vacation","sleep","money"],"teachers spend weeks reviewing in September","Review."],
+[["homework","a game","a prize","fun"],null,"Like homework."],
+[["comics","reports","tests","schools"],"including comics and graphic novels","Comics."],
+[["force","support","celebrate","allow"],null,"Not force it."]
+]
+});
+
+RS.p4.push({
+id:"p4-46", lv:"M", tt:"Standing desks in class",
+art:{h:"Should classrooms have standing desks?",
+text:`An elementary school has replaced regular desks with standing desks in two classrooms as a trial. Students can stand or use tall stools during lessons.
+
+Teacher Mark Brown says students are more focused. He has noticed fewer students fidgeting and more participation in discussions. 'Kids aren't made to sit still for six hours,' he said.
+
+Parent Julie Chen worries about cost. Standing desks cost about three times as much as regular desks, and she thinks the money could be spent on books or technology instead.
+
+Physiotherapist Dr. Amir Khan says standing desks can reduce the time children spend sitting, which is good for health. However, he warns that standing all day is also tiring, and students should be able to switch between sitting and standing.`},
+q:[
+["What is the school testing?",["Standing desks in two classrooms","New books","Longer recess","Laptops for students in two classes"],"replaced regular desks with standing desks in two classrooms","Standing desks."],
+["What has Mark Brown noticed?",["Students are more focused.","Students are more tired.","Students talk less.","Students want regular desks."],"students are more focused","More focused."],
+["What is Julie Chen's concern?",["The cost of the desks","Student safety","Noise in class","Students' posture"],"Standing desks cost about three times as much","Cost."],
+["What health benefit does Dr. Khan mention?",["Less time sitting","Better eyesight","Stronger arms","Better sleep"],"reduce the time children spend sitting","Less sitting."],
+["What does Dr. Khan warn about?",["Standing all day can be tiring.","Desks are too tall.","Stools are dangerous.","Children will fall asleep."],"standing all day is also tiring","Tiring."]
+],
+cm:{by:"Sara Ahmed",
+text:`My daughter is in one of the trial classrooms, and she says she [[6]] much better now.
+
+I understand Ms. Chen's concern about the [[7]], but children's health and focus are important too.
+
+Dr. Khan's advice is wise. Students should be able to sit when they get [[8]]. I hope the school continues the trial and [[9]] students and parents what they think before [[10]] more desks.`},
+b:[
+[["concentrates","sleeps","eats","talks"],"students are more focused","Concentrates."],
+[["cost","noise","colour","height"],"Standing desks cost about three times as much","Cost."],
+[["tired","bored","hungry","cold"],"standing all day is also tiring","Tired."],
+[["asks","tells","pays","sends"],null,"Asks."],
+[["buying","selling","breaking","painting"],null,"Buying."]
+]
+});
+
+RS.p4.push({
+id:"p4-47", lv:"E", tt:"A new playground",
+art:{h:"New playground for Oak Park",
+text:`The city wants to build a new playground in Oak Park. The old one is more than thirty years old, and some parts are broken.
+
+Parent Emma Jones is very happy. She says her children have nowhere safe to play. 'The old slide is broken, and the swings are rusty,' she said.
+
+Neighbour Bob Smith is worried about noise. His house is next to the park. He wants the playground to be built on the other side of the park.
+
+The city says the new playground will open in June. It will have swings, slides and a small splash pad for hot days.`},
+q:[
+["Why does the city want a new playground?",["The old one is old and broken.","There is no park.","Children asked for it.","It wants to sell the park."],"The old one is more than thirty years old, and some parts are broken","Old and broken."],
+["How does Emma Jones feel?",["Happy","Angry","Worried","Bored"],"Parent Emma Jones is very happy","Happy."],
+["What is broken at the old playground?",["The slide","The fence","The benches","The splash pad"],"The old slide is broken","The slide."],
+["What does Bob Smith want?",["The playground on the other side of the park","No playground","A bigger playground","A splash pad closer to his house"],"He wants the playground to be built on the other side of the park","The other side."],
+["When will the playground open?",["In June","In May","Next year","In winter"],"the new playground will open in June","June."]
+],
+cm:{by:"Lisa Park",
+text:`I agree with Ms. Jones. The old playground is not [[6]] for children.
+
+I understand Mr. Smith's worry about [[7]], but children need a place to play.
+
+I'm excited about the [[8]]. It will be great on [[9]] days. I hope the playground opens on time in [[10]].`},
+b:[
+[["safe","fun","new","big"],"her children have nowhere safe to play","Safe."],
+[["noise","money","dogs","cars"],"Neighbour Bob Smith is worried about noise","Noise."],
+[["splash pad","swings","rust","slide"],"a small splash pad for hot days","Splash pad."],
+[["hot","cold","rainy","snowy"],"for hot days","Hot."],
+[["June","May","July","winter"],"will open in June","June."]
+]
+});
+
+RS.p4.push({
+id:"p4-48", lv:"E", tt:"Sunday store hours",
+art:{h:"Should stores open earlier on Sundays?",
+text:`In our town, stores can only open at noon on Sundays. The town council wants to change the rule so stores can open at 9 a.m.
+
+Store owner Paul Lee likes the idea. He says many customers want to shop in the morning. 'I lose business every Sunday,' he said.
+
+Worker Maria Silva does not like the idea. She works at a grocery store and wants to spend Sunday mornings with her family.
+
+The mayor says workers will not have to work on Sunday mornings if they don't want to. The council will vote next month.`},
+q:[
+["What time do stores open on Sundays now?",["At noon","At 9 a.m.","At 8 a.m.","They are closed"],"stores can only open at noon on Sundays","Noon."],
+["What does the council want?",["Stores to open at 9 a.m.","Stores to close on Sundays","Stores to open at night","Longer lunch breaks"],"stores can open at 9 a.m.","9 a.m."],
+["Why does Paul Lee like the idea?",["Customers want to shop in the morning.","He wants to rest.","His workers asked for it.","Rent is cheaper on Sundays."],"many customers want to shop in the morning","Customers want mornings."],
+["Why doesn't Maria Silva like the idea?",["She wants family time on Sunday mornings.","She works at night.","She owns a store.","She doesn't shop on Sundays."],"wants to spend Sunday mornings with her family","Family time."],
+["What does the mayor promise?",["Workers can say no to Sunday mornings.","Workers will get more money.","Stores will close early.","The vote next month is cancelled."],"workers will not have to work on Sunday mornings if they don't want to","Workers can choose."]
+],
+cm:{by:"Ken Wong",
+text:`I agree with Mr. Lee. I often want to [[6]] on Sunday mornings, but the stores are [[7]].
+
+I also understand Ms. Silva. Family time is [[8]].
+
+I'm happy the mayor says workers can [[9]]. I hope the council votes [[10]] next month.`},
+b:[
+[["shop","sleep","work","cook"],"many customers want to shop in the morning","Shop."],
+[["closed","open","busy","new"],"stores can only open at noon","Closed."],
+[["important","boring","expensive","short"],null,"Important."],
+[["choose","vote","shop","move"],"if they don't want to","Choose."],
+[["yes","no","late","twice"],null,"Yes."]
+]
+});
+
+RS.p4.push({
+id:"p4-49", lv:"E", tt:"Free school lunch",
+art:{h:"Free lunch for all students?",
+text:`The school board wants to give free lunch to every student in its elementary schools. The program would start in September.
+
+Principal Janet Hall supports the plan. She says some students come to school hungry and cannot focus in class. 'Hungry children can't learn,' she said.
+
+Parent Tom Baker is worried about the cost. He thinks only families who need help should get free lunch.
+
+Student Lily Chen, age 11, likes the idea. She says eating together at lunch helps students make friends.`},
+q:[
+["What does the school board want?",["Free lunch for all elementary students","A new school","Longer lunch time","Healthier snacks for all students"],"give free lunch to every student in its elementary schools","Free lunch."],
+["When would the program start?",["In September","In June","Next week","In January"],"The program would start in September","September."],
+["Why does Janet Hall support the plan?",["Hungry children cannot focus.","Lunch is cheap.","Parents asked for it.","It saves parents time."],"some students come to school hungry and cannot focus","Hungry kids can't focus."],
+["What does Tom Baker think?",["Only families in need should get it.","Everyone should get it.","Lunch should be longer.","Schools should close at noon on Fridays."],"only families who need help should get free lunch","Only those in need."],
+["What does Lily Chen like about the idea?",["Eating together helps make friends.","The food is tasty.","She doesn't like cooking.","It is free for her family."],"eating together at lunch helps students make friends","Making friends."]
+],
+cm:{by:"Maria Lopez",
+text:`I agree with Principal Hall. Children cannot [[6]] when they are hungry.
+
+Mr. Baker is worried about the [[7]], but if only some children get free lunch, they may feel [[8]].
+
+I like Lily's point too. Lunch is a good time to [[9]]. I hope the program starts in [[10]].`},
+b:[
+[["learn","sleep","play","run"],"Hungry children can't learn","Learn."],
+[["cost","food","time","teachers"],"Parent Tom Baker is worried about the cost","Cost."],
+[["different","happy","hungry","strong"],null,"Different."],
+[["make friends","study","sleep","work"],"eating together at lunch helps students make friends","Make friends."],
+[["September","June","January","March"],"The program would start in September","September."]
+]
+});
+
+RS.p4.push({
+id:"p4-50", lv:"E", tt:"Clearing snow from sidewalks",
+art:{h:"Who should clear snow from sidewalks?",
+text:`In our city, homeowners must clear the snow from the sidewalk in front of their house. The city council wants to change this. The city would clear all sidewalks instead.
+
+Senior Helen Brown supports the change. She is 80 years old and finds it very hard to shovel snow. 'I worry about falling,' she said.
+
+Homeowner Jack White does not agree. He says the change would cost too much money, and taxes would go up.
+
+The city says clearing all sidewalks would cost about $5 million a year. The council will decide next week.`},
+q:[
+["Who clears sidewalks now?",["Homeowners","The city","Students","Nobody"],"homeowners must clear the snow from the sidewalk","Homeowners."],
+["What does the council want?",["The city to clear all sidewalks","Homeowners to clear more","No snow clearing","Salt on the roads only"],"The city would clear all sidewalks instead","The city clears them."],
+["Why does Helen Brown support the change?",["Shovelling is hard for her.","She likes snow.","She works for the city.","She has no sidewalk."],"finds it very hard to shovel snow","It's hard for her."],
+["What is Jack White worried about?",["Higher taxes","Falling","Snow","Noise"],"taxes would go up","Taxes."],
+["How much would the change cost?",["About $5 million a year","About $5,000","About $50 million","Nothing extra for homeowners"],"about $5 million a year","$5 million."]
+],
+cm:{by:"Nick Adams",
+text:`My mother is also elderly, so I agree with Ms. Brown. Shovelling snow can be [[6]] for older people.
+
+Mr. White is right that it will cost [[7]], but safety is more important.
+
+Maybe the city could help only [[8]] and people with disabilities. That would cost [[9]] money. I hope the council makes a good decision [[10]].`},
+b:[
+[["dangerous","fun","easy","cheap"],"I worry about falling","Dangerous."],
+[["money","time","snow","nothing"],"the change would cost too much money","Money."],
+[["seniors","children","students","drivers"],null,"Seniors."],
+[["less","more","no","extra"],null,"Less money."],
+[["next week","next year","tomorrow","in summer"],"The council will decide next week","Next week."]
 ]
 });

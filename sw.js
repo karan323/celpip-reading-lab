@@ -1,5 +1,5 @@
-const C='reading-lab-muge3oku';
-const CORE=['./','index.html','data.js?v=muge3oku','app.js?v=muge3oku','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png','icon-180.png'];
+const C='reading-lab-mugfi5os';
+const CORE=['./','index.html','data.js?v=mugfi5os','app.js?v=mugfi5os','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png','icon-180.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==C).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
 self.addEventListener('fetch',e=>{
